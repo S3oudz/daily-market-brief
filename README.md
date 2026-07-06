@@ -1,0 +1,177 @@
+# 📊 Daily Market Brief — Dashboard
+
+**Latest edition: 2026-07-04** · updated 2026-07-07 00:13 GST · auto-published by the pipeline on DESKTOP-H3M86AT
+
+---
+
+# Daily Market Brief — Saturday, July 4, 2026
+
+*Recap of the Thursday, July 2 session. US markets were closed Friday July 3 (Independence Day observed) and Saturday July 4.*
+*Read-only briefing — explains the market and flags "what you could do" as fact-based reasoning you can disagree with. Not financial advice; places no trades.*
+*Prices from the data bundle (Alpaca/Coinbase/Yahoo); narrative from live sources cited inline.*
+
+---
+
+## 1. Market Pulse
+
+| Index (proxy) | Close | Day |
+|---|---|---|
+| S&P 500 (SPY) | 744.07 | **−0.21%** |
+| Nasdaq-100 (QQQ) | 712.53 | **−1.76%** |
+| Dow 30 (DIA) | 527.76 | **+1.03%** |
+| Russell 2000 (IWM) | 297.54 | **−0.62%** |
+
+The Dow rose to a **record close (~52,900 on the index itself, +1.1%)** while the Nasdaq sagged — a rare split where blue-chip "old economy" names win and big tech loses on the same day. ([CNBC](https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html))
+
+💡 *What it means:* When the Dow is green but the Nasdaq is red, it's usually **rotation**, not fear — money isn't leaving the market, it's moving *within* it, from expensive tech into cheaper, steadier names.
+
+➡️ *What you could do:* Treat a −1.8% Nasdaq day with the Dow at record highs as a **rotation signal, not a crash signal** — the two react very differently. If your holdings are tech-heavy, this is the kind of day that tells you how concentrated you actually are.
+
+---
+
+## 2. Sentiment Gauge
+
+- **VIX: 15.81 (−2.11%)** — low and *falling*.
+- **AAII bulls: 31.4%**, down a steep 13.6 points on the week and below the 37.5% historical average for the 6th time in 7 weeks. ([AAII](https://www.aaii.com/sentimentsurvey))
+
+**Verdict: calm tape, cautious crowd.** Fear gauge is relaxed even as retail optimism drains — a market that's grinding, not panicking.
+
+💡 *What it means:* VIX under ~16 means options traders expect small daily moves. Falling bullishness with a calm VIX = people are *cautious but not scared* — they're trimming risk quietly, not dumping.
+
+➡️ *What you could do:* A sub-16 VIX makes protective hedges (puts/insurance) relatively **cheap** — if you've been meaning to hedge a big winner, calm is when insurance is on sale, not after a spike.
+
+---
+
+## 3. The story that matters most
+
+**The "Great Rotation" accelerated, triggered by a soft June jobs report.** June nonfarm payrolls came in weaker than expected; instead of sparking a broad selloff, it pushed the Dow to record highs while investors dumped semiconductors to lock in a huge first-half run. ([CNBC](https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html), [Kavout](https://www.kavout.com/market-lens/what-triggered-the-recent-semiconductor-sell-off))
+
+💡 *What it means:* A weak jobs report cuts two ways — it's bad for the economy but *good* for rate-cut hopes, which favors steady dividend/value names (the Dow) over richly-priced growth (semis). Add profit-taking after chips ran **+80% in H1** and you get exactly this split.
+
+➡️ *What you could do:* Watch whether this is a one-week rotation or a regime change. The tell is **breadth**: if the Dow keeps making highs while the Nasdaq stalls for several sessions, the "buy every tech dip" playbook of the last year is the thing being challenged.
+
+---
+
+## 4. Big corporate event
+
+**Micron (MU) −5.7% to $974** (down >10% intraday at points) was the day's marquee casualty — despite still being **up ~260% year-to-date**. Commentators framed it as the market waking up to AI's "memory tax." ([Fortune](https://fortune.com/2026/06/25/why-did-stock-market-tech-selloff-stop-micron-technology/))
+
+💡 *What it means:* A stock can fall hard and still be a massive YTD winner. A −10% day on a +260% year is **profit-taking**, not a broken story — holders banking gains, not the business collapsing.
+
+➡️ *What you could do:* When a leader drops on no bad company news, separate **"the business changed"** from **"the price got ahead of itself."** Micron's move looks like the latter — a valuation reset, not a fundamentals break. That distinction is the whole game.
+
+---
+
+## 5. Crypto
+
+- **BTC: $62,525 (+1.4% / 24h)**
+- **ETH: $1,757 (+2.4% / 24h)**
+
+Crypto rose while tech fell — a mild "risk-on in one corner, risk-off in another" split.
+
+💡 *What it means:* Bitcoin acting independently of the Nasdaq (which it often tracks) suggests crypto-specific buying, not a broad risk stampede.
+
+➡️ *What you could do:* Note the **IBIT ETF closed +2.3%** (section 8) — the regulated, brokerage-account way to get the same exposure without a crypto wallet, if that's cleaner for you.
+
+---
+
+## 6. Commodities
+
+*(Tracked via ETF proxies — GLD/SLV/USO — which shadow the underlying metals/oil.)*
+
+- **Gold (GLD): +2.1%** · **Silver (SLV): +2.7%** · **Oil WTI (USO): +0.7%**
+
+Precious metals were the day's quiet winners; silver outpaced gold.
+
+💡 *What it means:* Gold and silver rising while tech falls is classic **rotation into real assets** — a hedge against both uncertainty and a softer-jobs/lower-rates path. Silver leading gold often signals a more aggressive metals bid.
+
+➡️ *What you could do:* If semis were your only "AI" exposure, precious metals moving inversely today is a live example of **diversification working** — the boring 5% allocation earns its keep on days like this.
+
+---
+
+## 7. Sector winners & losers
+
+**Losers — anything with a chip in it:**
+- Semis broadly: **SMH −4.6%**
+- Optics: **COHR −9.5%, LITE −9.1%** (worst on the board)
+- Memory/storage: **WDC −10.0%, MU −5.7%**
+- **AMD −4.2%, QCOM −3.2%, AVGO −2.4%, NVDA −1.5%**
+
+**Winners — defensives & real assets:** Dow industrials, gold/silver, and mega-cap outlier **AAPL +4.8%**.
+
+💡 *What it means:* The selling hit **hardest at the edges of the AI trade** — optics and memory fell far more than Nvidia itself. When the periphery drops more than the flagship, the market is trimming the *speculative* parts of a theme first.
+
+➡️ *What you could do:* Use this to gauge your own AI exposure honestly — if you own the −9% names (optics, memory) rather than the −1.5% flagship, your "Nvidia bet" is really a **higher-beta bet on the whole supply chain**, and days like this show the difference.
+
+---
+
+## 8. ETF watch
+
+| ETF | Close | Day | Read |
+|---|---|---|---|
+| SPY (S&P 500) | 744.07 | −0.21% | broad market flat |
+| QQQ (Nasdaq-100) | 712.53 | −1.76% | tech drag |
+| IWM (small caps) | 297.54 | −0.62% | soft |
+| DIA (Dow) | 527.76 | +1.03% | **rotation winner** |
+| SMH (semis) | 591.93 | −4.60% | **epicenter of selling** |
+| ARKK (spec growth) | 81.28 | −0.69% | held up better than semis |
+| GLD (gold) | 378.23 | +2.06% | safe-haven bid |
+| IBIT (bitcoin) | 34.77 | +2.32% | crypto strength |
+
+💡 *What it means:* SMH (−4.6%) vs DIA (+1.0%) in one table **is** the day's story — the spread between them is the rotation, quantified.
+
+➡️ *What you could do:* If you want one number to track this theme daily, watch the **SMH-minus-DIA gap**. It widening = rotation continuing; it closing = the dip-buyers are back in chips.
+
+---
+
+## 9. Connect the Dots *(most speculative — facts flagged, inferences flagged)*
+
+**Fact:** Optics (COHR, LITE −9%) and cooling (VRT −3.5%) fell *harder* than Nvidia (−1.5%).
+**Common-sense logic:** the "picks & shovels" of AI — the power, cooling and optical-interconnect names — are sold as a *leveraged* proxy for the chip trade. When the flagship wobbles, the derivatives of the theme get hit worse.
+**The quiet mover the headline misses (inference, medium confidence):** if the rotation persists, the **data-center power/cooling basket (VRT, GEV, CEG)** is not the "safe AI hedge" some treat it as — it trades *with* semis, not against them. The genuine inverse hedge on this particular day was **precious metals**, not infrastructure.
+
+**Second fact:** oil (USO) barely moved (+0.7%) despite a wall of Iran/Hormuz headlines in the news feed (tanker incident, sanctions-waiver talks). ([Reuters via feed])
+**Inference (medium confidence):** a calm oil tape + falling VIX says the market is currently pricing the Gulf tension as **noise, not supply shock** — worth watching precisely *because* consensus is relaxed. If oil breaks higher on a real disruption, the "soft-landing + rate-cuts" story in section 3 gets complicated fast.
+
+---
+
+## 10. Week / day ahead
+
+- **Wed, Jul 8 — FOMC minutes (June meeting).** The main event. First meeting under new Fed chair **Kevin Warsh**, who skipped the quarterly "dot plot," so the minutes are the best read on rate-cut thinking. ([Kiplinger](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar))
+- **Thu, Jul 9 — IPO: Tarsier Pharma (TARX)**, NYSE, ~5M shares at $8–10.
+- Otherwise a **light, holiday-shortened calendar**; nothing notable Fri Jul 10.
+
+💡 *What it means:* With a soft jobs report just behind us (section 3), the Jul 8 minutes are the market's next chance to confirm or deny the rate-cut hopes now driving the rotation.
+
+➡️ *What you could do:* Expect a **quiet, low-volume start** to the week post-holiday, then position-squaring into Wednesday's minutes. Thin holiday tape can exaggerate moves — don't over-read Monday/Tuesday.
+
+---
+
+## 11. Bottom line
+
+It was a **rotation, not a rout.** The Dow made record highs, the fear gauge *fell*, gold and silver caught the safe-haven money, and the selling concentrated in the most speculative corners of the AI trade (optics, memory) rather than the whole market. The one-week question: is this profit-taking that reverses, or the start of value-over-growth leadership?
+
+**What I'd watch this week:** (1) the **SMH-vs-Dow spread** for whether rotation continues, (2) **Wednesday's FOMC minutes** for the rate-cut path, and (3) **oil**, the cheap tail-risk everyone's currently ignoring.
+
+---
+
+### Glossary
+- **VIX** — the "fear gauge"; expected S&P volatility. Low (<16) = calm; high (>25) = stressed.
+- **AAII survey** — weekly poll of retail investors on whether they're bullish/bearish for the next 6 months.
+- **Rotation** — money moving between sectors (e.g. tech → industrials) rather than leaving stocks entirely.
+- **Nonfarm payrolls** — the monthly US jobs report; a big driver of rate expectations.
+- **FOMC minutes** — detailed notes from the Fed's rate-setting meeting, released ~3 weeks later.
+- **Basis points / dot plot** — the Fed's chart of where officials expect rates to go.
+- **ETF proxy** — an exchange-traded fund used to represent an index or asset (SPY for the S&P, GLD for gold).
+- **Beta** — how much a stock moves relative to the market; high-beta = amplified swings.
+
+*Sources: price/vol data — Alpaca, Coinbase, Yahoo Finance (VIX); narrative — CNBC, Fortune, Kavout, Kiplinger, AAII, Reuters. Not financial advice.*
+
+---
+
+## 📁 Past briefs
+
+| Date | Brief |
+|---|---|
+| 2026-07-04 | [open](briefs/brief_2026-07-04.md) |
+| 2026-06-21 | [open](briefs/brief_2026-06-21.md) |
