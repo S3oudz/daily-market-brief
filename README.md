@@ -2,6 +2,14 @@
 
 **Latest edition: 2026-07-26** · updated 2026-07-26 07:04 GST · auto-published by the pipeline on DESKTOP-H3M86AT
 
+> **Stock Market Recap** — the US market session explained in plain English, every
+> morning. Video versions: [YouTube](https://youtube.com/@dailystockmarketrecap) ·
+> Every call we make gets graded the next day, hits and misses.
+>
+> *Educational content only. Not financial advice.*
+
+---
+
 ---
 
 # Daily Market Brief — Sunday, July 26, 2026
