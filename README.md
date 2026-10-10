@@ -1,6 +1,6 @@
 # 📊 Daily Market Brief — Dashboard
 
-**Latest edition: 2026-10-10** · updated 2026-10-10 02:02 GST · auto-published by the pipeline on DESKTOP-H3M86AT
+**Latest edition: 2026-10-10** · updated 2026-10-10 11:18 GST · auto-published by the pipeline on DESKTOP-H3M86AT
 
 ---
 
@@ -172,8 +172,8 @@ current change in Verizon, AT&T, or T-Mobile's actual subscriber revenue.
 
 ## 6. Crypto
 
-- **BTC: $82,459.89 (+1.00%/24h)** — Saturday-morning read (data bundle, Coinbase).
-- **ETH: $2,481.69 (+0.17%/24h)** — Saturday-morning read (data bundle, Coinbase).
+- **BTC: $82,551.37 (+0.60%/24h)** — Saturday-morning read (data bundle, Coinbase).
+- **ETH: $2,490.72 (+0.13%/24h)** — Saturday-morning read (data bundle, Coinbase).
 
 💡 *What it means:* **Fact:** BTC is roughly $3,000 lower than the ~$85,500 level this brief
 flagged four sessions ago, even after this week's equity rally and calming bond market —
