@@ -1,62 +1,67 @@
 # 📊 Daily Market Brief — Dashboard
 
-**Latest edition: 2026-10-10** · updated 2026-10-10 12:48 GST · auto-published by the pipeline on DESKTOP-H3M86AT
+**Latest edition: 2026-10-11** · updated 2026-10-11 07:07 GST · auto-published by the pipeline on DESKTOP-H3M86AT
 
 ---
 
-# Daily Market Brief — Saturday, October 10, 2026
+# Daily Market Brief — Sunday, October 11, 2026
 
 *Read-only briefing — explains the market and flags "what you could do" as fact-based reasoning
 you can disagree with. Not financial advice; places no trades.*
 
-*Timing note: generated Saturday morning GST. US markets are closed for the weekend, so all
-equity/ETF/mover/AI-infra prices and the VIX reading (data bundle, Alpaca and Yahoo) are Friday,
-October 9's completed cash close — the last live session of the week, not a stale number. Crypto
-trades around the clock, so BTC/ETH are a live Saturday-morning read. Real-futures oil and the
-10-year Treasury yield, sourced via search below, reflect Friday's full trading day.*
+*Timing note: generated Sunday morning GST. US markets have been closed since Friday, October
+9's cash close, and no new equity session has occurred since Saturday's brief — the data bundle
+(Alpaca, Yahoo) is identical to Saturday's, carrying the same Friday close. Crypto trades around
+the clock, so BTC/ETH below are a live Sunday-morning read, slightly higher than Saturday's.
+Monday, October 12 is Columbus Day — the Treasury bond market is closed, but equities and
+Treasury futures trade normally — so the first real new data doesn't land until Tuesday's bank
+earnings and Wednesday's CPI.*
 
 ---
 
-## 1. Scorecard — grading Tuesday's calls
+## 1. Scorecard — grading Saturday's calls
 
-**All four of Tuesday, October 6's "what I'd watch" items and all four "levels to watch" now
-have four trading days (Tue–Fri) of real answers.**
+**Nothing new to grade yet.** Saturday's brief (October 10) was written on the same Friday close
+this brief uses — zero trading sessions separate the two. Markets were closed all weekend, so
+none of Saturday's four "what I'd watch" items or four "levels to watch" have had a chance to
+move. Rather than force a verdict on items that haven't been tested, this section does two
+things instead: (1) confirms each item is still exactly where it was, and (2) corrects two
+numbers from Saturday's brief that follow-up research found to be wrong — a sourcing miss is
+still a miss, even when it isn't a market call.
 
-| Item (from Tuesday's brief) | Verdict | What happened |
+| Item (from Saturday's brief) | Status | What's actually new |
 |---|---|---|
-| **Whether the bear-steepener continues or reverses Tuesday** | ✅ **Reversed, then kept easing** | The 10-year yield fell to **5.27–5.286%** Tuesday (down >2bp from Monday's 5.349% peak), then continued easing through the week to **~5.23%** by Friday (TradingEconomics, CNBC, via search) — the opposite of a continuing bear-steepener |
-| **Wednesday's FOMC minutes — test of the Fed's own language against the market's bet** | ✅ **Muted/dovish-leaning, not hawkish** | The minutes (September 15–16 meeting, released Oct 7) showed the Fed voted 12-0 for the quarter-point hike to 3.75–4.00% but is split on what's next: 4 officials want two more hikes in 2026, 12 want one more, 2 want none (Federal Reserve, via search). Markets barely moved on the release itself, and October-hike odds have since fallen to **~20–25%** — language leaning toward the "near-term relief" half of Tuesday's bet, not the hawkish surprise that would have broken it |
-| **Iran's formal response to the US ceasefire counterproposal** | ⏳ **Still open — now more clearly conditional** | Iran confirmed it received a US counterproposal (a reported 7-day ceasefire) and is "reviewing" it; Tehran has attached seven explicit conditions tied to reopening the Strait of Hormuz, including sanctions relief and an end to the US naval blockade (Al Arabiya, The National Desk, via search). Still no accept/reject — but the conditions are now public and specific, not just posture |
-| **Confirmation the Skydance-WBD merger closed Tuesday, and how the combined stock trades** | ✅ **Confirmed closed; now trades as SKYD** | SEC 8-K filings confirm the merger completed October 6, 2026, with WBD surviving as a wholly owned subsidiary. The combined company renamed itself **Skydance Corporation**, changed its ticker from PSKY to **SKYD**, and moved its listing from Nasdaq to the **NYSE**, effective October 6 (SEC EDGAR, TipRanks, via search) |
+| **Wednesday's CPI print — test of whether the long-yield calm holds** | ⏳ Still open | No new session; CPI lands Wed, Oct 14 (Section 11) |
+| **Whether chip names (AMD, MU, NVDA) recover alongside QQQ** | ⏳ Still open | Same Friday close as Saturday's brief — nothing to grade until a new session trades |
+| **FCC movement on the SpaceX-Grain spectrum deal** | ⏳ Still open | No docket filing located via search yet; the deal was only signed Oct 8, and FCC review (plus other customary closing conditions) is still pending (StreetInsider, TradersAgency, via search) |
+| **Iran's accept/reject of the US ceasefire counterproposal** | ⏳ Still open | Iran is still described as "reviewing" the proposal; no new statement found since Friday (Al Jazeera, Al Arabiya, via search) |
 
-**Levels to watch (from Tuesday's Bottom line):**
-
-| Level | Verdict | Friday's reading |
+| Level (from Saturday's brief) | Status | Correction / current reading |
 |---|---|---|
-| **10-year Treasury yield — break above 5.35% vs. pullback below 5.25%** | ✅ **Pulled back below the floor** | ~5.23% Friday (TradingEconomics, via search) — Monday's 5.349% intraday peak held as the top for the week, helped by strong demand at Wednesday's $22B 30-year bond auction (bid-to-cover 2.54, indirect bids 72.3% — both above recent averages; Bloomberg, CNBC, via search) |
-| **WTI crude (real futures) — break above $93.51 vs. drift high-$80s/low-$90s** | ✅ **Continued drift, no break** | Closed Friday at **$90.35**, range $90.21–$91.40, −0.89% (TradingEconomics, via search) — still well below $93.51 |
-| **Nasdaq Composite — hold Monday's 27,477.31 record through the FOMC minutes** | ✅ **Extended the record, then eased back** | The index actually set a *fresh* record of **27,722.75** on Tuesday, Oct 6, before easing through the week to **27,366.17** Friday (+0.64% on the day; TheStreet/Bloomberg, via search) — held through the FOMC test as asked, with a modest pullback since |
-| **AAII bull-bear spread — improvement from −11.9** | ✅ **Sharp improvement, now positive** | Bulls 40.3%, bears 39.0%, spread **+1.3** (AAII.com, via search) — a swing of roughly 13 points from the prior −11.9 reading, the first positive spread in recent weeks though still below the long-run average of ~+6.5 |
+| **10-year Treasury yield — hold ≤5.25% vs. break 5.30–5.35%** | ⏳ Holding, untested | **5.24%** on Oct 9 (TradingEconomics, via search) — essentially flat, still below the 5.25% line; the real test is Wednesday's CPI |
+| **WTI crude (real futures) — break $93.51 vs. hold near $90** | 🔧 **Correction** | Saturday's brief quoted Friday's WTI close as **$90.35**. Multiple sources (TradingEconomics, Forbes, oilprice.com, via search) put Friday/weekend WTI at **~$91.85**, not $90.35. The *direction* of the call doesn't change — still well below $93.51 — but the number itself was wrong and is corrected here |
+| **Nasdaq Composite — reclaim Tuesday's "record close" of 27,722.75** | 🔧 **Correction** | 27,722.75 was Tuesday, Oct 6's **intraday** high, not its closing price. The actual closing record is **27,599.89**, set the same day (Oct 6), per Nasdaq/Investing.com historical data via search. Friday's close of 27,366.17 is below that real record — the "drifting below a record" read in Saturday's brief was directionally right, just anchored to the wrong number |
+| **SMH — reclaim $610 vs. stay capped near $600** | ⏳ Still open | $603.58 Friday close, unchanged — no new session |
 
-💡 *What it means:* **Fact:** every single item and level from Tuesday's brief resolved this week,
-and all four resolved in the same direction — calmer long yields, a Fed that leaned dovish by
-not surprising hawkish, record (then slightly cooling) equities, and markedly improved retail
-sentiment. **Fact:** the one thread that stayed open, Iran, is now more specific (seven named
-conditions) without being more resolved. **Inference (medium confidence):** this is a genuinely
-clean week for the "soft landing" read that Tuesday's brief flagged as fragile — every market
-signal moved the same way, which makes it worth asking what would have to go wrong to break it
-(see Section 4).
+💡 *What it means:* **Fact:** a weekend brief written on unchanged data has nothing real to
+grade — pretending otherwise would be the "soft scorecard" this format exists to prevent.
+**Fact:** two numbers in Saturday's brief were wrong (an intraday high reported as a closing
+record; a WTI price roughly $1.50 off), both now corrected above. **Inference (high
+confidence):** neither correction changes the trading read from Saturday — oil is still below
+its trigger level, and the Nasdaq is still below its real record — but getting the underlying
+number right matters for whatever brief eventually has to grade "did it break $93.51" or "did it
+reclaim the record."
 
-➡️ *What you could do:* Don't treat four-for-four "yes" grades as proof the bear-steepener story
-is closed — it means the market's working hypothesis held for one week under real tests (an
-FOMC minutes release and a 30-year auction). The next test is bigger: Wednesday's CPI print
-(Section 11) and the start of bank earnings the same week.
+➡️ *What you could do:* Don't use this brief's unchanged numbers as a second confirmation of
+Saturday's read — it's the same data, not a second data point. Wait for Tuesday's bank earnings
+and Wednesday's CPI before treating anything as newly resolved.
 
 ---
 
 ## 2. Market Pulse
 
-*Friday, October 9's completed cash close (Alpaca data bundle, ETF proxies).*
+*Friday, October 9's completed cash close (Alpaca data bundle, ETF proxies) — unchanged since
+Saturday's brief; no new session has traded.*
 
 | Index (proxy) | Close | Day (Fri) |
 |---|---|---|
@@ -65,194 +70,178 @@ FOMC minutes release and a 30-year auction). The next test is bigger: Wednesday'
 | Dow 30 (DIA) | $516.05 | +0.88% |
 | Russell 2000 (IWM) | $279.11 | +0.58% |
 
-**Fact (via search, TheStreet/Bloomberg/Yahoo Finance):** the underlying indexes these ETFs track
-closed Friday at S&P 500 **7,811.51** (+0.59%), Nasdaq Composite **27,366.17** (+0.64%), and Dow
-**51,655.01** (+0.83%) — all four major gauges higher, capping a record-filled week heading into
-next week's start of Q3 earnings season.
+**Fact (via search):** the underlying indexes closed Friday at S&P 500 **7,811.51** (+0.59%),
+Nasdaq Composite **27,366.17** (+0.64%), and Dow **51,655.01** (+0.83%) — a fourth straight
+positive week heading into Q3 earnings season, which starts in earnest Tuesday.
 
-💡 *What it means:* **Fact:** this is the fourth straight up week for the major indexes, now
-running alongside falling long-term yields rather than fighting them, which is a healthier
-combination than Monday's record-highs-plus-24-year-high-yields pairing flagged in Tuesday's
-brief. **Inference (medium confidence):** the market priced in both the FOMC minutes and the
-30-year auction calmly, which is why Friday's gain looks more like "earnings-season positioning"
-than a reaction to fresh news.
+💡 *What it means:* **Fact:** every number in this section is identical to Saturday's brief,
+because it's the same completed session. **Inference (high confidence):** the market's actual
+reaction to the weekend's two headline stories — Trump's Russia diesel deal and SpaceX's $40B
+Nvidia chip financing report (Sections 4–5) — won't show up in prices until Monday's open at the
+earliest.
 
-➡️ *What you could do:* Use next week's bank earnings (Section 11) as the next real stress test —
-a market that's rallied on calming yields needs results (not just rate relief) to keep
-extending, and financials are first up.
+➡️ *What you could do:* Treat Monday as a limited test (equities trade, but it's a bond-market
+holiday and no major earnings are due) — the real stress test is still Tuesday and Wednesday.
 
 ---
 
 ## 3. Sentiment Gauge
 
-- **VIX: 14.84** (−3.70%, Yahoo, via data bundle) — Friday's close, back under 15 and down from
-  15.52 a week earlier.
-- **AAII: bulls 40.3%, neutral 20.8%, bears 39.0%, spread +1.3** (AAII.com, via search) — a sharp
-  improvement from −11.8/−11.9 two weeks ago, though still below the long-run average spread of
-  roughly +6.5.
-- **10-year Treasury yield: ~5.23%** (TradingEconomics, via search) — down from Monday's 24-year
-  intraday peak of 5.349%, helped by Wednesday's strong 30-year auction (Section 1).
+- **VIX: 14.84** (−3.70%, Yahoo, via data bundle) — Friday's close, unchanged since Saturday.
+- **AAII: bulls 40.3%, neutral 20.8%, bears 39.0%, spread +1.3** (AAII.com, via search) — the
+  same weekly reading as Saturday's brief; AAII publishes weekly (Wednesday survey, Thursday
+  release), so the next update isn't due until around Oct 15.
+- **10-year Treasury yield: ~5.24%** (TradingEconomics, via search) — flat versus Friday, still
+  below the 5.25% line flagged in Section 1.
 
-**Verdict: every sentiment gauge improved together this week — falling VIX, a swing to a
-positive AAII spread, and retreating long yields — which is a more convincing "fear is easing"
-signal than any single metric moving alone.**
+**Verdict: unchanged from Saturday — fear gauges stayed calm over a weekend with no new trading,
+which is exactly what you'd expect; the question is whether that calm survives Tuesday/Wednesday.**
 
-💡 *What it means:* **Fact:** VIX below 15 plus a positive AAII spread plus falling 10-year
-yields all moving the same direction in the same week is the kind of broad-based calming that
-usually shows up after a real test (the FOMC minutes, the bond auction) passes without a
-surprise. **Inference (low confidence):** retail sentiment (AAII) tends to lag price action, so
-some of this +1.3 reading is likely just investors reacting to the week's record highs rather
-than an independent signal.
+💡 *What it means:* **Fact:** nothing in this section moved because no market was open to move
+it. **Inference (low confidence):** a calm weekend close ahead of a loaded Wednesday (CPI plus
+four bank/ASML earnings reports) sometimes shows up as slightly elevated VIX by Monday afternoon
+as traders position for the event — worth checking Monday's VIX close against today's 14.84.
 
-➡️ *What you could do:* A VIX under 15 historically means options are pricing low near-term
-turbulence — cheap insurance if you want it ahead of CPI (Wednesday) and bank earnings, since
-the market isn't currently paying up to hedge either event.
+➡️ *What you could do:* If Monday's VIX moves meaningfully off 14.84 with no new economic data
+out, that's pure positioning ahead of Wednesday — a cleaner signal of nerves than anything in
+this weekend's flat numbers.
 
 ---
 
 ## 4. The story that matters most
 
-**The bond market's scare resolved calmly this week — the Fed's minutes didn't surprise
-hawkish, a 30-year auction found strong demand, and long yields gave back most of Monday's
-spike — clearing the way for stocks to keep climbing into the start of Q3 earnings season.**
+**Trump struck a deal with Putin to waive sanctions on Russian diesel exports through April
+2027 — a sharp reversal of US policy, timed weeks before the midterm elections, aimed at
+easing a global diesel price spike rather than at the broader oil market.**
 
-**Fact:** the September FOMC minutes (released Oct 7) showed a Fed that unanimously backed its
-last hike but is internally split on the next one, and the market's read — October-hike odds
-near 20–25% — leans toward "done for now" (Federal Reserve, via search, Section 1). **Fact:**
-Wednesday's $22 billion 30-year Treasury auction drew bid-to-cover of 2.54 and 72.3% indirect
-(often foreign) bids, both above recent averages, directly easing the "who buys this debt"
-worry that had been pushing long yields higher (Bloomberg, CNBC, via search). **Fact:** the
-10-year yield round-tripped from Monday's 24-year-high intraday peak of 5.349% down to ~5.23% by
-Friday, a roughly 12-basis-point retreat in four sessions (TradingEconomics, via search).
+**Fact (CNBC, NBC News, via search):** on Friday, October 9, the US Treasury issued a temporary
+general license suspending sanctions on Russian diesel exports for roughly six months, through
+April 7, 2027. **Fact:** Russia is set to supply more than 300,000 tons of diesel immediately,
+500,000 tons in November, and up to several million tons more depending on Russian refinery
+output — equivalent to roughly 400,000 barrels/day if spread over three months (oilprice.com,
+BigGo Finance, via search). **Fact:** diesel futures fell about 4% on the Friday announcement,
+while crude oil barely moved — Brent traded near $104/barrel, down roughly 0.3% on the day
+(CNBC, via search) — confirming this is a distillate-market intervention, not a crude-supply one.
 
-💡 *What it means:* **Fact:** this is the opposite resolution from what Tuesday's brief flagged
-as the risk — the long end calmed down instead of the bear-steepener deepening, and equities got
-to keep their record run without that specific overhang. **Inference (medium confidence):** the
-market is now effectively betting the Fed is on hold through the Oct 27–28 meeting and that
-September's fiscal/supply fears around long-dated debt were overdone — both bets get tested
-again by Wednesday's CPI print, which the market is currently pricing to come in *hotter*
-(headline forecast 3.6% YoY vs. 3.4% prior; Section 11).
+💡 *What it means:* **Fact:** this directly reverses years of US pressure on Moscow over the
+Ukraine war, and Ukrainian President Zelenskyy publicly condemned it as easing sanctions without
+a Russian de-escalation commitment (via search). **Inference (medium confidence):** the timing —
+weeks before midterms, aimed at a visible pocketbook issue (diesel/fuel prices) rather than
+general oil prices — reads as a deliberately narrow, politically calculated move, which is also
+the pattern behind Trump's separate statement that the US won't strike Iran before the midterms
+(Section 1, prior briefs). Both are inferences about motive, not confirmed facts.
 
-➡️ *What you could do:* Treat Wednesday's CPI (Section 11) as the real rematch — if a hotter
-print pushes the 10-year back toward 5.35% the way Monday's data did, that reopens exactly the
-question this week's calm just answered. A CPI print in line with or below forecast would be a
-second confirmation that the long-yield scare is genuinely behind the market, not just paused.
+➡️ *What you could do:* Don't read this as bullish or bearish for crude broadly — Brent's
+0.3% move says the crude market agrees it's narrow. The more useful number to watch is refiner
+crack spreads (the margin refiners earn turning crude into diesel), which face pressure as
+Russian barrels return to the distillate market (Section 9.5) — that's where the real economic
+effect lands, not at the pump or the WTI headline price.
 
 ---
 
 ## 5. Big corporate event
 
-**SpaceX agreed to pay Grain Management $8 billion in cash for nationwide low-band spectrum
-licenses to build out Starlink Mobile as a full US wireless carrier — and the announcement wiped
-out a decade-plus of single-day stock performance records at Verizon, AT&T, and T-Mobile.**
+**SpaceX is reportedly seeking $40 billion in Apollo-led financing — $10 billion in bank loans
+plus $30 billion in investment-grade debt — to fund a massive Nvidia AI chip order, on top of
+the $8 billion spectrum deal already covered in this brief this week.**
 
-**Fact (CNBC, 24/7 Wall St., Forbes, via search):** the deal covers up to 14 megahertz of paired
-800 MHz spectrum — a low frequency that travels farther and penetrates buildings better than the
-higher-band spectrum Starlink currently uses — and still requires FCC approval before closing.
-**Fact:** Verizon closed Thursday down 8.75%, its worst day since July 2002; T-Mobile fell
-13.27%, its worst since 2013; and AT&T dropped 9.81%, its worst since 2000 (CNBC, 24/7 Wall St.,
-via search). The data bundle's headlines confirm Verizon's stock move was still the lead CNBC
-story as of Friday. **Fact:** tower operators American Tower, Crown Castle, and SBA
-Communications rose on the news, since SpaceX's own satellites, not ground towers, carry the
-new network (search) — a different winner than the telecom carriers that lost.
+**Fact (Financial Times, via Benzinga, Manila Times, TIKR, via search):** the financing, first
+reported around Oct 6–7, would be led by Apollo Global Management, with Pimco among the lenders
+in talks; the deal is reportedly expected to close in 2027, and no party (SpaceX, Apollo, or
+Nvidia) has confirmed it on the record. **Fact:** SpaceX shares fell about 2% in extended trading
+on the initial report, while Nvidia rose only about 0.5% — a muted reaction on both sides
+relative to the deal's size. **Fact:** separately, Uber agreed to buy workplace-catering platform
+ezCater for $2.3 billion in an all-cash deal, expanding Uber Eats/Uber for Business into
+corporate catering (Bloomberg, via search) — unrelated to AI infrastructure, included here as
+the week's other confirmed, on-the-record M&A.
 
-💡 *What it means:* **Fact:** this is a spectrum-licensing deal, not a finished network — FCC
-approval is still outstanding. **Inference (medium confidence, no sourced timeline):** building
-out and launching a full carrier network realistically pushes any real competition to 2027 or
-later, not an immediate change. **Inference (medium confidence):** the market's reaction (telcos
-down double digits, towers up) is pricing a structural threat to carrier pricing power years
-before the network exists, which is either prescient or an overreaction — there's no way to tell
-which yet.
+💡 *What it means:* **Fact:** this is debt, not cash flow, funding the chip purchase — $30
+billion of it investment-grade bonds sold to outside lenders, not SpaceX's own balance sheet.
+**Inference (medium confidence):** a private company taking on this scale of debt specifically
+to buy Nvidia chips is a concrete, checkable data point for the AI-capex-leverage debate (Section
+10) — it's exactly the kind of financing structure that AI-capex skeptics (e.g., Michael Burry,
+tracked in prior briefs) point to as the risk, regardless of whether the underlying demand for
+compute turns out to be real.
 
-➡️ *What you could do:* FCC approval is the next concrete gate — watch for a docket filing or
-comment period opening, which would be the first real signal of timeline rather than market
-speculation. Until then, Friday's telecom-sector losses are a reaction to a future risk, not a
-current change in Verizon, AT&T, or T-Mobile's actual subscriber revenue.
+➡️ *What you could do:* Watch for SEC or bond-prospectus filings confirming the $40B structure —
+until then this is sourced to "people familiar with the matter," not a disclosed transaction.
+If confirmed, the lender list (Apollo, Pimco) and the debt-to-bank-loan split are the facts worth
+tracking, since they show who's taking on AI-buildout credit risk.
 
 ---
 
 ## 6. Crypto
 
-- **BTC: $82,551.37 (+0.60%/24h)** — Saturday-morning read (data bundle, Coinbase).
-- **ETH: $2,490.72 (+0.13%/24h)** — Saturday-morning read (data bundle, Coinbase).
+- **BTC: $83,012.01 (+0.56%/24h)** — Sunday-morning read (data bundle, Coinbase).
+- **ETH: $2,508.36 (+0.70%/24h)** — Sunday-morning read (data bundle, Coinbase).
 
-💡 *What it means:* **Fact:** BTC is roughly $3,000 lower than the ~$85,500 level this brief
-flagged four sessions ago, even after this week's equity rally and calming bond market —
-crypto's recent decoupling from the "risk-on" equity trade (flagged in prior briefs) has
-continued. **Inference (medium confidence):** a week where every traditional-market fear gauge
-improved (Section 3) without BTC rallying meaningfully suggests crypto is currently trading on
-its own idiosyncratic flows, not macro sentiment.
+💡 *What it means:* **Fact:** both are modestly higher than Saturday's reading (BTC $82,551.37,
+ETH $2,490.72) — a small continuation of the weekend drift, not a meaningful move. **Fact:** BTC
+remains roughly $2,500 below the ~$85,500 level flagged four sessions ago in an earlier brief,
+continuing the decoupling from the equity rally noted Saturday.
 
-➡️ *What you could do:* Don't read this week's equity record highs as bullish confirmation for
-crypto by association — BTC's muted response to a genuinely calming macro week is itself the
-data point; watch whether that gap closes or widens once next week's CPI print lands.
+➡️ *What you could do:* A ~0.5–0.7% weekend drift on no news is noise, not signal — the next
+real test for crypto's correlation to macro sentiment is whether it responds to Wednesday's CPI
+the way equities and the 10-year yield do.
 
 ---
 
 ## 7. Commodities
 
-*GLD/SLV/USO are ETF proxies (Friday's close, data bundle); real-futures WTI below reflects
-Friday's full trading session.*
+*GLD/SLV/USO are ETF proxies (Friday's close, data bundle, unchanged since Saturday); real-futures
+WTI and Brent below are corrected/updated via search (Section 1).*
 
-- **Oil, WTI (USO ETF proxy, data bundle): $148.24, +0.40%** (Friday close).
-- **Oil, WTI (real futures): $90.35 close, $90.21–$91.40 intraday range, −0.89%**
-  (TradingEconomics, via search) — still well below the $93.51 trigger flagged in Section 1;
-  no reassertion of an Iran-war risk premium despite Tehran's still-unresolved counterproposal
-  review (Section 1).
-- **Gold — GLD proxy: $384.59, +1.57%** (Friday close) — a fresh push higher.
-- **Silver — SLV proxy: $54.795, +2.52%** (Friday close) — silver's gain outpaced gold's for a
-  second straight week.
+- **Oil, WTI (USO ETF proxy, data bundle): $148.24, +0.40%** (Friday close, unchanged).
+- **Oil, WTI (real futures): ~$91.85** (TradingEconomics, Forbes, oilprice.com, via search) —
+  corrected from the $90.35 figure in Saturday's brief (Section 1); still well below the $93.51
+  trigger level.
+- **Brent crude (real futures): ~$104.7** (TradingEconomics, via search) — down about 0.3%
+  Friday on the diesel-sanctions-waiver news (Section 4).
+- **Diesel futures: −4% Friday** (CNBC, via search) — the one commodity that actually moved on
+  this week's biggest energy headline; still up over 110% year-to-date.
+- **Gold — GLD proxy: $384.59, +1.57%** (Friday close, unchanged).
+- **Silver — SLV proxy: $54.795, +2.52%** (Friday close, unchanged).
 
-💡 *What it means:* **Fact:** gold and silver both rallying while the 10-year yield fell
-(Section 3) is the more typical relationship — lower real yields reduce the opportunity cost of
-holding non-yielding metals. **Inference (medium confidence):** silver outpacing gold again is
-consistent with a broader "catch-up" trade in precious metals that's been running for several
-weeks now, rather than a one-off.
+💡 *What it means:* **Fact:** crude (WTI and Brent) barely moved on Friday's biggest energy
+story, while diesel futures dropped 4% — the clearest evidence that the Russia sanctions waiver
+(Section 4) is a distillate-specific event, not a broad oil-supply one. **Inference (medium
+confidence):** gold and silver's continued strength still reads as a rates story (falling real
+yields reducing the opportunity cost of holding metals), unrelated to this weekend's energy news.
 
-➡️ *What you could do:* $93.51 remains the one number that would say Iran-related supply risk is
-overriding the calming macro backdrop in oil — until WTI breaks it, gold and silver's gains look
-like a rates/dollar story, not a geopolitical-risk one.
+➡️ *What you could do:* If you're tracking the Iran/Hormuz risk premium via WTI (the $93.51
+level, Section 1), don't conflate it with the diesel story — they're different parts of the
+energy market moving for different reasons this week.
 
 ---
 
 ## 8. Sector winners & losers
 
-**Friday's session and the broader week split cleanly into three groups: AI-power and optics
-names extending gains, mega-cap tech diverging on an accounting-driven chip scare, and telecom
-incumbents getting hit by the SpaceX spectrum news (Section 5).**
+**No new session to report — Friday's three-way split (AI-power/optics up, mega-cap chips down,
+telecom down vs. towers up) is unchanged from Saturday's brief and carried forward here for
+continuity, not re-graded as new.**
 
-**AI-infrastructure strength (data bundle):** power names continued their run — Talen Energy
-(TLN) +5.40%, Constellation Energy (CEG) +4.57%, Vistra (VST) +3.47%, GE Vernova (GEV) +0.58% —
-alongside optics names Lumentum (LITE) +5.27% and Coherent (COHR) +3.41%, which 247wallst and
-other outlets tied to **positive demand commentary from LITE's own CEO** (via search) — a
-company-specific, fact-based driver rather than a broad AI re-rating.
+- **AI-infrastructure strength (data bundle, Friday):** Talen Energy (TLN) +5.40%, Constellation
+  Energy (CEG) +4.57%, Vistra (VST) +3.47%, Lumentum (LITE) +5.27%, Coherent (COHR) +3.41%.
+- **Mega-cap divergence (data bundle, Friday):** Amazon +3.27%, Microsoft +2.39%, Tesla +1.99%
+  up; AMD −2.18%, Micron −0.71%, Nvidia −0.48% down, tied to the OpenAI accounting story covered
+  in a prior brief.
+- **Telecom losers (prior search):** Verizon, AT&T, T-Mobile all suffered multi-decade worst
+  single days on the SpaceX spectrum news; tower REITs rose as the inverse trade.
 
-**Mega-cap divergence (data bundle):** Amazon (+3.27%), Microsoft (+2.39%), and Tesla (+1.99%)
-rose, while AMD (−2.18%), Micron (−0.71%), and Nvidia (−0.48%) fell. **Fact (CNBC, via search):**
-the chip-specific weakness coincided with heavy put-buying in Nvidia and Micron options this
-week — roughly $270 million in Micron put premium and a $21 million Nvidia put trade targeting a
-22% decline by January — alongside reports connecting the move to the OpenAI revenue-accounting
-story in Section 9.5.
+💡 *What it means:* **Fact:** this section is identical to Saturday's because the underlying
+session is identical. **Inference (low confidence):** the new SpaceX Nvidia-financing report
+(Section 5) hasn't yet been tested against chip-stock prices — Monday's open is the first chance
+to see whether AMD/MU/NVDA react to it at all.
 
-**Telecom losers (search):** Verizon, AT&T, and T-Mobile all suffered their worst single days in
-13–26 years on the SpaceX spectrum news (Section 5), while tower operators American Tower,
-Crown Castle, and SBA Communications gained as the inverse trade.
-
-💡 *What it means:* **Fact:** three distinct, well-sourced stories drove Friday's dispersion —
-none of them is "the market" moving as one. **Inference (medium confidence):** AMD/MU/NVDA's
-weakness looks tied to the specific put-buying and accounting-headline noise in Section 9.5
-rather than to the broader AI-infrastructure trade, which is exactly why the power and optics
-names (CEG, TLN, LITE, COHR) kept rising the same day.
-
-➡️ *What you could do:* Don't lump "AI stocks" together this week — the chip names (AMD, MU,
-NVDA) and the AI-power/optics names (CEG, TLN, LITE, COHR) just moved in opposite directions on
-the same day for different, identifiable reasons. Treat them as separate trades.
+➡️ *What you could do:* Watch Monday's open for any AMD/MU/NVDA reaction to the $40B financing
+report — a muted reaction (like SpaceX's own ~2% dip and Nvidia's ~0.5% gain on the initial
+report) would say the market already priced this in before the weekend.
 
 ---
 
 ## 9. ETF watch
 
-*Friday, October 9's completed close (data bundle).*
+*Friday, October 9's completed close (data bundle) — unchanged since Saturday.*
 
 | ETF | Close | Day (Fri) |
 |---|---|---|
@@ -265,110 +254,95 @@ the same day for different, identifiable reasons. Treat them as separate trades.
 | GLD (gold) | $384.59 | +1.57% |
 | IBIT (bitcoin) | $46.56 | +0.67% |
 
-💡 *What it means:* **Fact:** SMH is the only red line in this table, consistent with Section
-8's chip-specific weakness (AMD, MU, NVDA) rather than a broad tech selloff — QQQ itself still
-rose 0.58%. **Inference (low confidence):** ARKK's +2.35% outpacing both SPY and QQQ suggests
-risk appetite for speculative growth names stayed intact even while the chip-specific options
-flow turned defensive — two different parts of "growth" sending different signals.
+💡 *What it means:* **Fact:** no change from Saturday's table — same completed session.
+**Inference (low confidence):** SMH remains the one line to watch into Monday given the new
+SpaceX/Nvidia financing headline (Section 5) layered on top of last week's chip-specific
+weakness (Section 8).
 
-➡️ *What you could do:* SMH diverging from QQQ is the cleanest read-through of this week's
-Nvidia/Micron put-buying (Section 8) — watch whether SMH keeps lagging into next week or catches
-back up once the OpenAI accounting story (Section 9.5) fully works through the chip names.
+➡️ *What you could do:* A move in SMH disconnected from QQQ on Monday would be the cleanest
+signal of a chip-specific reaction (to either the financing news or the OpenAI accounting
+story) rather than a broad tech move.
 
 ---
 
 ## 9.5 What the Headlines Missed
 
-**What the headlines said:** Coverage this week (Yahoo Finance, TechCrunch, and others, via
-search) framed OpenAI's revenue as "$20 billion lower than previously reported" or "$20 billion
-less than previously projected" — language that reads as a demand shortfall, and that coincided
-with Nvidia and Oracle shares tumbling and the heavy chip-options put-buying flagged in Section
-8.
+**What the headlines said:** Coverage of Friday's Russia diesel announcement (NBC News, 247wallst,
+via search) led with framing like "Trump eases Russia sanctions" and "Trump lifts Russia diesel
+sanctions," language that reads as a broad rollback of US sanctions on Russian energy amid "massive
+price spikes" — the kind of headline that could imply a general Russia/oil-market reset.
 
-**What the underlying reporting actually says:** The Financial Times' Oct 8 report, as relayed
-through multiple outlets (Axios, TechTimes, via search), states OpenAI told investors its
-annualized revenue was running at **~$50 billion** at the end of September — against a prior
-**~$70 billion** figure that outlets had been citing. **Fact:** the gap is explicitly described
-as an accounting-methodology difference, not a drop in sales: OpenAI reports **net** revenue
-(when a customer spends $1 through Microsoft Azure, OpenAI books only its roughly 20-cent share),
-while the earlier $70B estimate used a **gross** methodology that counted the full pass-through
-value, including the portion that goes to Microsoft Azure as infrastructure partner — the same
-method rival Anthropic uses for its own reported figures. **Fact (corroborating primary data):**
-Microsoft's own FY2026 10-K, filed with the SEC, separately discloses it recognized **$24.1
-billion** in revenue from its commercial arrangements with OpenAI — a real, SEC-filed number that
-is consistent with the "pass-through" explanation rather than a story about collapsing OpenAI
-demand.
+**What the primary document actually says:** The US Treasury's general license, issued Friday,
+October 9, is explicitly **temporary** (roughly six months, expiring April 7, 2027) and
+**product-specific** — it covers diesel/distillate exports only, not Russian crude broadly or
+the wider sanctions regime (Treasury OFAC license, as reported by CNBC, NBC News, discoveryalert.com,
+via search). **Fact:** the market itself drew this distinction immediately — diesel futures fell
+4% Friday on the news, while crude (both WTI, ~$91.85, and Brent, ~$104.7) moved less than 0.5%
+(Section 4, 7) — the exact opposite of what a broad "sanctions eased" framing would predict if
+crude traders believed it applied to oil generally.
 
-**The gap:** the $70B figure was never OpenAI's own reported number — it was investors' and
-media's back-of-envelope estimate, built on a gross-revenue method that doesn't match how OpenAI
-itself accounts for revenue. Headlines that framed the correction as revenue "lower than
-reported" implied OpenAI had reported $70B and then come in short; in fact OpenAI never reported
-that figure at all. That framing — correction-as-shortfall — is what moved chip and AI-adjacent
-stocks (Section 8) on a story that, read against Microsoft's own filed numbers, is about
-accounting definitions, not enterprise demand for AI infrastructure.
+**The gap:** "Trump eases Russia sanctions" is accurate as far as it goes, but omits that the
+relief is a narrow, time-limited carve-out for one refined product (diesel), issued to address a
+specific price spike before the midterms — not a reopening of Russian crude exports or a general
+thaw. A reader who only saw the headline could reasonably conclude crude-oil sanctions were
+loosening broadly; the primary document and the crude price action both say they weren't.
 
-💡 *What it means:* **Fact:** a one-day, multi-billion-dollar stock move (Nvidia puts, Micron
-puts, Oracle shares) was triggered by a number that was a third-party estimation error, not a
-company disclosure. **Inference (medium confidence):** this doesn't mean AI-capex demand
-concerns are unfounded generally — it means this specific data point isn't evidence either way,
-and the market briefly priced it as if it were.
+💡 *What it means:* **Fact:** the diesel-specific framing in the primary license matches the
+diesel-specific market reaction, while the broader "sanctions eased" headline framing doesn't
+match crude's near-zero move. **Inference (medium confidence):** headlines compress "temporary,
+product-specific waiver" into "sanctions eased" because it's shorter and more dramatic, not
+because of any intent to mislead — but the compression still loses the information a market
+participant would need (duration, scope) to correctly price the news, which is exactly what the
+crude market's muted reaction shows it already knew.
 
-➡️ *What you could do:* When you see "revenue $X billion lower than reported" language for a
-private company like OpenAI, check whether $X was ever actually *reported* by the company itself
-— here it wasn't; it was an investor estimate corrected by outside reporting. The one real,
-filed number in this story is Microsoft's own 10-K $24.1B OpenAI-related revenue line, not either
-of the two investor estimates.
+➡️ *What you could do:* When a sanctions-relief headline moves a commodity-adjacent stock on
+Monday, check whether the underlying license is time-limited and product-specific before
+assuming it's a durable, broad policy shift — in this case the six-month, diesel-only scope is
+the detail that determines whether this matters past April 2027.
 
 ---
 
 ## 10. Connect the Dots *(most speculative — facts flagged, inferences flagged)*
 
-**Thread one (resolved calmly) — the Fed dot-plot/hike-odds gap.** **Fact:** this week's FOMC
-minutes, 30-year auction, and falling 10-year yield (Sections 1, 3, 4) all resolved the same
-direction — toward calm, not toward the fiscal-risk escalation Tuesday's brief flagged as the
-downside case. Wednesday's CPI print (Section 11) is the next real test of whether that holds.
+**Thread one (unchanged, still calm) — the Fed dot-plot/hike-odds gap.** No new session; the
+10-year yield sits at ~5.24% (Section 3), still below the 5.25–5.35% range that would reopen the
+bear-steepener scare. Wednesday's CPI (Section 11) remains the next real test.
 
 **Thread two (unchanged) — the payroll-revision story.** No new development found; carried
 forward unchanged.
 
-**Thread three (unchanged) — the Anthropic IPO.** No new reporting found since prior briefs;
-confidential draft S-1 and ~$2 trillion valuation target stand, no company-confirmed timeline.
-Separately, this week's OpenAI accounting episode (Section 9.5) is a reminder that revenue
-figures for both major AI labs are reported on different bases — worth remembering if Anthropic
-IPO coverage cites a headline revenue number later.
+**Thread three (unchanged) — the Anthropic IPO.** No new reporting found since prior briefs.
 
-**Thread four (sharpens) — the Burry/AI-capex-skepticism thread.** **Fact:** this week supplied
-the first concrete, falsifiable test of AI-capex skepticism in a while — and it resolved toward
-"overstated," not "confirmed": the OpenAI revenue "shortfall" that triggered chip-stock
-put-buying (Sections 8, 9.5) traces to an accounting-definition mismatch, not a demand drop,
-once checked against Microsoft's own SEC-filed $24.1B figure. **Inference (medium confidence):**
-that doesn't resolve the broader AI-capex debate, but it does mean this particular data point
-should be removed from either side's evidence pile.
+**Thread four (sharpens with a new, concrete fact) — the Burry/AI-capex-skepticism thread.**
+**Fact:** SpaceX's reported $40 billion Apollo-led financing to buy Nvidia chips (Section 5) is
+structured as debt — $10B in bank loans, $30B in investment-grade bonds — not funded from
+operating cash flow. **Inference (medium confidence):** this is precisely the kind of leveraged,
+debt-financed AI-capex structure that skeptics (Burry and others, tracked in prior briefs) flag
+as the risk in the AI buildout, independent of whether the underlying chip demand itself is real.
+The muted stock reaction (SpaceX −2%, Nvidia +0.5% on the initial report) suggests the market
+hasn't yet decided how to price that leverage.
 
-**Thread five (narrows, still open) — the Iran-war/oil-supply chain.** **Fact:** Iran's seven
-named conditions (Section 1) are now specific enough to be checked against going forward —
-sanctions relief, frozen-asset release, an end to the naval blockade, and a 7-day ceasefire, all
-tied to the Strait of Hormuz. **Fact:** WTI real futures remain capped around $90 (Section 7),
-meaning the oil market is still not pricing meaningful Hormuz-disruption risk.
+**Thread five (narrows further) — the Iran-war/oil-supply chain, now paired with a second
+midterm-timed energy move.** **Fact:** Trump's Russia diesel waiver (Section 4) and his separate
+statement that the US won't strike Iran before the midterms (prior briefs) are two distinct
+geopolitical decisions. **Inference (low confidence):** both share a visible pattern — avoiding
+energy-price or war-escalation shocks in the run-up to the midterm elections — though this is an
+inference about political motive, not a confirmed, sourced connection between the two decisions.
 
-**New thread six (opens) — the SpaceX spectrum deal's second-order winners.** **Fact:** tower
-REITs (American Tower, Crown Castle, SBA Communications) rose the same day telecom carriers fell
-(Section 5) — a direct inverse trade. **Inference (low confidence):** if Starlink Mobile
-eventually operates as a real fourth carrier, the next-order question is whether it needs
-terrestrial tower infrastructure at all, or whether it structurally bypasses the tower REITs that
-rallied on this news — meaning today's "beneficiary" trade may not be the eventual one.
+**Thread six (unchanged) — the SpaceX spectrum deal's second-order winners.** No FCC docket
+filing found yet (Section 1); the tower-REIT-vs-telecom trade from last week stands unchanged.
 
-💡 *What it means:* **Fact:** of six tracked threads, one resolved calmly (Fed/yields), one
-sharpened toward "overstated" (AI-capex skepticism), one narrowed but stayed open (Iran), two are
-genuinely unchanged, and one new thread opened (spectrum deal ripple effects). **Inference
-(medium confidence):** this was a week where the market's working hypotheses got tested and
-mostly held — which raises the stakes for the next concrete test (CPI, Wednesday) rather than
-lowering them.
+💡 *What it means:* **Fact:** of six tracked threads, four are genuinely unchanged over the
+weekend, one (AI-capex skepticism) gained a concrete new fact to weigh, and one (Iran/oil)
+gained a speculative political-pattern observation rather than new market data. **Inference
+(medium confidence):** this was a quiet weekend for market-moving news relative to last week —
+the two real stories (Russia diesel, SpaceX financing) are both significant but neither has been
+tested against prices yet.
 
-➡️ *What you could do:* If you only track one thing into next week, make it Wednesday's CPI
-print (Section 11) — it's the next data point that could either confirm this week's "rates have
-calmed, equities can keep climbing" read or reopen the long-yield scare that Tuesday's brief
-flagged as the fragile part of the story.
+➡️ *What you could do:* If you only track one new thing from this weekend, make it the SpaceX
+$40B Nvidia financing report (Section 5) — it's the first concrete leverage number in the
+AI-capex-skepticism debate in weeks, and Monday's open is the first chance to see if chip names
+react to it at all.
 
 ---
 
@@ -379,112 +353,106 @@ flagged as the fragile part of the story.
 - **Tue, Oct 13** — Start of Q3 bank-earnings season: JPMorgan Chase (JPM), Goldman Sachs (GS),
   Wells Fargo (WFC), Citigroup (C); also UnitedHealth Group (UNH) and Johnson & Johnson (JNJ)
   (search).
-- **Wed, Oct 14** — **CPI (September)**, the key print this brief is watching (Sections 4, 10) —
-  headline forecast +0.6% m/m / 3.6% y/y (up from 3.4%), core forecast +0.2% m/m / 2.5% y/y
-  (search). Also earnings from ASML, Bank of America (BAC), Morgan Stanley (MS), BlackRock
+- **Wed, Oct 14** — **CPI (September)**, the key print this brief is watching (Sections 1, 3,
+  10) — headline forecast +0.6% m/m / 3.6% y/y (up from 3.4%), core forecast +0.2% m/m / 2.5%
+  y/y (search). Also earnings from ASML, Bank of America (BAC), Morgan Stanley (MS), BlackRock
   (BLK), and State Street (STT) (search).
 - **Thu, Oct 15** — Producer prices, retail sales, initial jobless claims, and the Philadelphia
-  Fed manufacturing index, all in the same 8:30am ET window (search). **AAII's next sentiment
-  reading is expected around this date** (Section 1).
-- **Ongoing, no fixed date** — Iran's formal accept/reject of the US ceasefire counterproposal,
-  now narrowed to seven named conditions (Section 1); FCC review of the SpaceX-Grain Management
-  spectrum deal (Section 5); the Oct 27–28 FOMC meeting, where hike odds currently sit near
-  20–25% (Section 1).
+  Fed manufacturing index, all in the same 8:30am ET window (search). AAII's next sentiment
+  reading is also expected around this date (Section 3).
+- **Ongoing, no fixed date** — Iran's formal accept/reject of the US ceasefire counterproposal
+  (Section 1); FCC review of the SpaceX-Grain Management spectrum deal (Section 1); confirmation
+  (or denial) of SpaceX's reported $40B Nvidia-chip financing, expected to close sometime in 2027
+  if real (Section 5); the Oct 27–28 FOMC meeting, where hike odds currently sit near 20–25%.
 - **Disclosed gap:** the data bundle's economic-calendar endpoint again returned a 403 (Finnhub
   premium-only); all dates above are sourced via search.
 
-💡 *What it means:* **Fact:** Wednesday, October 14 is the most-loaded date on the calendar —
-CPI lands the same day as four major bank/ASML earnings reports, meaning a rates surprise and an
-earnings surprise could hit simultaneously. **Inference (medium confidence):** a holiday-
-shortened week (Columbus Day) with this much packed into one Wednesday raises the odds of a
-genuinely volatile session rather than a quiet drift.
+💡 *What it means:* **Fact:** Wednesday, October 14 remains the most-loaded date on the
+calendar — CPI lands the same day as four major bank/ASML earnings reports. **Inference (medium
+confidence):** Monday's Columbus Day equity session, trading without the bond market open, is
+likely to be a lower-volume, lower-conviction day — not a reliable read on sentiment heading into
+the real tests Tuesday and Wednesday.
 
-➡️ *What you could do:* If CPI comes in at or below the 3.6%/2.5% forecasts, that's a second
-confirmation (after this week's auction and FOMC minutes) that the long-yield scare is over for
-now; a hotter print reopens Section 4's rematch on the same day bank earnings could independently
-move the market — don't assume a reaction on Wednesday is about one or the other without checking
-which one actually moved first.
+➡️ *What you could do:* Don't over-read Monday's equity action — thin bond-market-holiday volume
+can exaggerate small moves. Wait for Tuesday's bank earnings and Wednesday's CPI before updating
+any view on the "calm has returned" read from last week.
 
 ---
 
 ## 12. Bottom line
 
-This was the week the bond-market scare that dominated early October resolved itself calmly: the
-FOMC minutes revealed a divided but not hawkish-surprising Fed, a 30-year Treasury auction found
-real demand, and the 10-year yield gave back most of Monday's spike, settling near 5.23% by
-Friday. Equities used that calm to keep climbing — the Nasdaq Composite set a fresh record
-Tuesday before easing slightly into the weekend — while every sentiment gauge (VIX, AAII, long
-yields) improved in the same direction for the first time in weeks. The week's two sharpest
-single-stock stories were unrelated to the macro calm: SpaceX's $8 billion spectrum purchase from
-Grain Management inflicted the worst single days on Verizon, AT&T, and T-Mobile in over a decade
-each, and a misread OpenAI revenue-accounting story (Section 9.5) triggered heavy put-buying in
-Nvidia and Micron that, checked against Microsoft's own SEC-filed numbers, looks like noise
-rather than a genuine AI-demand signal. Iran's position on the US ceasefire counterproposal
-narrowed to seven specific, named conditions without resolving either way, and the Skydance-WBD
-merger is now fully closed and trading as SKYD on the NYSE.
+This was a quiet weekend by design — no new trading session has occurred since Friday's close,
+so every price in this brief is identical to Saturday's. The two things that actually happened
+over the weekend were both reported, not traded: Trump struck a deal with Putin to temporarily
+waive sanctions on Russian diesel exports through April 2027, a narrow, distillate-specific move
+timed ahead of the midterms that moved diesel futures (−4%) without moving crude oil meaningfully
+(Sections 4, 7, 9.5); and SpaceX was reported to be seeking $40 billion in Apollo-led debt
+financing to fund a Nvidia AI chip order, adding a concrete leverage data point to the ongoing
+AI-capex-skepticism debate (Sections 5, 10). Separately, this brief corrects two numbers from
+Saturday's edition: Friday's real WTI close was closer to $91.85, not $90.35, and the Nasdaq
+Composite's actual closing record is 27,599.89 (Oct 6), not the 27,722.75 figure used Saturday,
+which was an intraday high (Section 1). Neither correction changes the underlying read — oil is
+still below its Iran/Hormuz trigger level, and the Nasdaq is still below its real record — but
+both are now anchored to the right number.
 
-**What I'd watch:** (1) **Wednesday's CPI print** — the next concrete test of whether the
-long-yield calm holds or the bear-steepener scare reopens (Sections 4, 10, 11). (2) **Whether the
-chip names (AMD, MU, NVDA) recover alongside QQQ or keep lagging** — the cleanest read on whether
-Section 9.5's accounting-noise explanation is actually accepted by the market or whether the
-put-buying persists regardless (Sections 8, 9). (3) **FCC movement on the SpaceX-Grain spectrum
-deal** — the next real catalyst (not just reaction) for the telecom-versus-tower trade (Section
-5). (4) **Iran's actual accept/reject**, now gradeable against seven specific conditions rather
-than vague posture (Sections 1, 10).
+**What I'd watch:** (1) **Monday's thin-volume equity session** — a low-conviction Columbus Day
+day that shouldn't be over-read either way (Section 11). (2) **Whether chip names (AMD, MU,
+NVDA) react at all to the SpaceX $40B Nvidia-financing report** once a real session opens
+(Sections 5, 8, 10). (3) **Tuesday's bank earnings** — the first hard data point of Q3 earnings
+season, and a real test of whether the market's "calm has returned" read extends to corporate
+results, not just rates (Section 11). (4) **Wednesday's CPI print** — still the single biggest
+test on the calendar for whether the long-yield calm holds (Sections 1, 3, 11).
 
 **Levels to watch:**
-- **10-year Treasury yield — holding at/below 5.25% (confirms this week's calm extends) vs.
-  reasserting above 5.30–5.35% on a hot CPI print (reopens the bear-steepener scare).** Currently
-  ~5.23% (Sections 1, 3, 4).
-- **WTI crude (real futures) — a break above $93.51 (would say Iran/Hormuz risk is overriding the
-  calm) vs. continuing to hold near $90.** Currently $90.35 (Sections 1, 7, 10).
-- **Nasdaq Composite — reclaiming Tuesday's record close of 27,722.75 vs. continuing to drift
-  below it.** Currently 27,366.17 (Sections 1, 2).
-- **SMH (semiconductor ETF) — recovering back above $610 (last week's level before the OpenAI
-  accounting scare) vs. staying capped near $600, which would say the chip-specific put-buying
-  from Section 8 is more than noise.** Currently $603.58 (Sections 8, 9).
+- **10-year Treasury yield — holding at/below 5.25% (confirms the calm extends) vs. reasserting
+  above 5.30–5.35% on a hot CPI print (reopens the bear-steepener scare).** Currently ~5.24%
+  (Sections 1, 3).
+- **WTI crude (real futures) — a break above $93.51 (would say Iran/Hormuz risk is overriding
+  the calm) vs. continuing to hold in the low-$90s.** Currently ~$91.85 — corrected this brief
+  from Saturday's $90.35 figure (Sections 1, 7).
+- **Nasdaq Composite — reclaiming the actual closing record of 27,599.89 (Oct 6) vs. continuing
+  to drift below it.** Currently 27,366.17 — note this is a corrected benchmark from Saturday's
+  27,722.75, which was an intraday high, not a close (Sections 1, 2).
+- **SMH (semiconductor ETF) — recovering back above $610 vs. staying capped near $600, and
+  specifically whether it reacts to the SpaceX/Nvidia financing report Monday.** Currently
+  $603.58 (Sections 5, 8, 9).
 
 ---
 
 ### Glossary
+- **General license (Treasury/OFAC)** — a standing authorization that lets a specific,
+  time-limited category of otherwise-sanctioned activity proceed without a case-by-case permit.
+  Friday's Russian-diesel license is one, valid through April 7, 2027 (Sections 4, 9.5).
+- **Crack spread** — the profit margin a refiner earns turning crude oil into refined products
+  like diesel; more diesel supply from Russia pressures this margin for other refiners (Section
+  4, 7).
+- **Investment-grade debt** — bonds rated by agencies as relatively low default risk, typically
+  sold to a broad range of institutional investors; $30B of SpaceX's reported $40B financing
+  would reportedly be this type (Section 5).
 - **Bear steepener** — a yield-curve move where long-term rates rise faster than (or while)
-  short-term rates fall; this week's move was the reverse — a calming, not a deepening (Section
-  1, 4).
-- **Bid-to-cover ratio** — at a Treasury auction, the dollar amount of bids received divided by
-  the amount of debt sold; higher = stronger demand. Wednesday's 30-year auction printed 2.54,
-  above the recent 6-auction average of 2.41 (Section 1).
-- **Net vs. gross revenue** — net revenue counts only a company's own share of a transaction;
-  gross revenue counts the full transaction value including amounts passed to partners. The
-  $20B "gap" in OpenAI's reported revenue this week was a net-vs-gross mismatch, not a sales
-  drop (Section 9.5).
-- **FOMC** — the Federal Open Market Committee, the Fed body that sets interest-rate policy.
-  September meeting minutes, released Oct 7, showed a 12-0 vote for the last hike but a split
-  on the next one (Section 1).
+  short-term rates fall; last week's move was the reverse, a calming (Section 1, 10).
 - **VIX** — the "fear gauge"; the options market's expectation of S&P 500 volatility over the
   next 30 days. Below 16 = calm; above 25–30 = genuine stress. Currently 14.84 (Section 3).
 - **AAII survey** — a weekly poll of individual (retail) investors on bullish/bearish sentiment;
-  the bull-bear spread (bulls minus bears) is the standard summary metric. Swung from −11.9 to
-  +1.3 this week (Section 1, 3).
-- **Low-band spectrum (800 MHz)** — a lower-frequency slice of wireless spectrum that travels
-  farther and penetrates buildings better than the higher frequencies Starlink currently uses;
-  the asset at the center of SpaceX's $8B deal (Section 5).
-- **Equity value vs. enterprise value** — equity value is what shareholders receive; enterprise
-  value adds net debt assumed in a deal. Relevant background on the now-closed Skydance-WBD
-  merger, corrected in a prior brief (Section 1).
+  the bull-bear spread (bulls minus bears) is the standard summary metric. Currently +1.3,
+  unchanged since Thursday's reading (Section 3).
+- **Intraday high vs. closing price** — the highest price a security trades at *during* a
+  session versus the price it settles at when the session ends; only closing prices count as
+  "record closes." Saturday's brief conflated the two for the Nasdaq Composite (Section 1).
 
 ---
 
-*Sources: price/volatility data — Alpaca (equities/ETFs, Friday, October 9's completed close),
-Coinbase (crypto, live Saturday read), Yahoo Finance (VIX, Friday's close), Finnhub (IPO/earnings
-calendar), via the project data bundle. 10-year yield, 30-year auction, FOMC minutes detail —
-TradingEconomics, CNBC, Bloomberg, Federal Reserve, via search. Real WTI futures —
-TradingEconomics, via search. Nasdaq/S&P/Dow actual index closes — TheStreet, Bloomberg, Yahoo
-Finance, via search. Iran statements — Al Arabiya, The National Desk, via search. Skydance-WBD
-merger closing and ticker change — SEC EDGAR filings, TipRanks, via search. SpaceX-Grain
-Management spectrum deal and telecom stock reaction — CNBC, 24/7 Wall St., Forbes, via search.
-OpenAI revenue-accounting story — Financial Times (via Axios, TechTimes), Microsoft FY2026 10-K
-(SEC EDGAR), via search. AAII sentiment — AAII.com, via search. Week-ahead calendar — various,
-via search. Not financial advice; this brief places no trades.*
+*Sources: price/volatility data — Alpaca (equities/ETFs, Friday, October 9's completed close,
+unchanged since Saturday), Coinbase (crypto, live Sunday read), Yahoo Finance (VIX), Finnhub
+(IPO/earnings calendar), via the project data bundle. 10-year yield, real WTI/Brent futures —
+TradingEconomics, Forbes, oilprice.com, via search. Nasdaq Composite actual closes and closing
+milestones — Investing.com, Nasdaq historical data, via search. Russia diesel sanctions waiver —
+CNBC, NBC News, discoveryalert.com, BigGo Finance, via search. SpaceX $40B Nvidia financing
+report — Financial Times (via Benzinga, Manila Times, TIKR), via search. Uber-ezCater deal —
+Bloomberg, via search. Iran statements — Al Jazeera, Al Arabiya, via search. SpaceX-Grain
+spectrum deal status — StreetInsider, TradersAgency, via search. AAII sentiment — AAII.com, via
+search. Week-ahead calendar — various, via search. Not financial advice; this brief places no
+trades.*
 
 ---
 
@@ -492,6 +460,7 @@ via search. Not financial advice; this brief places no trades.*
 
 | Date | Brief |
 |---|---|
+| 2026-10-11 | [open](briefs/brief_2026-10-11.md) |
 | 2026-10-10 | [open](briefs/brief_2026-10-10.md) |
 | 2026-10-06 | [open](briefs/brief_2026-10-06.md) |
 | 2026-10-05 | [open](briefs/brief_2026-10-05.md) |
