@@ -1,457 +1,448 @@
 # 📊 Daily Market Brief — Dashboard
 
-**Latest edition: 2026-10-12** · updated 2026-10-12 07:06 GST · auto-published by the pipeline on DESKTOP-H3M86AT
+**Latest edition: 2026-10-13** · updated 2026-10-13 07:06 GST · auto-published by the pipeline on DESKTOP-H3M86AT
 
 ---
 
-# Daily Market Brief — Monday, October 12, 2026
+# Daily Market Brief — Tuesday, October 13, 2026
 
 *Read-only briefing — explains the market and flags "what you could do" as fact-based reasoning
 you can disagree with. Not financial advice; places no trades.*
 
-*Timing note: generated Monday morning GST, before the US cash equity session opens. Monday,
-October 12 is Columbus Day — the Treasury **cash bond market is closed**, but equities and
-Treasury futures trade on **normal hours**, just with thinner liquidity (Japan and Canada are
-also closed for their own holidays today). Because no new equity session has traded yet, the
-price data bundle below is still Friday, October 9's completed close — identical to Saturday's
-and Sunday's briefs. What's genuinely new since Sunday's brief is **not** price action; it's two
-fast-moving stories (a Saudi/Houthi military escalation, and a disputed Russia-Ukraine "energy
-ceasefire") plus a live, intraday reading on oil futures, both pulled via search below.*
+*Timing note: generated Tuesday morning GST, before the US cash equity session opens. Monday,
+October 12's full cash session is now complete — the price data below is a real, traded close
+(not a carried-forward weekend snapshot), so for the first time in several editions every level
+and scorecard item below has an actual update rather than "still open." Bank earnings
+(JPMorgan, Goldman Sachs, Wells Fargo) are due this morning around 7:00-7:30am ET / 11:00-11:30am
+UTC — after this brief's 07:00 GST (03:00 UTC) publish time, so those remain genuinely open.*
 
 ---
 
-## 1. Scorecard — grading Sunday's calls
+## 1. Scorecard — grading Monday's calls
 
-**Still largely ungraded — Monday's cash session hadn't opened at publish time, so none of
-Sunday's four "what I'd watch" items have been tested yet.** One level got a real, if partial,
-update from live futures.
+**Monday's cash session has now traded — three of Sunday's four "what I'd watch" items and
+three of four "levels" get their first real grade.**
 
-| Item (from Sunday's brief) | Status | What's actually new |
+| Item (from Monday's brief) | Status | What actually happened |
 |---|---|---|
-| **Monday's thin-volume equity session** | ⏳ Still open | Hasn't traded yet at publish time. **Fact (via search):** the thinness is now better sourced — bond cash market closed for Columbus Day, plus Japan (Health and Sports Day) and Canada (Thanksgiving) both closed, thinning global liquidity further than a typical US-only holiday |
-| **Whether chip names (AMD, MU, NVDA) react to the SpaceX $40B financing report** | ⏳ Still open | No new session; Friday's close (Section 2) is still the last data point |
-| **Tuesday's bank earnings as the first Q3 data point** | ⏳ Still open | Now previewable: JPMorgan EPS est. ~$5.93–5.94, Goldman Sachs ~$13.04 (12 straight beat streak), Wells Fargo ~$1.85 — sector-wide ~10% YoY earnings growth expected (Section 11, via search) |
-| **Wednesday's CPI print** | ⏳ Still open | No new data; forecast unchanged from prior briefs (Section 11) |
+| **Monday's thin-volume equity session** | ✅ **Played out as a mixed, low-drama day** | SPY −0.07%, QQQ −0.73%, DIA +0.34%, IWM −0.39% (today's data bundle). **Fact (via search):** S&P 500 closed 7,807 (−0.06%), Nasdaq Composite 27,246 (−0.44%), Dow 51,851 (+0.38%) — a genuine rotation out of tech into value, not a geopolitical risk-off gap despite the weekend's Saudi/Houthi escalation |
+| **Whether chip names (AMD, MU, NVDA) react to the SpaceX $40B financing report** | ⏳ **Still unconfirmed, but the chip move that happened was unrelated** | AMD −2.25%, MU −3.89%, NVDA −1.26% Monday — but **fact (via search):** the actual driver was China's CXMT flagging a denser memory-chip design, a competition story, not the SpaceX financing (which remains unconfirmed by any named party as of this writing) |
+| **Tuesday's bank earnings as the first Q3 data point** | ⏳ Still open | JPMorgan reports ~7:00am ET, Goldman Sachs ~7:30am ET, Wells Fargo and Citigroup the same morning — all after this brief's publish time |
+| **Wednesday's CPI print** | ⏳ Still open | Unchanged — Wednesday, October 14 |
 
-| Level (from Sunday's brief) | Status | Correction / current reading |
+| Level (from Monday's brief) | Status | Current reading |
 |---|---|---|
-| **10-year Treasury yield — hold ≤5.25% vs. break 5.30–5.35%** | ⏳ Still untested | Bond cash market is **closed today** for Columbus Day — there will be no new data point on this level until Tuesday at the earliest |
-| **WTI crude (real futures) — break $93.51 vs. hold low-$90s** | 🔄 **Partial update** | **Fact (CNBC, via search):** Monday-morning futures trading ~$90.09, down ~1.9% intraday — still comfortably below $93.51, and even softer than Friday's $91.85. This is a live intraday futures print, not a settled close |
-| **Nasdaq Composite — reclaim the real closing record of 27,599.89** | ⏳ Still open | No new session; Friday's close of 27,366.17 stands |
-| **SMH — reclaim $610 vs. stay capped near $600** | ⏳ Still open | $603.58 Friday close, unchanged; no new session yet |
+| **WTI crude (real futures) — break $93.51 vs. hold low-$90s** | ❌ **Broke higher, past the trigger** | **Fact (via search):** WTI is at ~$92.73 (+2.9% in 24h) and Brent at ~$105.86-106 as of Tuesday morning — Brent is now meaningfully above where it sat Monday (~$102.99), pulled up by Iran calling the US response to its Hormuz peace proposal "inadequate" (Section 4). The WTI $93.51 trigger hasn't cleanly broken yet but the direction reversed hard from Monday's dip |
+| **10-year Treasury yield — hold ≤5.25% vs. break 5.30-5.35%** | ⏳ Still untested | **Fact (via search):** holding at ~5.24% as of the most recent print (Oct 9) — the bond market reopened today but no fresh close is in yet at publish time |
+| **Nasdaq Composite — reclaim the real closing record of 27,599.89** | ❌ **Moved further away, not closer** | Closed 27,246 Monday, down from Friday's 27,366.17 — now ~354 points below the record, the gap widened |
+| **SMH — reclaim $610 vs. stay capped near $600** | ❌ **Broke below the floor, not just capped** | SMH closed $590.59 (−2.12%), its first close below $600 in this brief's recent tracking — worse than "capped," a real breakdown |
 
-💡 *What it means:* **Fact:** three of four "what I'd watch" items and three of four "levels"
-are simply untested — the clock hasn't run yet, not a soft call. **Fact:** the one level with a
-real update (WTI) moved in the direction this brief already expected (holding well below the
-Iran/Hormuz trigger), even as the geopolitical backdrop got more dangerous, not less (Section 4) —
-worth noting precisely because it's counter-intuitive.
+💡 *What it means:* **Fact:** three of four graded levels went against the "calm holds" reading —
+oil broke higher on fresh Iran news, the Nasdaq widened its gap to its record, and SMH broke a
+round-number floor it had only been "capped near" before. **Fact:** the one item that played out
+calm (the equity session itself) did so for a reason unrelated to the weekend's Saudi escalation —
+rotation and a China chip-competition story, not geopolitics, drove Monday's moves. **Inference
+(medium confidence):** the market absorbed the Houthi/Saudi story without a panic reaction, but
+that doesn't mean it's being ignored — oil's overnight jump on the Iran "inadequate" response
+(Section 4) suggests the geopolitical risk is still live, just not the thing moving equities
+Monday.
 
-➡️ *What you could do:* Don't treat Monday's pre-market futures quotes as the day's verdict —
-with the bond market shut and global liquidity thin, a single large order can move prices more
-than usual. Wait for Monday's cash close before updating any of the four levels above.
+➡️ *What you could do:* Don't read Monday's calm equity tape as "geopolitical risk is priced out."
+Oil is the cleaner signal right now, and it just moved against the "contained" thesis overnight —
+watch whether WTI actually clears $93.51 today, which would be a second consecutive escalation
+in the pricing, not a one-day blip.
 
 ---
 
 ## 2. Market Pulse
 
-*Friday, October 9's completed cash close (Alpaca data bundle, ETF proxies) — unchanged since
-Saturday and Sunday's briefs; no new session has traded yet at publish time.*
+*Monday, October 12's completed cash close (data bundle, ETF proxies).*
 
-| Index (proxy) | Close | Day (Fri) |
+| Index (proxy) | Close | Day (Mon) |
 |---|---|---|
-| S&P 500 (SPY) | $778.60 | +0.61% |
-| Nasdaq-100 (QQQ) | $751.84 | +0.58% |
-| Dow 30 (DIA) | $516.05 | +0.88% |
-| Russell 2000 (IWM) | $279.11 | +0.58% |
+| S&P 500 (SPY) | $777.96 | −0.07% |
+| Nasdaq-100 (QQQ) | $745.81 | −0.73% |
+| Dow 30 (DIA) | $517.83 | +0.34% |
+| Russell 2000 (IWM) | $277.82 | −0.39% |
 
-**Fact (via search):** the underlying indexes closed Friday at S&P 500 **7,811.54** (+0.6%) and
-Nasdaq Composite **27,366.17** (+0.6%) — a fourth straight positive week for the Nasdaq, with the
-S&P coming close to retesting its all-time high set three days earlier.
+**Fact (via search):** the underlying indexes closed Monday at S&P 500 **7,807** (−0.06%),
+Nasdaq Composite **27,246** (−0.44%), and Dow **51,851** (+0.38%) — ending the Nasdaq's
+four-week winning streak with its first down day, while the Dow outperformed on a rotation into
+value/industrial names.
 
-💡 *What it means:* **Fact:** every number here is identical to the weekend briefs — same
-completed session. **Inference (medium confidence):** today is the first real test of that
-four-week winning streak against a materially worse geopolitical backdrop than Friday's close
-priced in (Section 4) — but thin Columbus Day liquidity (Section 1) means today's reaction may
-not be a clean read either.
+💡 *What it means:* **Fact:** this was a genuine rotation day — money moved out of mega-cap tech
+(QQQ underperformed SPY and DIA by a wide margin) into more value-oriented names, not a broad
+risk-off move. **Inference (medium confidence):** the proximate causes were stock-specific (memory
+chips on the CXMT competition story, optics on profit-taking — Section 8), not the weekend's
+Saudi/Houthi news, which argues the market is compartmentalizing the geopolitical risk rather than
+pricing it into equities broadly — oil is where that risk is actually showing up (Section 7).
 
-➡️ *What you could do:* Watch the open print on SPY/QQQ relative to Friday's close as the first
-signal of how the market is pricing the weekend's Saudi/Houthi escalation — but weight it less
-than you would a normal Tuesday, given the thin-volume caveat above.
+➡️ *What you could do:* Watch whether today's bank earnings (JPMorgan ~7am ET, Goldman ~7:30am ET)
+extend the value-over-growth rotation or reverse it — a strong EPS beat with a muted stock reaction
+would say the rotation has more to do with tech-specific overhangs (memory competition, optics
+valuations) than genuine macro repositioning.
 
 ---
 
 ## 3. Sentiment Gauge
 
-- **VIX: 14.84** (−3.70%, Yahoo, via data bundle) — Friday's close, unchanged since the weekend.
-- **AAII: bulls 40.3%, neutral 20.8%, bears 39.0%, spread +1.3** (AAII.com, via search) — week
-  ending October 7; AAII's next release is expected around Thursday, October 15.
-- **10-year Treasury yield: ~5.24%** (TradingEconomics, Oct 9, via search) — no new print today;
-  the cash bond market is closed for Columbus Day (Section 1).
+- **VIX: 15.21** (+2.49%, Yahoo, via data bundle) — Monday's close, up from Friday's 14.84.
+- **AAII: bulls 40.3%, neutral 20.8%, bears 39.0%, spread +1.3** (AAII.com, via search) — still
+  the week-ending October 7 reading; the next release is Thursday, October 15, so this number is
+  unchanged since Monday's brief.
+- **10-year Treasury yield: ~5.24%** (via search) — still the October 9 print; today is the first
+  day the bond market has been open since Columbus Day, but no fresh close is available yet at
+  publish time.
 
-**Verdict: still reading calm on Friday's numbers, but that calm was priced before the weekend's
-escalation in Saudi Arabia — today's equity session is the first chance to see if VIX moves off
-14.84 even without a bond market open to confirm it in yields.**
+**Verdict: VIX ticked up for the first time in several editions (14.84 → 15.21), a real if modest
+move — consistent with a market that absorbed Monday's rotation and overnight oil jump without
+panic, but is no longer getting calmer either.**
 
-💡 *What it means:* **Fact:** nothing in this section has a new data point yet. **Inference
-(medium confidence):** a 14.84 VIX looks low against a weekend that produced a direct military
-escalation involving the world's top oil exporter (Section 4) — if equities open calm anyway,
-that's a real signal the market is reading the escalation as contained, not a gap in the data.
+💡 *What it means:* **Fact:** a +2.49% VIX move on a day the S&P was essentially flat (−0.07%)
+is a small divergence worth noting — vol crept up even as the headline index barely moved, which
+can reflect under-the-surface rotation (Section 2) rather than index-level fear. **Inference
+(low confidence):** 15.21 is still comfortably in "calm" territory (below 16); this isn't a stress
+signal yet, just the first tick off the recent lows.
 
-➡️ *What you could do:* Check where VIX settles today relative to 14.84. A meaningful jump with
-no bond market open to explain it via yields would be the market pricing in Saudi/Houthi risk for
-the first time — a cleaner signal than anything in the weekend's unchanged numbers.
+➡️ *What you could do:* Watch whether VIX keeps climbing today alongside oil (Section 1) — two
+consecutive up days in both, on the same overnight Iran/Hormuz news, would be a cleaner signal
+that geopolitical risk is migrating from oil into broader market pricing.
 
 ---
 
 ## 4. The story that matters most
 
-**Houthi forces have struck Saudi Arabia's main Riyadh airport twice in four days, killing at
-least 12-13 people and triggering hundreds of flight cancellations — and President Trump says the
-US is now "going to look at" joining Saudi Arabia's fight against the Iran-backed group.**
+**Iran has formally rejected the latest US response to its seven-point Strait of Hormuz peace
+proposal as "inadequate," and Houthi forces continue striking Saudi Arabia even as Trump
+considers direct US military involvement — oil moved higher overnight on this, breaking Monday's
+brief dip.**
 
-**Fact (Al Jazeera, NPR, NBC News, via search):** King Khalid International Airport in Riyadh was
-struck by Houthi missiles on October 8, killing at least 12 people (nationalities including
-Saudi, Bangladeshi, American, Jordanian, Palestinian, Syrian, Sudanese, and Egyptian) and wounding
-over 300; a second strike hit the same airport again around October 10-11. **Fact:** more than
-225 flights were cancelled over 24 hours, with Air India, FlyDubai, Lufthansa Group, and Pakistan
-International Airlines suspending Saudi routes for several days. **Fact:** separately, attacks on
-tankers transiting the Strait of Hormuz have surged to their highest rate since the Iran war
-began in February — at least 11 ships struck in the week ending October 4, with the UK Maritime
-Trade Operations agency and IMO both confirming near-daily strikes through the second week of
-October (CNBC, USNI News, via search).
+**Fact (Iran International, Washington Post, via search):** Iran's Supreme National Security
+Council Secretary Mohsen Rezaei said the US accepted some of Iran's seven conditions but called
+the overall response "inadequate," specifically accusing Washington of failing to reopen the
+Strait of Hormuz through legitimate means and instead "resorting to smuggling." **Fact:** Iranian
+officials are reviewing the latest US proposal and will respond via Qatari intermediaries;
+Tehran wants a return to an earlier "Islamabad memorandum of understanding" framework and accuses
+the US of undermining diplomacy by continuing to raise nuclear issues. **Fact (via search):**
+separately, Saudi Arabia reports drones and missiles still targeting the kingdom, and the US has
+sent more than 100 military advisers to provide intelligence under a new joint command — short of
+the direct strikes Trump said he's "looking at."
 
-💡 *What it means:* **Fact:** this is an escalation against Saudi Arabia directly — not just
-shipping lanes — and against the world's largest oil exporter by a wide margin. **Inference
-(medium confidence):** Trump's statement that the US "may" join Saudi strikes against the
-Houthis raises the odds of direct US military involvement in a conflict that, until now, the US
-had mostly stayed adjacent to (via sanctions and naval presence) rather than joined outright —
-this is a meaningfully different risk level than anything in the prior week's briefs.
+💡 *What it means:* **Fact:** this is the clearest evidence yet that the Hormuz/Iran diplomatic
+track and the Houthi/Saudi military track are two separate, both-still-live threats, not one
+story resolving — Monday's oil dip (Section 1 of the prior brief) reflected a one-day read on
+de-escalation hopes that didn't survive the next 24 hours. **Inference (medium confidence):**
+Iran's public rejection, rather than silence or a quiet counter, suggests Tehran is using open
+statements as a negotiating lever — which tends to keep a risk premium in oil rather than resolve
+it quickly in either direction.
 
-➡️ *What you could do:* This is the one geopolitical thread this week that could move oil on
-pure supply fear rather than narrative (unlike the diesel story in Section 7). Watch WTI/Brent
-for a sustained break higher specifically tied to new Hormuz/Saudi headlines — that would be the
-signal this has stopped being contained, separate from the offsetting Ukraine-ceasefire and
-Hurricane Isaias stories pulling oil in other directions this week (Section 7).
+➡️ *What you could do:* Treat oil (Section 7) as the live scoreboard for this story, not equities
+— Monday showed equities can have a calm, rotation-driven day even while this geopolitical track
+is actively worsening. Watch for WTI clearing $93.51 intraday as the next concrete threshold.
 
 ---
 
 ## 5. Big corporate event
 
-**Iambic Therapeutics (ticker IAM), an AI-driven cancer-drug biotech, is pricing a $150 million
-IPO this week on Nasdaq — one of the only live IPO dates on the calendar.**
+**Bank of America double-upgraded Salesforce from Underperform straight to Buy, nearly doubling
+its price target from $160 to $285 — a rare, sharp reversal that's as much a story about analyst
+overreaction to "AI disruption" fears as it is about Salesforce itself.**
 
-**Fact (Renaissance Capital, SEC filings, via search):** Iambic set terms to sell 9.375 million
-shares at $15-17, implying a roughly $809 million fully diluted valuation at the midpoint; J.P.
-Morgan, Jefferies, BofA Securities, and Citi are joint bookrunners. **Fact:** the company booked
-$18 million in revenue for the twelve months ended June 30, 2026, and uses an AI platform to
-design small-molecule cancer therapies; expected pricing date is the week of October 12-15 (data
-bundle calendar lists Oct 15).
+**Fact (via search):** BofA analyst Tal Liani's note said the bank had previously overstated AI
+disruption risk to Salesforce's business model (a view BofA itself held as recently as May 2026)
+and now believes the company has a credible AI strategy where "AI should deepen dependence on
+these platforms" rather than erode it. **Fact:** CRM shares rallied as much as 5.1% intraday
+Monday, touching $240.90, before trimming gains.
 
-**Fact (Reuters, via search):** separately, SpaceX's reported $40 billion Apollo-led financing to
-buy Nvidia chips (first reported October 7, covered in prior briefs) remains unconfirmed on the
-record by SpaceX, Apollo, Pimco, or Nvidia as of this writing — no new development since last
-week's initial report.
+**Fact (via search):** Iambic Therapeutics (IAM) is still on track to price its $150M AI-biotech
+IPO this week, 9.4 million shares at $15-17, implying roughly a $758-809M valuation; expected to
+list on Nasdaq around October 15. **Fact:** City Therapeutics (CTY) is a second biotech IPO on
+the near-term calendar, expected October 16, targeting $212M at $17-19/share (data bundle
+calendar). **Fact:** SpaceX's reported $40B Apollo-led financing for Nvidia chip purchases
+remains unconfirmed by SpaceX, Apollo, Nvidia, or Pimco as of this writing — no new development
+since the October 6-7 initial report.
 
-💡 *What it means:* **Fact:** Iambic is a small deal by dollar size but a real, pricing-this-week
-test of the AI-biotech IPO window, distinct from the mega-cap AI-infrastructure financing stories
-dominating headlines. **Inference (low confidence):** a clean IPO pop for a sub-$1B AI-drug-
-discovery company would say risk appetite for speculative AI names extends beyond the chip/data-
-center trade — worth noting given that trade's own leverage questions (Section 10).
+💡 *What it means:* **Fact:** the Salesforce reversal is a concrete data point on the
+"SaaSpocalypse" debate (the fear that AI assistants will let companies route around traditional
+software licenses) — one of the largest, most bearish calls on a mega-cap SaaS name from a major
+bank just flipped completely in five months. **Inference (low confidence):** if other SaaS names
+get similar re-ratings this week, that's a sector-wide signal the AI-disruption discount priced
+into software stocks earlier this year was overdone — but one upgrade isn't a trend yet.
 
-➡️ *What you could do:* If IAM prices and opens materially above its $15-17 range this week,
-that's a concrete, checkable data point on whether "AI" as a label is still commanding a premium
-in smaller deals, independent of the mega-cap debate in Sections 4 and 10.
+➡️ *What you could do:* Watch for similar upgrade/downgrade reversals on other SaaS names
+(Workday, ServiceNow, Adobe) this week — a cluster would confirm this is a sector repricing, not
+a single analyst's reversal. Separately, if IAM prices and opens materially above $17, that's
+still the cleanest live read on AI-biotech risk appetite flagged in Monday's brief.
 
 ---
 
 ## 6. Crypto
 
-- **BTC: $83,729.40 (+0.86%/24h)** — Monday-morning read (data bundle, Coinbase).
-- **ETH: $2,544.44 (+1.44%/24h)** — Monday-morning read (data bundle, Coinbase).
+- **BTC: $82,874.85 (−1.03%/24h)** — Tuesday-morning read (data bundle, Coinbase).
+- **ETH: $2,488.30 (−2.22%/24h)** — Tuesday-morning read (data bundle, Coinbase).
 
-💡 *What it means:* **Fact:** both are modestly higher than Sunday's reading (BTC $83,012.01, ETH
-$2,508.36) — a small continuation of the weekend drift upward, not a meaningful move. **Fact:**
-this drift has continued through the weekend's Saudi/Houthi escalation (Section 4) without any
-visible reaction — crypto is not treating this as a risk-off trigger, at least so far.
+💡 *What it means:* **Fact:** both have pulled back from Monday's reading (BTC $83,729.40, ETH
+$2,544.44) — a reversal of the weekend's modest upward drift, now moving in the same direction as
+Monday's QQQ weakness (Section 2) rather than staying decoupled. **Fact:** this is the first
+session in this brief's recent tracking where crypto and tech equities moved the same direction
+instead of crypto drifting independently.
 
-➡️ *What you could do:* If equities open lower today on the weekend's geopolitical news while
-crypto keeps drifting higher, that's a live data point on whether BTC/ETH are still decoupled
-from macro risk sentiment, or whether they're simply reacting on a lag.
+➡️ *What you could do:* If BTC/ETH keep falling alongside — not independent of — today's equity
+session, that would mark a shift from the "crypto ignoring macro risk" pattern flagged in Monday's
+brief to crypto trading as a high-beta tech proxy again. Worth tracking for a second day before
+calling it a pattern.
 
 ---
 
 ## 7. Commodities
 
-*GLD/SLV/USO are ETF proxies (Friday's close, data bundle, unchanged since the weekend); real-
-futures WTI and Brent below are a live Monday-morning read via search.*
+*GLD/SLV/USO are ETF proxies (Monday's close, data bundle); real-futures WTI and Brent below are
+a live Tuesday-morning read via search.*
 
-- **Oil, WTI (USO ETF proxy, data bundle): $148.24, +0.40%** (Friday close, unchanged).
-- **Oil, WTI (real futures): ~$90.09, down ~1.9% intraday Monday** (CNBC, via search) — softer
-  than Friday's ~$91.85 (Section 1), and still well below the $93.51 Iran/Hormuz trigger level.
-- **Brent crude (real futures): ~$102.99, down ~1.65% intraday Monday** (CNBC, via search).
-- **Gold — GLD proxy: $384.59, +1.57%** (Friday close, unchanged).
-- **Silver — SLV proxy: $54.795, +2.52%** (Friday close, unchanged).
+- **Oil, WTI (USO ETF proxy, data bundle): $151.07, +1.91%** (Monday close).
+- **Oil, WTI (real futures): ~$92.73, up ~2.9% in 24h** (via search) — a sharp reversal from
+  Monday's intraday dip to ~$90.09, now closer to the $93.51 Iran/Hormuz trigger level than at any
+  point in the past week.
+- **Brent crude (real futures): ~$105.86-106, roughly flat to up slightly** (via search) —
+  up from Monday's ~$102.99.
+- **Gold — GLD proxy: $382.17, −0.63%** (Monday close).
+- **Silver — SLV proxy: $54.36, −0.79%** (Monday close).
 
-**Fact (via search):** oil is being pulled in opposing directions by at least four live stories
-this week: (1) Trump's disputed Russia-Ukraine "energy ceasefire" (Section 9.5) and Iran's
-outreach to Saudi Arabia after the Houthi strikes are both read as supply-calming, pushing crude
-lower Monday; (2) the Houthi/Hormuz escalation (Section 4) and (3) Hurricane Isaias — a Category
-3 storm that forced roughly 63-72% of US Gulf of Mexico oil production and ~56-59% of Gulf
-natural gas production offline in early October, prompting a Strategic Petroleum Reserve release
-(CNBC, NBC News, via search) — both push the other way, toward tighter supply.
+**Fact (via search):** the overnight reversal in oil tracks directly to Iran's public rejection
+of the US Hormuz proposal as "inadequate" (Section 4) — the same news flow that pushed WTI down
+Monday morning on hopes of de-escalation has now flipped, since the "deal" didn't hold up overnight.
+**Fact:** separately, Hurricane Isaias's Gulf of Mexico production disruption has eased to roughly
+57.5% of daily output still offline (down from a peak of ~63-72%), with production expected to
+resume within days absent storm damage (via search) — a supply-tightening factor that is fading,
+not worsening, even as the Iran story worsens.
 
-💡 *What it means:* **Fact:** Monday's intraday dip in WTI/Brent says the market is currently
-weighting the de-escalation stories (Ukraine, Saudi-Iran outreach) more heavily than the
-supply-tightening ones (Hormuz attacks, Hurricane Isaias) — but this is one morning's futures
-print, not a settled view. **Inference (medium confidence):** with this many live, opposing
-inputs, oil is genuinely a two-sided bet this week in a way it wasn't in prior briefs, where the
-diesel-sanctions story was the only mover.
+💡 *What it means:* **Fact:** of the two supply-side stories flagged in Monday's brief, the
+hurricane thread is resolving (production restarting) while the Iran/Hormuz thread just got worse
+(formal rejection of the peace proposal) — they're no longer running in the same direction, which
+simplifies the read on oil going forward. **Inference (medium confidence):** with the hurricane
+fading as a factor, oil's next move is more likely to track the Iran/Houthi story cleanly than it
+has in the past week's crowded, multi-story environment.
 
-➡️ *What you could do:* Don't anchor on one day's direction here — this is the most crowded week
-for oil-moving headlines in this brief's history. The $93.51 WTI level (Section 1) is still the
-cleanest single tripwire: it would take a clear re-escalation (not just a bad headline) to break
-it given today's $90.09 starting point.
+➡️ *What you could do:* The $93.51 WTI level (Sections 1, 4) is now the single cleanest tripwire
+left, since the hurricane noise is clearing out of the picture. A clean break above it tied to new
+Iran/Hormuz headlines would be a genuinely different signal than anything seen in the past week.
 
 ---
 
 ## 8. Sector winners & losers
 
-**No new session to report — Friday's pattern (AI-power/optics strength, mega-cap chip weakness,
-telecom weakness vs. tower REIT strength) is unchanged and carried forward for continuity, not
-re-graded as new.**
+**Monday's session (data bundle):**
 
-- **AI-infrastructure strength (data bundle, Friday):** Talen Energy (TLN) +5.40%, Constellation
-  Energy (CEG) +4.57%, Vistra (VST) +3.47%, Lumentum (LITE) +5.27%, Coherent (COHR) +3.41%.
-- **Mega-cap divergence (data bundle, Friday):** Amazon +3.27%, Microsoft +2.39%, Tesla +1.99%
-  up; AMD −2.18%, Micron −0.71%, Nvidia −0.48% down.
-- **Telecom losers (prior search, unchanged):** Verizon, AT&T, T-Mobile all suffered multi-decade
-  worst single days on the SpaceX spectrum news; tower REITs rose as the inverse trade.
+- **Mega-cap AI strength:** META +3.43% (new "Muse Wonder" AI model launch plus speculation about
+  a codenamed "Watermelon" model — fact via search), AAPL +1.36%, MSFT +1.10%, DLR +0.75%,
+  EQIX +0.64%.
+- **Memory-chip weakness:** MU −3.89%, WDC −2.63% — **fact (via search):** driven by China's
+  CXMT flagging a denser server-memory chip design, a competition story, not demand softness.
+- **Optics/photonics weakness:** LITE −9.71%, COHR −7.79% — **fact (via search):** sector-wide
+  profit-taking after a multi-month AI-optics rally (LITE is still up ~190% YTD even after this
+  drop), not company-specific bad news.
+- **Other chip names lower:** AMD −2.25%, AVGO −1.87%, NVDA −1.26%, QCOM −0.63% — broadly tracking
+  the memory/optics-led chip-sector pullback rather than moving independently.
 
-💡 *What it means:* **Fact:** this section is identical to the weekend briefs because the
-underlying session hasn't changed. **Inference (low confidence):** defense and energy names are
-the sectors most likely to see a fresh reaction today given the Saudi/Houthi escalation (Section
-4) — none of that is in Friday's numbers yet.
+💡 *What it means:* **Fact:** Monday's losers were concentrated and story-specific (memory
+competition, optics profit-taking) rather than a broad "risk-off" pattern — this is a healthier
+signal than an across-the-board selloff would be. **Inference (low confidence):** META's AI-model
+news driving a >3% gain the same day chip names fell on an unrelated competition story suggests
+the market is still discriminating between "AI winners" by specific catalyst, not treating "AI
+exposure" as a single uniform trade anymore.
 
-➡️ *What you could do:* Watch defense contractors and oil-services names specifically at today's
-open — a reaction there, independent of the broader index move, would confirm the market is
-pricing the weekend's escalation as a distinct risk rather than folding it into general
-macro sentiment.
+➡️ *What you could do:* Watch whether LITE/COHR stabilize or keep falling today — a second
+straight double-digit-adjacent drop would upgrade this from "profit-taking after a huge run" to a
+real valuation reset, given the ~43x forward P/E cited for Lumentum (via search).
 
 ---
 
 ## 9. ETF watch
 
-*Friday, October 9's completed close (data bundle) — unchanged since the weekend.*
+*Monday, October 12's completed close (data bundle).*
 
-| ETF | Close | Day (Fri) |
+| ETF | Close | Day (Mon) |
 |---|---|---|
-| SPY (S&P 500) | $778.60 | +0.61% |
-| QQQ (Nasdaq-100) | $751.84 | +0.58% |
-| IWM (small caps) | $279.11 | +0.58% |
-| DIA (Dow) | $516.05 | +0.88% |
-| SMH (semis) | $603.58 | −0.51% |
-| ARKK (spec growth) | $89.63 | +2.35% |
-| GLD (gold) | $384.59 | +1.57% |
-| IBIT (bitcoin) | $46.56 | +0.67% |
+| SPY (S&P 500) | $777.96 | −0.07% |
+| QQQ (Nasdaq-100) | $745.81 | −0.73% |
+| IWM (small caps) | $277.82 | −0.39% |
+| DIA (Dow) | $517.83 | +0.34% |
+| SMH (semis) | $590.59 | −2.12% |
+| ARKK (spec growth) | $88.01 | −1.81% |
+| GLD (gold) | $382.17 | −0.63% |
+| IBIT (bitcoin) | $47.00 | +0.95% |
 
-💡 *What it means:* **Fact:** no change from the weekend's table — same completed session.
-**Inference (low confidence):** SMH remains the cleanest single line to watch for a chip-specific
-reaction, now layered with both the SpaceX financing overhang (Section 5) and whatever reaction
-AMD/NVDA show to the weekend's oil/geopolitical news given their own capex-sensitivity.
+💡 *What it means:* **Fact:** SMH's −2.12% day was the worst move on this table by a wide margin,
+confirming the memory/optics-led chip weakness (Section 8) as sector-specific, not broad-market —
+QQQ fell only −0.73% despite SMH's much larger drop. **Fact:** IBIT (+0.95%) moved opposite to
+spot BTC's later Tuesday-morning pullback (Section 6) — IBIT reflects Monday's cash session,
+while the crypto read is a live Tuesday snapshot, so the two aren't contradictory, just measuring
+different times.
 
-➡️ *What you could do:* A move in SMH disconnected from QQQ today would separate a chip-specific
-story from a broad market reaction to the weekend's headlines — useful for isolating which thread
-(SpaceX financing vs. macro risk-off) is actually driving chip names if they move.
-
----
-
-## 9.5 What the Headlines Missed
-
-**What the headlines said:** Multiple outlets (Axios, CNN, CBS News, NBC News) ran Sunday with
-Trump's framing, almost verbatim from his own statement: Russia and Ukraine have agreed to an
-immediate "energy ceasefire." The headlines read as an agreed, bilateral truce.
-
-**What the primary statements actually say:** Trump posted on Truth Social: "Effective
-immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties
-have agreed." **Fact (Axios, via search):** when Axios asked Ukrainian President Zelenskyy about
-it directly, he said the ceasefire "was news for me" — he had not been informed of any such
-agreement before Trump's announcement. **Fact (Al Jazeera, via search):** despite the
-announcement, Russia struck Ukrainian energy infrastructure, including a power plant in Kharkiv,
-in the hours after Trump's post. Zelenskyy's own public position was conditional, not confirming:
-"Ukraine supports the ceasefire, and it is important that Russia support it as well... We are
-awaiting details from the American side."
-
-**The gap:** "Russia and Ukraine agree to energy ceasefire" implies a negotiated, bilateral deal
-both sides signed onto. What the primary record shows is a unilateral US announcement that one
-of the two named parties says it didn't make — and the other party continued striking energy
-targets after the announcement. **Fact (via search):** this is not a first occurrence — a similar
-ceasefire announcement from roughly a month earlier also broke down with both sides continuing
-aerial attacks.
-
-💡 *What it means:* **Fact:** the pattern (announce a ceasefire, one side disputes being party to
-it, strikes continue) has now repeated at least twice. **Inference (medium confidence):** markets
-reacted to the announcement itself on Monday (oil fell partly on this news, Section 7) before the
-Kharkiv strike was fully priced — meaning the initial market move may have been trading the
-headline, not the underlying reality, which the primary statements show is considerably shakier
-than "agreed ceasefire" implies.
-
-➡️ *What you could do:* Discount any near-term oil-price relief tied specifically to this
-"ceasefire" headline until there's confirmation from the Russian side or a multi-day absence of
-new strikes — Zelenskyy's own "news for me" quote and the Kharkiv strike are both on-the-record
-reasons to treat the announcement as aspirational, not settled, the same way this brief treats
-unconfirmed deal reports (Section 5) as unconfirmed until there's a primary filing or statement.
+➡️ *What you could do:* SMH closing below $600 for the first time in recent tracking (Section 1)
+makes it the chart level to watch today — a bounce back above $600 would suggest Monday's drop
+was the profit-taking/competition-news air-pocket it looks like; continued weakness would say
+something more structural is starting in chips.
 
 ---
 
 ## 10. Connect the Dots *(most speculative — facts flagged, inferences flagged)*
 
-**Thread one (sharpens) — the Iran-war/oil-supply chain now has a direct Saudi dimension.**
-**Fact:** until this week, this brief's Iran/oil thread was mostly about Hormuz tanker attacks and
-a US/Iran diplomatic stand-off. **Fact:** the Houthi strikes on Riyadh's main airport (Section 4)
-and Trump's statement that the US is weighing direct involvement mark a escalation from shipping-
-lane harassment to strikes on Saudi territory itself. **Inference (medium confidence):** this
-raises, for the first time in this brief's tracking, a realistic path to US forces directly
-engaging the Houthis — a materially different risk than sanctions or naval escort missions.
+**Thread one (sharpens) — the Iran/Hormuz diplomatic track just hardened, not softened.**
+**Fact:** Iran's formal "inadequate" rejection of the US proposal (Section 4) came after a weekend
+where oil had briefly dipped on hopes of de-escalation (Monday's brief). **Inference (medium
+confidence):** this is a pattern this brief has now seen twice this week in two different theaters
+— a de-escalation headline (Russia-Ukraine energy ceasefire, Monday's Section 9.5; the Hormuz
+proposal) gets priced in by markets within hours, then partially reverses on the ground within a
+day or two. That lag between headline and reality is where the real trading risk sits right now.
 
-**Thread two (new, complicates thread one) — Hurricane Isaias adds a second, unrelated supply
-shock in the same week.** **Fact:** ~63-72% of US Gulf of Mexico oil production was taken offline
-in early October by a Category 3 storm, triggering an SPR release (Section 7). **Inference (low
-confidence):** a reader skimming oil headlines this week could easily conflate "oil supply risk"
-from the Middle East with "oil supply risk" from the Gulf Coast — they are unrelated causes that
-happen to be live simultaneously, and the WTI/Brent price only reflects the net of all of them at
-once, not any single thread.
+**Thread two (narrows) — Hurricane Isaias is fading as a market factor.** **Fact:** Gulf
+production disruption eased from a peak ~63-72% offline to ~57.5% (Section 7), with full restart
+expected within days. **Inference (low confidence):** this removes one of the two supply-shock
+threads that made oil a "crowded, two-sided" story in Monday's brief — leaving the Iran/Houthi
+thread increasingly as oil's dominant single driver going forward, which should make the next
+move easier to attribute to one cause rather than several.
 
-**Thread three (unchanged) — the Burry/AI-capex-skepticism thread.** No new development since
-Thursday's brief; SpaceX's reported $40B Nvidia financing (Section 5) remains unconfirmed.
+**Thread three (unchanged) — the Burry/AI-capex-skepticism and SpaceX financing threads.** No new
+confirmation on the $40B Apollo/Nvidia financing since October 6-7 (Section 5); still unconfirmed
+by any named party.
 
 **Thread four (unchanged) — the Anthropic IPO.** No new reporting found since prior briefs.
 
-**Thread five (narrows) — the SpaceX spectrum deal's second-order winners.** **Fact (via
-search):** FCC Chair Brendan Carr responded publicly and positively to the SpaceX-Grain spectrum
-deal announcement, but the transaction still requires formal FCC approval and other customary
-closing conditions — no docket approval found yet. The tower-REIT-vs-telecom trade from prior
-briefs stands unchanged.
+**Thread five (unchanged) — the SpaceX-Grain spectrum deal.** **Fact (via search):** still
+pending FCC approval as of this writing — no docket decision found. The tower-REIT-vs-telecom
+trade from prior briefs stands unchanged.
 
-💡 *What it means:* **Fact:** of five tracked threads, two sharpened or gained new facts this
-weekend (Iran/Saudi, Hurricane Isaias), one narrowed slightly (spectrum deal — still pending), and
-two are genuinely unchanged. **Inference (medium confidence):** this is the busiest geopolitical
-week this brief has tracked — the risk isn't any single thread, it's that several live, unrelated
-shocks (Houthi escalation, hurricane, disputed ceasefire) are landing on the oil market at once,
-making the net price move a poor guide to any one story's actual severity.
+**Thread six (new) — the "SaaSpocalypse" re-rating (Section 5) is a live test of whether AI-
+disruption fear was overpriced across software broadly, not just at Salesforce.** **Fact:** BofA's
+own prior (May 2026) bearish Salesforce call was built on the same AI-disruption logic now being
+reversed. **Inference (low confidence):** if this spreads to other SaaS names this week, it would
+be a genuinely new thread worth tracking against the AI-capex-skepticism thread (three), since
+both are ultimately bets on how much economic value AI actually redistributes versus destroys.
 
-➡️ *What you could do:* If you're trying to read oil's next move as a signal about any single
-story (Iran risk, hurricane recovery, ceasefire durability), you can't — not this week. Track the
-underlying events directly (Hormuz attack frequency, Gulf production restart %, confirmed Russian
-strikes post-ceasefire) rather than inferring them backward from the WTI number.
+💡 *What it means:* **Fact:** of six tracked threads, one sharpened (Iran/Hormuz), one narrowed
+(hurricane), one is newly opened (SaaSpocalypse re-rating), and three are unchanged. **Inference
+(medium confidence):** the headline-vs-reality lag identified in thread one is probably this
+week's single most useful pattern to watch — it applied to both the Russia-Ukraine ceasefire and
+now the Hormuz proposal, in both cases with markets moving on the announcement before the
+follow-through (or lack of it) was clear.
+
+➡️ *What you could do:* When a de-escalation headline hits (ceasefire, peace proposal, truce),
+wait at least 24-48 hours before trusting the initial market reaction — this week has given two
+clean examples of the first move reversing once the other side's actual position became clear.
 
 ---
 
 ## 11. Week / day ahead
 
-- **Mon, Oct 12** — US Treasury cash market closed for Columbus Day; equities and Treasury
-  futures remain open, but on thinner volume (Japan, Canada also closed) (search).
-- **Tue, Oct 13** — Start of Q3 bank-earnings season: JPMorgan Chase (EPS est. ~$5.93-5.94,
-  revenue $51.2-52.2B), Goldman Sachs (EPS est. ~$13.04, 12 straight quarters of beats), Wells
-  Fargo (EPS est. ~$1.85); also UnitedHealth Group (UNH) and Johnson & Johnson (JNJ) (search).
+- **Tue, Oct 13 (today)** — Start of Q3 bank-earnings season: JPMorgan Chase (reports ~7:00am ET,
+  EPS est. ~$5.82-5.91, revenue ~$51B), Goldman Sachs (~7:30am ET, EPS est. unusually wide at
+  $13.35-16.42), Wells Fargo (EPS est. ~$1.84, revenue ~$22.4B), and Citigroup, all same morning
+  (search) — all after this brief's publish time. Sector-wide Q3 earnings growth forecast at
+  roughly +20% y/y, led by investment banking and trading revenue.
 - **Wed, Oct 14** — **CPI (September)**, the key print this brief is watching — headline forecast
-  +0.6% m/m / 3.6% y/y (up from 3.4%), core forecast +0.2% m/m / 2.5% y/y (search). Also earnings
-  from ASML, Bank of America (BAC), Morgan Stanley (MS), BlackRock (BLK), and State Street (STT).
+  +0.6% m/m / 3.6% y/y (up from 3.4%), core forecast +0.2% m/m / 2.5% y/y (prior search). Also
+  earnings from ASML, Bank of America (BAC), Morgan Stanley (MS), BlackRock (BLK), State Street
+  (STT).
 - **Thu, Oct 15** — Producer prices, retail sales, initial jobless claims, Philadelphia Fed
-  manufacturing index. AAII's next sentiment reading also expected around this date (Section 3).
-  Iambic Therapeutics (IAM) IPO expected to price this week, calendar date Oct 15 (Section 5).
-- **Ongoing, no fixed date** — whether the US formally joins Saudi Arabia against the Houthis
-  (Section 4); whether Russia observes the disputed energy ceasefire (Section 9.5); FCC review of
-  the SpaceX-Grain spectrum deal (Section 10); confirmation of SpaceX's reported $40B Nvidia
-  financing (Section 5); Gulf of Mexico oil-production restart pace post-Hurricane Isaias (Section
-  7); the Oct 27-28 FOMC meeting, hike odds currently near 20-25%.
-- **Disclosed gap:** the data bundle's economic-calendar endpoint again returned a 403 (Finnhub
-  premium-only); all dates above are sourced via search.
+  manufacturing index. AAII's next sentiment reading due. Iambic Therapeutics (IAM) IPO expected
+  to list (Section 5).
+- **Fri, Oct 16** — City Therapeutics (CTY) IPO expected to price, $212M at $17-19/share (data
+  bundle calendar).
+- **Ongoing, no fixed date** — Iran's counter-response to the latest US Hormuz proposal (Section
+  4); whether the US formally joins Saudi Arabia against the Houthis; Russia's compliance with the
+  disputed energy ceasefire; FCC review of the SpaceX-Grain spectrum deal (Section 10);
+  confirmation of SpaceX's reported $40B Nvidia financing (Section 5); Gulf of Mexico oil-
+  production restart pace (Section 7); whether the Salesforce re-rating spreads to other SaaS
+  names (Section 10); the Oct 27-28 FOMC meeting.
+- **Disclosed gap:** the data bundle's economic-calendar endpoint again returned a 403
+  (Finnhub premium-only); all dates above are sourced via search.
 
-💡 *What it means:* **Fact:** Wednesday, October 14 remains the single most-loaded date — CPI
-lands the same day as four major bank/ASML earnings reports. **Inference (medium confidence):**
-this week now carries more unresolved geopolitical risk than any prior week in this brief's
-tracking, on top of the usual CPI/earnings calendar — a wider range of outcomes than "calm
-continues" or "CPI surprises" alone would suggest.
+💡 *What it means:* **Fact:** today and tomorrow are now the two most-loaded dates — bank
+earnings this morning, CPI tomorrow. **Inference (medium confidence):** a bank-earnings beat this
+morning combined with a benign CPI print tomorrow would be the cleanest two-day stretch this brief
+has had in weeks to confirm the market can hold its current levels against the live geopolitical
+backdrop — a miss on either would test it directly.
 
-➡️ *What you could do:* Treat this week as higher-variance than a typical earnings-and-CPI week.
-Don't let Tuesday/Wednesday's scheduled events (which are at least knowable in advance) crowd out
-attention on the unscheduled ones (Houthi escalation, ceasefire durability) that could move
-markets with no warning.
+➡️ *What you could do:* Check bank earnings reactions by mid-morning today — a muted stock
+reaction to a beat (similar to Monday's Salesforce pattern) would say good news is already priced
+in; a selloff on a beat would be a genuine warning sign heading into tomorrow's CPI.
 
 ---
 
 ## 12. Bottom line
 
-No new equity session has traded since Friday's close at publish time, so the price data in this
-brief is still Friday, October 9's numbers. But two real things happened over the weekend that
-raise this week's risk level meaningfully above where Friday's close priced it: Houthi forces
-struck Saudi Arabia's main Riyadh airport twice, killing at least 12-13 people, and Trump said the
-US is now weighing direct military involvement against the group — a escalation from shipping-
-lane harassment to strikes on Saudi territory (Section 4). Separately, Trump announced a
-Russia-Ukraine "energy ceasefire" that Zelenskyy says he wasn't informed of beforehand, and that
-Russia breached within hours by striking a Kharkiv power plant (Section 9.5) — a pattern that has
-now repeated at least twice. Layered on top, Hurricane Isaias knocked out roughly two-thirds of US
-Gulf of Mexico oil production this week, triggering an SPR release (Section 7). Oil, caught
-between de-escalation headlines (Ukraine, Saudi-Iran outreach) and supply-tightening ones (Hormuz
-attacks, the hurricane), is trading lower Monday morning (~$90.09 WTI) — but this is a two-sided,
-not a one-directional, story right now.
+Monday's cash session finally gave this brief a real, traded data point after several editions of
+carried-forward weekend numbers — and the result was a rotation (tech down, value up) driven by
+stock-specific stories (a China memory-chip competition threat, an AI-optics profit-taking wave),
+not by the weekend's Saudi/Houthi escalation. That calm didn't extend to oil: Iran's overnight,
+on-the-record rejection of the latest US Hormuz peace proposal as "inadequate" reversed Monday's
+dip and pushed WTI back up toward its $93.51 trigger level (Sections 4, 7). Meanwhile, a second
+supply-side thread — Hurricane Isaias's Gulf production disruption — is fading, not worsening,
+which should make oil's next move easier to read as a cleaner signal of the Iran/Houthi risk
+specifically. Separately, Bank of America's double upgrade of Salesforce (Underperform to Buy,
+nearly doubling its price target) is a concrete test case for whether the market's AI-disruption
+discount on software stocks was overdone (Section 5) — worth watching for a cluster of similar
+re-ratings this week.
 
-**What I'd watch:** (1) **Whether the US formally joins Saudi Arabia against the Houthis** — the
-single biggest unscheduled risk this brief has flagged in weeks (Section 4). (2) **Whether Russia
-actually observes the disputed energy ceasefire** over the next 48-72 hours, given it's already
-been breached once (Section 9.5). (3) **Tuesday's bank earnings** as the first hard Q3 data point,
-now previewable with specific EPS estimates (Sections 1, 11). (4) **Wednesday's CPI print** —
-still the biggest scheduled test on the calendar for whether the long-yield calm holds (Sections
-1, 3, 11).
+**What I'd watch:** (1) **This morning's bank earnings** (JPMorgan ~7am ET, Goldman ~7:30am ET,
+Wells Fargo, Citigroup) — the first hard Q3 data point, and whether the market's reaction looks
+like Monday's "good news already priced in" Salesforce pattern (Sections 5, 11). (2) **Whether
+WTI clears $93.51** on fresh Iran/Hormuz headlines, now that the hurricane noise is fading from
+the oil picture (Sections 4, 7, 10). (3) **Tomorrow's CPI print** — still the biggest scheduled
+catalyst, now paired with today's earnings as a two-day test (Section 11). (4) **Whether SMH
+reclaims $600** after breaking below it Monday, separating a real chip-sector reset from a
+one-day profit-taking air-pocket (Sections 1, 8, 9).
 
 **Levels to watch:**
-- **WTI crude (real futures) — a sustained break above $93.51 tied to new Hormuz/Saudi headlines
-  (would say the escalation is overriding the offsetting de-escalation and hurricane-recovery
-  stories) vs. continuing to hold/drift in the high-$80s/low-$90s.** Currently ~$90.09 intraday
-  Monday (Sections 1, 4, 7).
-- **10-year Treasury yield — holding at/below 5.25% vs. reasserting above 5.30-5.35% on
-  Wednesday's CPI.** Currently ~5.24% as of Friday; no new print possible today (bond market
-  closed) (Sections 1, 3).
-- **Nasdaq Composite — reclaiming the actual closing record of 27,599.89 (Oct 6) vs. continuing
-  to drift below it.** Currently 27,366.17, unchanged since Friday (Sections 1, 2).
-- **SMH (semiconductor ETF) — recovering above $610 vs. staying capped near $600, and specifically
-  whether it decouples from QQQ on any Saudi/Houthi-driven risk-off move.** Currently $603.58
-  (Sections 8, 9).
+- **WTI crude (real futures) — a break above $93.51 tied to new Iran/Hormuz headlines (would
+  confirm the escalation is overriding the fading hurricane and the already-stale Ukraine
+  ceasefire story) vs. continuing to hold in the low-$90s.** Currently ~$92.73 (Sections 1, 4, 7).
+- **SMH (semiconductor ETF) — reclaiming $600 vs. extending below Monday's $590.59 close.**
+  Currently $590.59 (Sections 1, 8, 9).
+- **Nasdaq Composite — narrowing the gap back toward the 27,599.89 closing record vs. continuing
+  to widen it.** Currently 27,246, down from 27,366.17 Friday (Sections 1, 2).
+- **10-year Treasury yield — holding at/below 5.25% vs. reasserting above 5.30-5.35% once the
+  bond market posts a fresh close today or on Wednesday's CPI.** Currently ~5.24% (Sections 1, 3).
 
 ---
 
 ### Glossary
-- **General license (Treasury/OFAC)** — a standing authorization that lets a specific,
-  time-limited category of otherwise-sanctioned activity proceed without a case-by-case permit
-  (covered in prior briefs re: Russian diesel exports).
 - **Strait of Hormuz** — the narrow waterway between Iran and Oman through which roughly a fifth
-  of global oil consumption passes; repeated tanker attacks there (Section 4) are a live supply-
-  risk indicator distinct from attacks on Saudi territory itself.
-- **Strategic Petroleum Reserve (SPR)** — the US government's emergency crude oil stockpile;
-  releasing from it (Section 7) is a tool to offset a temporary supply shock like a hurricane.
-- **Investment-grade debt** — bonds rated by agencies as relatively low default risk; $30B of
-  SpaceX's reported $40B financing would reportedly be this type (Section 5).
+  of global oil consumption passes; Iran's seven-point proposal (Section 4) is specifically about
+  reopening it to normal passage.
+- **CXMT (ChangXin Memory Technologies)** — a Chinese state-linked memory-chip maker; its progress
+  on a denser chip design (Section 8) raised competition concerns for Micron and Western Digital,
+  separate from any demand-side story.
+- **Double upgrade** — when an analyst skips a middle rating tier entirely (e.g., Underperform
+  straight to Buy, as BofA did with Salesforce in Section 5) — a rarer, stronger signal than a
+  single-notch upgrade.
+- **Fully diluted valuation** — a company's market value counting all shares that could
+  eventually exist (options, convertible securities), not just currently outstanding shares; used
+  for Iambic Therapeutics' and City Therapeutics' IPO valuations (Section 5).
 - **VIX** — the "fear gauge"; the options market's expectation of S&P 500 volatility over the
-  next 30 days. Below 16 = calm; above 25-30 = genuine stress. Currently 14.84 (Section 3).
+  next 30 days. Below 16 = calm; above 25-30 = genuine stress. Currently 15.21 (Section 3).
 - **AAII survey** — a weekly poll of individual (retail) investors on bullish/bearish sentiment;
   the bull-bear spread (bulls minus bears) is the standard summary metric. Currently +1.3,
   unchanged since the October 7 reading (Section 3).
-- **Fully diluted valuation** — a company's market value counting all shares that could
-  eventually exist (options, convertible securities), not just currently outstanding shares; used
-  above for Iambic Therapeutics' ~$809M IPO valuation (Section 5).
+- **SaaSpocalypse** — shorthand for the fear that AI assistants/agents let companies bypass
+  traditional software subscriptions, destroying SaaS business models; the subject of this week's
+  Salesforce re-rating debate (Section 5).
 
 ---
 
-*Sources: price/volatility data — Alpaca (equities/ETFs, Friday, October 9's completed close,
-unchanged since the weekend), Coinbase (crypto, live Monday read), Yahoo Finance (VIX), Finnhub
-(IPO/earnings calendar), via the project data bundle. 10-year yield, real WTI/Brent futures —
-TradingEconomics, CNBC, via search. Saudi/Houthi airport attacks and Hormuz tanker attacks — Al
-Jazeera, NPR, NBC News, CNBC, USNI News, via search. Russia-Ukraine energy ceasefire dispute —
-Axios, CNN, CBS News, NBC News, via search. Hurricane Isaias Gulf oil disruption — CNBC, NBC News,
-via search. Iambic Therapeutics IPO — Renaissance Capital, SEC EDGAR filings, via search. SpaceX
-$40B Nvidia financing status — Reuters (via CNBC, Benzinga), via search. Bank earnings estimates —
-CNBC, Benzinga, via search. AAII sentiment — AAII.com, via search. Not financial advice; this
-brief places no trades.*
+*Sources: price/volatility data — Alpaca (equities/ETFs, Monday, October 12's completed close),
+Coinbase (crypto, live Tuesday read), Yahoo Finance (VIX), Finnhub (IPO/earnings calendar), via
+the project data bundle. Index closes, 10-year yield, real WTI/Brent futures — TradingEconomics,
+Yahoo Finance, via search. Iran/Hormuz proposal response — Iran International, Washington Post,
+via search. Memory-chip selloff — Yahoo Finance, 24/7 Wall St., via search. Optics selloff —
+Yahoo Finance, 24/7 Wall St., via search. Meta AI-model rally — Fool.com, Yahoo Finance, via
+search. Salesforce double upgrade — CNBC, Benzinga, FinanceFeeds, via search. SpaceX $40B Nvidia
+financing status — Reuters, Benzinga, via search. Iambic/City Therapeutics IPOs — Renaissance
+Capital, Axios, data bundle calendar, via search. SpaceX-Grain spectrum FCC status — Light
+Reading, TradersAgency, via search. Hurricane Isaias Gulf production — gCaptain, CNBC, Anadolu
+Agency, via search. Bank earnings schedule/estimates — Dealroom, Admiral Markets, via search. AAII
+sentiment — AAII.com, via search. Not financial advice; this brief places no trades.*
 
 ---
 
@@ -459,6 +450,7 @@ brief places no trades.*
 
 | Date | Brief |
 |---|---|
+| 2026-10-13 | [open](briefs/brief_2026-10-13.md) |
 | 2026-10-12 | [open](briefs/brief_2026-10-12.md) |
 | 2026-10-11 | [open](briefs/brief_2026-10-11.md) |
 | 2026-10-10 | [open](briefs/brief_2026-10-10.md) |
