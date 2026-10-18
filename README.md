@@ -1,59 +1,54 @@
 # 📊 Daily Market Brief — Dashboard
 
-**Latest edition: 2026-10-17** · updated 2026-10-17 07:08 GST · auto-published by the pipeline on DESKTOP-H3M86AT
+**Latest edition: 2026-10-18** · updated 2026-10-18 07:05 GST · auto-published by the pipeline on DESKTOP-H3M86AT
 
 ---
 
-# Daily Market Brief — Saturday, October 17, 2026
+# Daily Market Brief — Sunday, October 18, 2026
 
 *Read-only briefing — explains the market and flags "what you could do" as fact-based reasoning
 you can disagree with. Not financial advice; places no trades.*
 
-*Timing note: generated Saturday morning GST. US markets are closed for the weekend, so every
-price below is Friday, October 16's completed cash close — not a stale quote. Friday's full
-session has traded, so this brief's Scorecard and Market Pulse grade a real close, and the
-"Levels to watch" from Thursday's brief all get graded too.*
+*Timing note: generated Sunday morning GST. US equity, bond, and futures markets have not
+traded since Friday, October 16's cash close — Saturday and Sunday are non-trading days, so
+every price below is still that same completed Friday session, not a stale quote. Because no
+new US session has traded since Saturday's brief was written, **none of Saturday's "what I'd
+watch" items or "levels to watch" can be graded yet** — they were explicitly framed as tests for
+Monday's open and carry forward unchanged in Section 1. What *is* new since Saturday is overnight
+and weekend news — most importantly a sharp escalation in the Strait of Hormuz situation — which
+this brief covers as context for Monday, clearly separated from Friday's priced numbers.*
 
 ---
 
-## 1. Scorecard — grading Thursday's calls
+## 1. Scorecard — Saturday's calls
 
-**Friday's cash session has now traded — all four of Thursday's "what I'd watch" items and all
-four "levels" get graded.**
+**Nothing is gradable yet.** Saturday's brief framed all four "what I'd watch" items and all four
+"levels to watch" explicitly as tests for **Monday's** open. Markets have not traded since Friday,
+so none have had a session to confirm or deny. They carry forward unchanged:
 
-| Item (from Thursday's brief) | Status | What actually happened |
+| Item (from Saturday's brief) | Status | Why it's still open |
 |---|---|---|
-| **Whether Micron (MU) resumes falling alongside Samsung and SK Hynix, or Thursday's +1.80% bounce holds** | ❌ **Resumed falling — hard** | **Fact (data bundle):** MU closed Friday at $877.44, **−5.79%**, erasing Thursday's bounce and then some. The brief's bearish scenario — "if MU resumes falling alongside Samsung and SK Hynix, that would say the China-DRAM worry has become a US story" — is what happened |
-| **The final priced terms of CoreWeave's convertible-note and ATM equity raise** | ⏳ **Could not be cleanly confirmed** | **Fact (via search):** search turned up CoreWeave convertible-note pricings from April 2026 ($3.5B at 1.75%) and a $3.7B/2.875% deal referencing a September 17 share price — neither cleanly matches the $3.0B+$500M deal with the 2.375%-2.875% indicative range this brief tracked from Wednesday/Thursday. Whatever the exact final coupon, it's now pricing against a **much worse credit backdrop** (see next row) than when it launched |
-| **Whether VIX holds above 16** | ✅ **Blown through — far above 16** | **Fact (data bundle, source Yahoo):** VIX closed Friday at **19.99, +21.45%**, briefly trading above 22 intraday — the first time above 22 in four months (CNBC, Top Stock Alerts via search). "Holding above 16" undersold what actually happened |
-| **AAII's next reading (due ~October 21)** | ⏳ **Not due yet** | No new survey posted as of this brief's publish time; still the October 14 reading (bulls 38.7%, bears 41.6%, spread −2.9) flagged Thursday |
+| **VIX holding above 20 vs. fading under 18** | ⏳ **Pending Monday** | Still reading 19.99 (Friday's close, data bundle) — no new options session has traded |
+| **CoreWeave's CDS spread — widening past ~1,195bps vs. stabilizing** | ⏳ **Pending** | No fresh print found via search since Thursday's record 1,194.5bps (Global Markets Investor via X, Bloomberg, U.S. News) — CDS markets are thin-to-closed over the weekend |
+| **SMH reclaiming $555 vs. breaking below $535** | ⏳ **Pending Monday's US cash open** | Still $539.84 (Friday close); however Asia's memory-chip session (Oct 17) kept falling — SK Hynix −6.58%, part of a combined >$700B lost across Samsung/SK Hynix/Micron/SanDisk since October 6 (Yahoo Finance, Benzinga, via search) — a leading signal worth watching, not a settled grade |
+| **WTI above $100 vs. giving back to $95** | ⏳ **Directionally higher, but not a confirmed settle** | Weekend trackers report Brent near $109-110 and WTI near $101-102 (via search: straits.live, global-energy-flow.com) amid the Hormuz escalation below — but weekend futures liquidity is thin and these aren't primary-exchange settles, so this is color for Monday, not a graded number |
 
-| Level (from Thursday's brief) | Status | Current reading |
-|---|---|---|
-| **10-year yield — below 5.00% (safety-trade accelerating) vs. bouncing to 5.20% (one-day scare)** | ⏳ **Neither — stalled in between** | ~5.08-5.09% (via search) — essentially unchanged from Thursday's close; neither scenario confirmed (Section 3) |
-| **SMH — above $565 (losing streak exhausting) vs. below $555 (China-DRAM hitting US semis)** | ❌ **Broke well below $555** | $539.84, −3.4% (Sections 4, 8, 9) |
-| **WTI crude — holding near $98 vs. testing $100** | ✅ **Tested and broke above $100** | ~$100.72 (via search) (Sections 7, 12) |
-| **Micron — second up day (bounce real) vs. resuming decline (tracking Samsung/SK Hynix)** | ❌ **Resumed decline** | $877.44, −5.79% (Section 4) |
+💡 *What it means:* **Fact:** this is the first scorecard this brief has run where the honest
+answer is "nothing settled yet" rather than a mix of hits and misses — a direct result of the
+weekend gap, not of the calls being vague. **Fact:** every piece of fresh weekend information
+(Asia chip session, oil trackers, Hormuz news below) points the same direction as Saturday's
+bearish/escalation scenarios, none toward the calmer alternative.
 
-💡 *What it means:* **Fact:** three of the four graded levels moved in the "stress deepens"
-direction (VIX, SMH, Micron) and the fourth (oil) also moved in its "escalation" direction — this
-is the first scorecard this brief has run where every single graded call broke the same way, with
-no split outcomes. **Inference (medium confidence):** that kind of across-the-board move — equity
-vol, AI-infra semis, and the geopolitical oil premium all breaking in the same direction on the
-same day — is more consistent with a single dominant catalyst (CoreWeave's credit stress, Section
-4) spilling into everything else than with several independent stories coinciding.
-
-➡️ *What you could do:* Don't treat Thursday's "stabilizing" read on AI-infra names as the base
-case anymore — Friday's data says the China-DRAM and CoreWeave-debt threads (Section 10) are now
-reinforcing each other rather than running in parallel. Watch Monday's open for whether Friday's
-move was a one-day flush (a common Friday pattern before a weekend) or the start of a new leg.
+➡️ *What you could do:* Don't mistake "pending" for "nothing happened" — treat Monday's open as
+carrying extra weight, since it will be the first US session to price in both Friday's CoreWeave/
+VIX shock and the weekend's Hormuz escalation (Section 4) at once.
 
 ---
 
 ## 2. Market Pulse
 
-*Friday, October 16's completed cash close (data bundle ETF proxies; real index levels via
-search).*
+*Still Friday, October 16's completed cash close — no new session has traded (data bundle ETF
+proxies; real index levels via Saturday's brief, carried forward since unchanged).*
 
 | Index (proxy) | Close | Day (Fri) |
 |---|---|---|
@@ -62,204 +57,199 @@ search).*
 | Dow 30 (DIA) | $519.10 | −0.39% |
 | Russell 2000 (IWM) | $270.41 | −1.68% |
 
-**Fact (via search):** the underlying indexes closed Friday at S&P 500 **7,659.44** (−84.62
-points, −1.1%), Nasdaq Composite **26,140.03** (−572.99 points, −2.3%), and Dow **52,002.41**
-(−175.28 points, −0.34%) — the real index levels line up closely with the ETF-proxy percentage
-moves above. The S&P Technology sector fell over 3% while Energy rose 2.52% on the oil spike
-(Section 7).
+💡 *What it means:* **Fact:** there is nothing new to report here today — these are the same
+closing prices covered in Saturday's brief, because no US exchange has opened since. The only
+thing that's changed between then and now is the news backdrop (Sections 4, 8) that Monday's
+session will have to digest on top of these levels.
 
-💡 *What it means:* **Fact:** this is the mirror image of Thursday's pattern — Thursday's Dow
-gained on rotation into non-AI names while small caps outperformed; Friday, every index fell, and
-the Nasdaq's −2.3% nearly matched the Dow's −0.34% move seven times over. **Fact:** IWM's −1.68%
-also breaks Thursday's "small caps outperforming says this isn't broad risk-off" read — small caps
-fell roughly in line with the S&P Friday, a genuine broadening of the selloff (Section 1). **Fact:**
-this caps the Nasdaq's worst week since June, per CNBC's live markets coverage (via search).
-
-➡️ *What you could do:* Thursday's "Dow up, Nasdaq flat = rotation not fear" framework doesn't
-apply Friday — everything was red, with tech/AI names red by the widest margin. Use Monday's open
-to check whether small caps (IWM) re-decouple from the Nasdaq (a sign the AI-specific stress is
-re-isolating) or keep tracking it down (a sign of genuine broad-based risk-off).
+➡️ *What you could do:* Use Friday's $763.31 SPY close as the reference point for Monday's gap —
+a Monday open meaningfully below that level would say the weekend's Hormuz and chip-sector news
+added to Friday's selloff rather than Friday being a one-day flush.
 
 ---
 
 ## 3. Sentiment Gauge
 
-- **VIX: 19.99, +21.45%** (data bundle, source Yahoo) — briefly traded above 22 intraday, the
-  first time above that level in four months (CNBC, via search). This is well past the "16 = calm
-  line" this brief has used all week.
-- **AAII: bulls 38.7%, neutral 19.7%, bears 41.6%, spread −2.9** (week ending October 14, 2026, via
-  search) — unchanged from Thursday's reading; the next survey (covering this week, including
-  Friday's selloff) is due around October 21 and will be the first to capture retail sentiment
-  *after* Friday's VIX spike.
-- **10-year Treasury yield: ~5.08-5.09%** (via search) — essentially flat versus Thursday's close,
-  despite the equity selloff and VIX spike.
+- **VIX: 19.99, +21.45%** (data bundle, source Yahoo, Friday's close) — unchanged since no new
+  options session has traded.
+- **AAII: bulls 38.7%, neutral 19.7%, bears 41.6%, spread −2.9** (week ending October 14, 2026 —
+  AAII Investor Sentiment Survey, via search) — still the same reading flagged all week; the next
+  survey, due around October 21, will be the first to capture sentiment *after* Friday's VIX spike
+  and this weekend's Hormuz escalation.
+- **10-year Treasury yield: ~5.08-5.09%** (via search, as of Friday) — bond markets are also
+  closed over the weekend; no new print to report.
 
-**Verdict: options-market fear (VIX) finally caught up to — and overshot — what credit markets
-had been signaling about CoreWeave for over a week (Section 9.5); bond yields, oddly, didn't move,
-which is itself a notable non-confirmation.**
+**Verdict: every sentiment gauge this brief tracks is frozen at Friday's "fear spiked, bonds and
+gold didn't confirm it" reading (Section 7) — the open question for Monday is whether the
+weekend's fresh oil-supply shock (Section 4) is enough to finally move the 10-year and gold too.**
 
-💡 *What it means:* **Fact:** a VIX surge of this size (+21.45% in a single session) with a flat
-10-year yield is an unusual pairing — a classic "flight to safety" would normally show up as bond
-buying (yields falling), the way it did Thursday. **Inference (medium confidence):** the absence
-of a yield move suggests Friday's fear is being read by the bond market as **company-specific**
-(CoreWeave's balance sheet, Section 4) rather than **macro** (a broad growth or inflation scare) —
-if it were the latter, Treasurys would likely have rallied the way they did Thursday.
+💡 *What it means:* **Fact:** Friday's non-confirmation (VIX up sharply, yields and gold flat) was
+read by this brief as a sign the market was pricing Friday's stress as company-specific (CoreWeave)
+rather than macro. **Inference (medium confidence):** a geopolitical oil-supply shock — which is a
+classic macro/inflation input — is a different kind of catalyst than a single company's credit
+risk, so if Monday's yields move even while the VIX story is unchanged, that would be evidence the
+weekend news reclassified this as a broader risk, not a confirmation of Friday's pattern.
 
-➡️ *What you could do:* Watch the 10-year yield, not just the VIX, for whether this stays
-contained — if Monday brings a yield drop alongside continued equity weakness, that would say the
-market has reclassified this as a macro risk-off event, not just an AI-infra-specific one.
+➡️ *What you could do:* Watch the 10-year yield specifically at Monday's open — a yield move this
+time, unlike Friday, would signal the market has started pricing the Hormuz escalation as a
+macro/inflation story rather than filing it alongside CoreWeave's company-specific credit stress.
 
 ---
 
 ## 4. The story that matters most
 
-**CoreWeave's credit-default-swap spread hit a record high Friday — implying roughly 60% odds of
-default within five years — and that specific stress, not the broader China-DRAM story, is what
-drove Wall Street's "fear gauge" to a four-month high.**
+**Iran's Revolutionary Guard Navy publicly re-declared the Strait of Hormuz closed on Saturday,
+October 17 — a claim that collided directly with a U.S. CENTCOM statement a day earlier showing
+hundreds of tankers still moving through under escort; the gap between the two claims is this
+week's clearest primary-source story, and it's covered in full in Section 9.5 below.**
 
-**Fact (via search, CNBC, GuruFocus, MarketBeat):** CoreWeave's five-year credit default swap
-(CDS) spread reached a record high of approximately **1,195 basis points** Friday, implying roughly
-a 60% probability of default within five years — up sharply from 643 basis points earlier this
-week and 368 basis points on October 6, nearly tripling over ten days. **Fact:** CoreWeave shares
-fell roughly 11-12% Friday (sources range from 11.2% to 12.6%), closing around $61, and are down
-roughly 34% over the prior ten trading sessions. **Fact:** the company's 9.625% notes due 2032
-continued trading in distressed territory — below 80 cents on the dollar, a yield near 15%, a
-level this brief first flagged mid-week. **Fact:** this compounded with the pre-existing China-DRAM
-story (Micron/Samsung/SK Hynix, flagged Thursday) to push the Cboe Volatility Index above 22
-intraday for the first time in four months, and left chip stocks posting their worst week since
-April 2025 (per search).
+**Fact (via search — Capital News Point, The American Conservative, GlobalSecurity.org):** on
+October 17, Iran's IRGC Navy publicly reiterated that the Strait of Hormuz is closed and that
+ships are prohibited from passing through, as part of what multiple trackers (Wikipedia's "2026
+Strait of Hormuz campaign," straits.live) now refer to as an ongoing war footing dating back
+roughly 230+ days. **Fact:** the tempo of attacks on shipping reached its highest level of the
+conflict over the weekend — at least 10 vessels struck in and around the strait since October 11,
+including the sinking of the Singapore-flagged container ship *GFS Pride*, which CENTCOM attributed
+to an Iranian projectile; separate reporting (oilprice.com, via search) describes six vessels struck
+in a single day, the most reported since the campaign began. **Fact:** oil-price trackers (via
+search) report Brent crude near $109-110/barrel and WTI near $101-102/barrel over the weekend,
+continuing the climb above $100 first confirmed in Friday's close — though these are weekend/
+thin-liquidity levels, not a confirmed exchange settle (Section 1).
 
-💡 *What it means:* **Fact:** of this week's two AI-infra threads this brief has tracked — "can AI
-infrastructure afford its debt" (CoreWeave) and "will China undercut memory-chip pricing" (DRAM) —
-Friday's price action and the specific VIX-moving headlines (CoreWeave CDS, CNBC) point to the
-**debt-financing thread** as the dominant driver of Friday's move, not the DRAM thread, even though
-both names (CoreWeave, Micron) fell hard. **Inference (medium confidence):** a 60% market-implied
-default probability on a company that is central to a trillion-dollar AI infrastructure buildout
-is the kind of number that, if it holds or worsens, could become a story about financing conditions
-for the *whole* AI-infra complex, not just CoreWeave specifically — CDS spreads are a leading
-indicator precisely because bondholders tend to move before equity holders fully price something in.
+💡 *What it means:* **Fact:** this is not a new conflict — this brief has tracked the Hormuz
+tanker-attack campaign and its effect on oil (Sections 7, 10, 12) all week — but the weekend
+brought both a formal re-declaration of closure from Iran's side and the highest single-day
+attack tempo reported so far, which is a genuine escalation in degree, not just a continuation.
+**Inference (medium confidence):** a full IRGC "closed" declaration raises the stakes for Monday's
+oil open specifically, because it removes the ambiguity in last week's framing ("tanker attacks
+continuing") in favor of a binary claim that markets will have to price regardless of whether
+shipping volumes have actually collapsed to the degree implied (Section 9.5).
 
-➡️ *What you could do:* Track CoreWeave's CDS spread (not just its stock price) as the cleanest
-single number on this story going forward — a continued climb past 1,195 basis points says credit
-markets see the distress deepening; a plateau or pullback would be the first sign this week's panic
-is topping out.
+➡️ *What you could do:* Treat Monday's oil open as the first real market test of the weekend's
+"closed" declaration — a gap toward $105+ WTI would say traders are taking Iran's claim at face
+value; a muted open closer to Friday's ~$100.72 would say the market is weighting CENTCOM's
+continued-flow data (Section 9.5) more heavily than the rhetoric.
 
 ---
 
 ## 5. Big corporate event
 
-**Proofpoint agreed to acquire data-security firm Varonis Systems for roughly $6.3 billion in an
-all-cash deal — the largest cybersecurity acquisition announced so far in 2026 — even as risk
-appetite for AI-infrastructure credit (Section 4) was deteriorating the same day.**
+**No major new M&A or IPO announcement broke over the weekend; the standing story is Anthropic's
+IPO timeline, where a corroborating data point on its Q3 revenue surfaced via search, alongside a
+separate, less flattering 2025 figure from a leaked earlier prospectus draft — worth holding both
+without blending them.**
 
-**Fact (via search, SecurityWeek, CyberScoop, Benzinga):** Proofpoint (owned by private-equity firm
-Thoma Bravo) will pay Varonis shareholders $49.75 per share in cash, a roughly 52% premium to
-Varonis's closing price of $32.71 on June 22, 2026 — the last full trading day before sale rumors
-emerged. **Fact:** Thoma Bravo is providing committed equity financing, with Ontario Teachers'
-Pension Plan also investing in connection with the deal; Varonis's board approved the transaction
-unanimously, and the deal is expected to close in the first half of 2027, pending shareholder and
-regulatory approval. **Fact:** the strategic rationale on both sides is securing enterprise data
-and AI-agent activity across corporate networks — pairing Proofpoint's email-threat intelligence
-with Varonis's data-visibility tooling.
+**Fact (via search, corroborating Saturday's brief):** Anthropic has told prospective IPO investors
+that Q3 2026 revenue reached $16.8 billion, up roughly 45% sequentially, and the company is
+reportedly nearing a deal with NTT Data for a 500-megawatt Japanese data center build. **Fact
+(via search, Yahoo Finance):** separately, a draft of Anthropic's confidential S-1 that leaked
+September 28 showed full-year **2025** revenue of about $4.6 billion, an operating loss over $8
+billion, and a $42 billion net loss (of which roughly $34 billion was a non-cash accounting
+charge). **Fact:** as of this writing, Anthropic's public Form S-1 has still not appeared on
+EDGAR, despite the company's reported plan to file publicly around October 26 (Section 11).
 
-💡 *What it means:* **Fact:** a $6.3 billion all-cash cybersecurity acquisition, financed with
-private-equity equity and pension-fund capital, closing on the same day CoreWeave's CDS spread hit
-a record high, is a useful reminder that "funding is available" and "funding is scared" can both be
-true at once — the dividing line runs through *which* kind of AI-adjacent business is being
-financed (profitable, recurring-revenue security software vs. capital-intensive, debt-funded GPU
-infrastructure), not through "AI" as a single category. **Inference (low confidence):** this
-echoes last week's City Therapeutics IPO pricing above range the same week CoreWeave's debt came
-under scrutiny — risk appetite this month looks selective, not broadly shut.
+💡 *What it means:* **Fact:** the $16.8B Q3-2026 revenue figure and the $4.6B full-year-2025
+revenue figure are not contradictory on their face — they cover different periods during a period
+of reported rapid sequential growth — but the $42 billion net loss figure sits in tension with the
+"cash-flow positive" framing this brief has repeated from Saturday's sourcing. **Inference (low
+confidence):** a net loss that is ~80% non-cash (stock compensation or similar) can coexist with
+positive operating cash flow, which is the more common thing IPO roadshows emphasize — but readers
+should treat "cash-flow positive" and "GAAP net loss of $42B" as two different, both-true metrics
+rather than assume one supersedes the other until the public S-1 actually posts the audited
+numbers.
 
-➡️ *What you could do:* When reading "AI pullback" headlines, check which part of the AI stack
-a story is actually about — Friday had both a record-high default-risk signal (CoreWeave, debt-
-funded infrastructure) and a premium-priced M&A deal (Varonis, profitable software) in the same
-24 hours; conflating them into one "AI sentiment" number would flatten a real distinction.
+➡️ *What you could do:* When the public S-1 lands (expected by late October per Bloomberg's
+reported November 9 roadshow timeline), check the cash-flow statement directly rather than relying
+on investor-roadshow framing of "cash-flow positive" — that line will resolve whether the $42B
+net-loss figure and the growth narrative are as compatible as this week's reporting suggests.
 
 ---
 
 ## 6. Crypto
 
-- **BTC: $81,380.76 (−0.68%/24h)** — data bundle, Coinbase.
-- **ETH: $2,419.15 (−0.7%/24h)** — data bundle, Coinbase.
+- **BTC: $81,709.95 (+0.44%/24h)** — data bundle, Coinbase, live as of this morning (crypto
+  trades 24/7, so this is a current price, not a carried-over Friday quote).
+- **ETH: $2,413.76 (−0.21%/24h)** — data bundle, Coinbase, live as of this morning.
 
-💡 *What it means:* **Fact:** both crypto assets fell modestly over the past 24 hours, a far
-smaller decline than the Nasdaq's −2.3% or SMH's −3.4% same-session moves. **Inference (medium
-confidence):** this is a genuine test of the hypothesis this brief has been refining — Wednesday's
-US-driven CPI selloff saw crypto track tech weakness closely, while Thursday's Asia-concentrated
-selloff saw crypto decouple; Friday's selloff was clearly US-specific (CoreWeave CDS, VIX spike),
-which under that hypothesis should have produced a sharper crypto decline than the modest ~0.7% seen
-here — a result that doesn't fit neatly into either bucket from earlier this week.
+💡 *What it means:* **Fact:** BTC is essentially flat-to-slightly-up and ETH is essentially flat
+over the past 24 hours, despite the weekend's Hormuz escalation (Section 4) — a continuation of
+the "crypto didn't confirm Friday's equity fear" pattern flagged in Saturday's brief, extended
+through the weekend with no new catalyst-driven move. **Inference (medium confidence):** this is
+now two data points in a row (Friday's modest −0.7% and this weekend's roughly flat reading)
+where crypto has not tracked US equity/VIX stress — weakening, not strengthening, the
+crypto-tracks-US-risk hypothesis this brief has been testing.
 
-➡️ *What you could do:* Don't treat the crypto-tracks-US-risk pattern as confirmed — Friday's data
-point cuts against it. Watch the weekend session (crypto trades 24/7, unlike equities) for whether
-BTC/ETH drift further on no new catalyst, which would say Friday's modest dip was lagging the
-equity move rather than genuinely decoupled from it.
+➡️ *What you could do:* If Monday's equity open gaps down sharply on the Hormuz news and crypto
+still doesn't move much, that's a third data point worth taking seriously as evidence crypto has
+decoupled from this particular stress complex (AI-infra credit, Middle East oil risk) — at least
+for now.
 
 ---
 
 ## 7. Commodities
 
-*GLD/SLV/USO are ETF proxies (Friday's close, data bundle); real-futures WTI below is via search.*
+*GLD/SLV/USO are ETF proxies (Friday's close, data bundle, unchanged since no new session);
+real-futures oil levels below are weekend search reports, not a primary-exchange settle.*
 
-- **Oil, WTI (USO ETF proxy, data bundle): $161.75, +2.82%** (Friday close).
-- **Oil, WTI (real futures): ~$100.72** (via search) — breaking above the $100 level flagged as
-  the next test in Thursday's brief, up from ~$98.28 Thursday.
-- **Gold — GLD proxy: $382.04, −0.17%** (Friday close) — essentially flat.
-- **Silver — SLV proxy: $51.505, −0.79%** (Friday close).
+- **Oil, WTI (USO ETF proxy, data bundle): $161.75, +2.82%** (Friday close, unchanged).
+- **Oil, WTI (real futures, via search): reported near $101-102** over the weekend — a further
+  move above Friday's confirmed ~$100.72, consistent with the Hormuz escalation (Section 4), but
+  sourced from live-tracking sites rather than a confirmed exchange settle; treat as directional.
+- **Oil, Brent (real futures, via search): reported near $109-110** over the weekend, for the
+  same reason and with the same caveat.
+- **Gold — GLD proxy: $382.04, −0.17%** (Friday close, unchanged).
+- **Silver — SLV proxy: $51.505, −0.79%** (Friday close, unchanged).
 
-**Fact (via search):** oil's continued climb comes amid the same Hormuz-area tanker-attack campaign
-flagged Thursday — no new de-escalation reported as of this brief's publish time.
+💡 *What it means:* **Fact:** gold stayed flat Friday even as oil was already climbing on the same
+Hormuz story — this brief flagged that as a non-confirmation of a broad "flight to safety" trade
+(Section 3). **Inference (medium confidence):** if the weekend's reported further oil move (toward
+$110 Brent) holds into Monday's open and gold *still* doesn't catch a bid, that would reinforce
+Saturday's read that markets are pricing this as a specific supply-chokepoint/energy story rather
+than a general risk-off event — gold's muted reaction would be the more informative data point.
 
-💡 *What it means:* **Fact:** gold and silver both pausing (essentially flat to slightly down)
-while equities sold off hard and VIX spiked is a notable non-confirmation — a "flight to safety"
-day would typically see gold catch a bid, the way it did Thursday. **Inference (medium
-confidence):** this supports Section 3's read that Friday's stress is being priced as
-company/sector-specific (CoreWeave, AI-infra) rather than a broad macro risk-off event; gold's
-muted reaction is consistent with bond yields' muted reaction.
-
-➡️ *What you could do:* Treat $100 WTI as the new line, not $98 — the move flagged Thursday
-already happened and kept going. The next test is whether $100 holds as support on any Hormuz
-de-escalation headline, or whether a fresh attack pushes it toward $105 (Section 12).
+➡️ *What you could do:* Watch gold (GLD), not just oil, at Monday's open — oil moving on a supply
+shock is expected; gold staying flat despite it is the signal that tells you whether this is being
+priced as contained or as something broader.
 
 ---
 
 ## 8. Sector winners & losers
 
-**Friday's session (data bundle) — a broad-based AI-infra and semiconductor selloff, not a narrow
-one, unlike Thursday:**
+**No new US session has traded, so Friday's sector map (data bundle) is unchanged; the fresh
+information since Saturday is Asia's Monday-equivalent session (already traded, ahead of US time
+zones), where the memory-chip rout continued.**
 
-- **Semiconductors and AI-infra hit hardest:** WDC −7.33%, COHR −7.0%, AMD −5.94%, MU −5.79%, LITE
-  −5.36%, MRVL −5.41%, AVGO −4.53%, ARKK −4.6% (despite no direct chip exposure), VRT −3.84%, QCOM
-  −3.52%, SMH −3.4%, META −3.69%.
-- **Mega-caps mostly red, mixed severity:** TSLA −2.53%, GOOGL −2.48%, AMZN −1.77%, NVDA −1.47%,
-  MSFT −1.92% — all down, but none as sharply as the pure-play chip/AI-infra names. AAPL was the
-  lone gainer among mega-caps, +0.43%.
-- **Relative shelters:** DLR +0.93%, TLN +0.29%, AAPL +0.43% — the only green names in this list;
-  DIA (Dow proxy) fell only −0.39% against QQQ's −2.47%, a repeat of the old-economy-vs-AI-tech gap
-  from earlier in the week, but now in the "fear" direction rather than the "rotation" direction.
+- **Friday's US session (unchanged, data bundle):** semiconductors/AI-infra hit hardest — WDC
+  −7.33%, COHR −7.0%, AMD −5.94%, MU −5.79%, LITE −5.36%, MRVL −5.41%, AVGO −4.53%, ARKK −4.6%,
+  VRT −3.84%, QCOM −3.52%, SMH −3.4%, META −3.69%. Relative shelters: DLR +0.93%, TLN +0.29%,
+  AAPL +0.43%.
+- **Fact (via search, Yahoo Finance, Benzinga):** SK Hynix fell another −6.58% in its October 17
+  session (its seventh straight loss), and Samsung Electronics, SK Hynix, Micron, and SanDisk have
+  together lost more than $700 billion in combined market value since October 6 — the Roundhill
+  Memory ETF (DRAM) is now in its own bear market, down more than 20% from its September rebound
+  high.
+- **Fact (via search):** the proximate trigger cited across multiple outlets is a mix of Chinese
+  competitor CXMT reporting roughly 7x year-over-year revenue growth, Elon Musk publicly warning
+  China will be making "a LOT of RAM" by 2028, and ongoing doubts about AI infrastructure spending
+  sustainability — though Goldman Sachs has separately called the China-chip fear "overdone" (via
+  search, 24/7 Wall St.).
 
-**Fact (via search):** the S&P Technology sector fell over 3% Friday while Energy rose 2.52% on the
-oil spike (Section 7); Communication Services (−2.7%) and Information Technology (−2.4%) were the
-week's biggest sector laggards, and the S&P 500 finished the week down roughly 2% while the Nasdaq
-fell more than 4% — its worst week since June, per CNBC's live-markets coverage (via search).
+💡 *What it means:* **Fact:** the memory-chip selloff this brief has tracked all week (Micron,
+Samsung, SK Hynix) did not pause over the weekend in markets that were open (Korea's Saturday
+session) — it extended. **Inference (medium confidence):** a seventh-straight-day losing streak
+in SK Hynix going into Monday's US open is a leading indicator that argues against Friday's selloff
+being a one-day, US-only event — the same underlying DRAM-pricing worry kept pressuring the
+Asia-listed names through the weekend with no new US catalyst needed.
 
-💡 *What it means:* **Fact:** Friday's AI-infra decline is meaningfully broader and deeper than
-Thursday's — every name in the semiconductor/AI-infra group fell at least 3.4%, versus Thursday's
-"nothing fell more than 5%, no name fell more than 3.84%" read. **Inference (low confidence):**
-the fact that even non-chip, growth-adjacent ARKK fell −4.6% — more than most individual chip
-names — suggests Friday's selling was partly indiscriminate de-risking across anything
-high-multiple or AI-adjacent, not a precise repricing of specific company fundamentals.
-
-➡️ *What you could do:* Watch whether Monday's open shows the same "AI/tech down, old-economy
-flat-to-up" pattern (a sign the selloff is still AI-infra-contained) or whether old-economy names
-start falling too (a sign the selloff has broadened into a genuine market-wide risk-off event).
+➡️ *What you could do:* Don't assume Monday's US semiconductor open will "catch a bounce" just
+because it's a new week — the Asia session that already traded ahead of it kept falling, which
+argues for watching SMH's open print closely rather than assuming mean reversion.
 
 ---
 
 ## 9. ETF watch
 
-*Friday, October 16's completed close (data bundle).*
+*Still Friday, October 16's completed close (data bundle) — unchanged, no new US session.*
 
 | ETF | Close | Day (Fri) |
 |---|---|---|
@@ -272,216 +262,212 @@ start falling too (a sign the selloff has broadened into a genuine market-wide r
 | GLD (gold) | $382.04 | −0.17% |
 | IBIT (bitcoin) | $46.12 | −1.01% |
 
-💡 *What it means:* **Fact:** every ETF in this table closed red Friday except none — this is the
-first day this week where all eight were negative simultaneously (Thursday had seven green, one
-red; Wednesday had several red but not all). **Fact:** ARKK's −4.6% was the single worst mover in
-this table, worse than SMH's −3.4% — speculative growth, not semis specifically, led the ETF-level
-damage Friday.
+💡 *What it means:* **Fact:** this table is identical to Saturday's brief — nothing has traded.
+The only reason to re-check it today rather than just pointing back to Saturday is to have the
+exact reference levels on hand for Monday's gap comparison (Sections 1, 2).
 
-➡️ *What you could do:* SMH's $539.84 close (down from $558.86) breaks decisively below the $555
-line flagged Thursday as the "China-DRAM is now a US story" trigger — treat that scenario as live,
-not hypothetical, heading into next week.
+➡️ *What you could do:* Write down SMH's $539.84 and GLD's $382.04 before Monday's open — those
+are the two levels (chip-sector stress vs. safe-haven demand) this brief is watching most closely
+for whether the weekend's Hormuz news broadens Friday's selloff or stays contained (Sections 4, 7).
 
 ---
 
 ## 9.5 What the headlines missed
 
-**What the headlines said:** Friday's coverage (CNBC, TheStreet, and others) framed the day's VIX
-surge and selloff as a sudden shift in fear — "Wall Street's fear gauge is ripping," with the VIX
-jumping 21.45% in a single session as if sentiment flipped overnight.
+**What the headlines said:** Multiple outlets this weekend (Capital News Point, The American
+Conservative, and trackers like straits.live) reported, largely at face value, that Iran's IRGC
+Navy "closed" the Strait of Hormuz on October 17 — framing echoing Iran's own stated position that
+"ships are prohibited from passing through."
 
-**What the data actually shows:** CoreWeave's five-year credit default swap spread — the primary
-market where bond investors price default risk — did not move in a single day. It rose from 368
-basis points on October 6, to 643 basis points roughly a week later, to its Friday record of
-approximately 1,195 basis points: a steady, nearly-tripling climb over ten trading days, each step
-reported individually across the week's CNBC, StocksToTrade, and Daily Upside coverage this brief
-has tracked since Wednesday.
+**What the primary source actually says:** A day earlier, on Friday, October 16, U.S. CENTCOM
+commander Admiral Brad Cooper stated — per multiple outlets citing his remarks (via search) — that
+U.S. forces had helped Gulf partners move more than **100 million barrels of crude** through the
+Strait of Hormuz over the preceding week, via roughly **400 merchant ships** under escort, while
+U.S. enforcement simultaneously blocked at least **$25 billion** in Iranian oil exports attempting
+the same route.
 
-**The gap:** Describing Friday's VIX spike as the market suddenly "ripping" with fear obscures
-that the credit market had been pricing in escalating default risk continuously for over a week.
-Friday's equity-options move looks less like new information and more like the VIX (an equity
-volatility measure) finally catching up to what the CDS market (a credit measure) had already been
-signaling — the headline framing emphasizes the dramatic single-day equity move because that's the
-more visually striking number, while the slower-moving credit data that arguably explains it got
-less attention.
+**The gap:** "Closed" and "400 escorted ships moved 100 million barrels in a week" describe two
+different realities. Iran's declaration is a stated intent and a real, escalating attack campaign
+(10+ vessels struck since October 11, a ship sunk) — not a fabrication — but it is not the same
+claim as a literal blockade, and CENTCOM's own throughput numbers from the same window contradict
+the "nothing gets through" reading that "closed" implies. The headlines that repeated "closed"
+without the CENTCOM figures alongside it reported Iran's framing as the full picture, when the
+primary military data describes a contested, escorted, higher-cost corridor still carrying
+meaningful volume.
 
-💡 *What it means:* **Fact:** this is not a claim that Friday's VIX headlines were wrong — the VIX
-genuinely did spike 21.45% in one session. **The gap is in sequencing:** treating it as a sudden
-shift, rather than the options market (which tends to react faster to equity-price moves than to
-slow-building credit-market data) catching up to a trend that had been visible in CDS spreads for
-over a week.
+💡 *What it means:* **Fact:** both things are true at once — real, worsening attacks are driving a
+genuine war-risk premium into oil prices (Section 4), and substantial volume is still moving under
+military escort. **The gap is in framing, not fabrication:** repeating Iran's "closed" declaration
+as a factual market description, without the CENTCOM throughput data from the same week, overstates
+the actual supply disruption relative to what the primary numbers show.
 
-➡️ *What you could do:* When a VIX spike headline breaks, check whether the underlying stress has
-a CDS, bond-yield, or other credit-market precedent that moved days earlier — that's usually the
-more reliable early-warning signal than the VIX itself, which tends to be the last indicator to
-move, not the first.
+➡️ *What you could do:* When Monday's oil move is reported, check whether coverage cites actual
+tanker-transit or insurance-cost data (the CENTCOM-style numbers) rather than just repeating "Strait
+closed" — the transit data is the more reliable gauge of whether the physical oil-supply disruption
+is worsening, versus the risk-premium/insurance-cost gauge, which can move on rhetoric alone.
 
 ---
 
 ## 10. Connect the Dots *(most speculative — facts flagged, inferences flagged)*
 
-**Thread one (AI-infra, now reinforcing rather than running in parallel) — Thursday's "two
-distinct worries" framing (CoreWeave debt financing vs. China-DRAM pricing) held up as separate
-mechanisms, but Friday's price action shows them compounding.** **Fact:** CoreWeave's CDS record
-(Section 4) and Micron's resumed decline (Sections 1, 4) both landed the same session, pushing VIX
-above 22 intraday — a level neither story alone produced earlier in the week. **Inference (medium
-confidence):** having both narratives active and now moving in the same direction on the same day
-removes the "which worry is actually driving today's move" ambiguity this brief flagged
-Thursday — Friday, both worries agree, which is itself a reason the move was sharper than any single
-day this week.
+**Thread one (Hormuz, now formally escalated) — Iran's IRGC re-declaration and the record attack
+tempo (Section 4) land on top of a week where this brief already tracked oil's acceleration from
+~$95 to ~$100.72.** **Fact:** weekend trackers report oil pushing further, toward $109-110 Brent /
+$101-102 WTI (Section 7), though unconfirmed by a primary exchange settle. **Inference (medium
+confidence):** the CENTCOM-vs-IRGC framing gap (Section 9.5) means Monday's actual price move will
+reveal which claim the market is weighting more heavily — a sharp gap up says traders believe the
+"closed" framing over the throughput data.
 
-**Thread two (confirmed, accelerating further) — the Hormuz/Iran oil risk premium broke $100 for
-the first time this brief has tracked, continuing the acceleration flagged Thursday.** **Fact:**
-WTI real futures moved from ~$95 (Wednesday) to ~$98 (Thursday) to ~$100.72 (Friday) — three
-consecutive sessions of acceleration, not a one-off spike (Section 7).
+**Thread two (AI-infra credit, no new print) — CoreWeave's CDS spread sits at Thursday's record
+~1,195bps with no fresh data over the weekend (Section 1).** **Inference (low confidence):**
+the absence of new information is itself notable — a story this acute usually generates weekend
+commentary if conditions are deteriorating further; the quiet could mean stabilization, or simply
+that CDS markets don't print over weekends regardless of underlying sentiment. Not enough
+evidence either way; flagging for Monday.
 
-**Thread three (still pending) — AAII's next reading, due around October 21, will be the first to
-capture retail sentiment after Friday's VIX spike and CoreWeave CDS record.** No new data point
-yet (Section 3).
+**Thread three (memory chips, confirmed accelerating) — SK Hynix's seventh straight losing session
+and the >$700B combined market-cap loss across Samsung/SK Hynix/Micron/SanDisk since October 6
+(Section 8) is the most concrete weekend data point this brief found.** **Fact:** this extends
+without a US catalyst, in an Asia session that already traded ahead of Monday's US open.
 
-**Thread four (unchanged) — SpaceX's $40 billion Apollo-led Nvidia financing.** **Fact (via
-search):** as of October 11, the deal was still being negotiated (roughly $10B in bank loans, $30B
-in investment-grade debt), expected to close in 2027 — no new confirmation found this morning.
-SPCX fell −1.48% Friday (data bundle), in line with the broader AI-infra complex (Section 8).
+**Thread four (AI business economics vs. AI infrastructure financing, same split, new wrinkle) —
+Anthropic's Q3 revenue ($16.8B) corroborates Saturday's growth story, but the leaked 2025 S-1 draft
+showing a $42B net loss (Section 5) adds nuance this brief hadn't surfaced before.** **Inference
+(low confidence):** the application-layer/infrastructure-layer split this brief has drawn all
+week (Section 10 from Saturday's brief) still holds directionally, but "Anthropic's economics are
+clean" is a less settled claim than Saturday's framing suggested — both the strong revenue growth
+and the large net loss are real, simultaneous facts.
 
-**Thread five (major update) — the Anthropic IPO.** **Fact (via search):** Anthropic plans to
-publicly file its S-1 with the SEC on October 26, launch its investor roadshow November 9, and
-price the deal the following week — targeting up to $100 billion raised at a roughly $2 trillion
-valuation. **Fact:** the company disclosed Q3 revenue of $16.8 billion and said it generated $1.70
-of revenue for every dollar spent on computing power, describing itself as cash-flow positive.
-**Inference (low confidence):** a model company reporting strong, profitable unit economics and
-pressing ahead toward a $2 trillion IPO in the same month a GPU-infrastructure company's credit
-default risk hit a record high is a sharp illustration of Section 5's point — this week's AI
-stress is concentrated in capital-intensive infrastructure financing, not in AI business economics
-broadly.
+💡 *What it means:* **Fact:** of four tracked threads, one escalated on hard new facts (Hormuz),
+one accelerated with fresh data in a market that already traded (memory chips), one went quiet for
+lack of weekend data (CoreWeave CDS), and one gained a complicating data point (Anthropic's net
+loss). **Inference (medium confidence):** the pattern across this weekend is that geopolitical and
+Asia-market-hours stories kept moving while US-specific financial stories (CoreWeave, VIX, yields)
+sat frozen simply because US markets were closed — Monday's open will have to price in everything
+that happened in the gap at once, which argues for expecting a higher-than-usual-information
+Monday open rather than a quiet one.
 
-**Thread six (unchanged) — the SpaceX-Grain spectrum deal.** Still pending FCC approval; no new
-docket activity found via search.
-
-💡 *What it means:* **Fact:** of six tracked threads, two accelerated on fresh, dated catalysts
-(AI-infra debt/DRAM reinforcing each other, oil breaking $100), one got a major new data point
-(Anthropic's IPO timeline and financials), and three remain unchanged for lack of new reporting.
-**Inference (medium confidence):** the emerging pattern across these threads is a bifurcation
-within "AI" as a trade — infrastructure financing (CoreWeave, memory chips, SpaceX's GPU debt) is
-under acute stress, while AI application/model economics (Anthropic) and adjacent
-enterprise-software consolidation (Varonis, Section 5) are not showing the same stress signals.
-
-➡️ *What you could do:* Stop treating "AI stocks" as one basket when reading next week's news —
-this week's data increasingly separates into "AI infrastructure financing" (currently stressed) and
-"AI application economics" (currently not showing the same stress) as two distinct things to track
-independently.
+➡️ *What you could do:* Go into Monday expecting more information to price in than a typical
+Monday carries — Friday's unresolved US stress plus two full days of Hormuz escalation and an Asia
+chip-sector session is a wider gap than this brief has had to account for on a single open this
+week.
 
 ---
 
 ## 11. Week / day ahead
 
-- **Mon, Oct 19** — no major US economic data scheduled (via search); Canadian CPI for September is
-  due, not a US release.
-- **Wed, Oct 21** — **Tesla (TSLA)** and **Meta (META)** both report Q3 earnings after market close
-  (data bundle calendar). TSLA EPS estimate ~$0.45, revenue estimate ~$28.42B; META EPS estimate
-  ~$6.31, revenue estimate ~$64.57B — both companies' commentary on AI capital spending will land
-  within hours of each other, directly relevant to Section 10's infrastructure-vs-application
-  split.
+- **Mon, Oct 19** — NAHB Housing Market Index (2:00pm ET); Fed's Goolsbee speaks (10:00pm ET) (via
+  search). The first US session to price the full weekend news gap (Sections 1, 4, 9.5, 10).
+- **Tue, Oct 20** — Atlanta Fed GDPNow Q3 update (via search); **SPCX (SpaceX)** reports earnings,
+  per the data bundle calendar.
+- **Wed, Oct 21** — **Tesla (TSLA)** and **Meta (META)** both report Q3 earnings after market
+  close (data bundle calendar); TSLA EPS estimate ~$0.45/revenue ~$28.42B, META EPS estimate
+  ~$6.31/revenue ~$64.57B. AAII's next sentiment reading is also due around this date (Section 3).
 - **Thu, Oct 22** — **Western Digital (WDC)** Q1 FY2027 earnings, after market close; EPS estimate
-  ~$4.11, revenue estimate ~$4.17B (data bundle calendar).
-- **Mon, Oct 26** — **Anthropic** plans to publicly file its S-1 with the SEC (Section 10).
+  ~$4.11/revenue ~$4.17B (data bundle calendar).
+- **Fri, Oct 23** — University of Michigan consumer sentiment, final reading (10:00am ET, via
+  search).
+- **Mon, Oct 26** — Anthropic's reported target date to publicly file its S-1 on EDGAR (Section
+  5); as of this writing it has not yet appeared.
 - **Tue-Wed, Oct 27-28** — **FOMC meeting**, decision due 2:00pm ET October 28.
 - **Thu, Oct 29** — **PCE inflation** (September) due (via search).
-- **Mon, Nov 9** — **Anthropic's** investor roadshow is set to launch, with pricing expected the
-  following week (Section 10).
-- **Ongoing, no fixed date** — whether CoreWeave's CDS spread (Section 4) keeps climbing past 1,195
-  basis points or stabilizes; the final priced terms of CoreWeave's capital raise (Section 1);
-  whether Micron/Samsung/SK Hynix keep falling (Sections 1, 4); further Hormuz tanker attacks
-  (Section 7); AAII's next reading, due ~October 21 (Section 3).
-- **Disclosed gap:** the data bundle's economic-calendar endpoint again returned a 403 (Finnhub
-  premium-only); all dates above are sourced via search.
+- **Mon, Nov 9** — Anthropic's investor roadshow reportedly set to launch, pricing expected the
+  following week (Section 5).
+- **Ongoing, no fixed date** — whether the Strait of Hormuz "closed" declaration (Section 4, 9.5)
+  produces an actual further drop in tanker throughput or stays a rhetorical escalation on top of
+  continued escorted flow; whether CoreWeave's CDS spread resumes widening past 1,195bps once
+  markets reopen (Section 1); whether the memory-chip rout (Section 8) finds a floor.
+- **Disclosed gap:** the data bundle's economic-calendar endpoint again returned a 403
+  (Finnhub premium-only); all dates above are sourced via search.
 
-💡 *What it means:* **Fact:** next week's two biggest single-day catalysts — Tesla and Meta
-earnings — land the same day as last brief flagged (Wednesday, October 21), meaning that session's
-after-hours tape carries concentrated risk for AI-capex-exposed names broadly, now against a
-backdrop of record AI-infra credit stress (Section 4) rather than the calmer backdrop this brief
-described Thursday. **Inference (low confidence):** Anthropic's October 26 S-1 filing lands
-between this week's AI-infra stress and next week's earnings — if TSLA/META commentary on AI
-capex spending is cautious, Anthropic's IPO window could face a tougher backdrop than the one it's
-currently pricing against.
+💡 *What it means:* **Fact:** Monday's open is now carrying more unresolved threads into a single
+session (Hormuz, CoreWeave CDS, memory chips, VIX) than any prior open this brief has tracked this
+week, simply because it's absorbing a full weekend's news rather than one overnight session.
+**Inference (low confidence):** Wednesday's Tesla/Meta earnings remain the week's clearest *known,
+scheduled* catalyst, but Monday's open itself may end up moving markets more, given how much
+weekend information has to be priced in at once.
 
-➡️ *What you could do:* Treat Wednesday, October 21's after-hours session as this brief's most
-concentrated single-day risk event of the next two weeks — both because of Tesla/Meta's direct AI-
-capex commentary and because it lands three trading days after the most AI-infra-stressed session
-this brief has recorded.
+➡️ *What you could do:* Watch Monday's first 30 minutes of trading specifically — a sharp, decisive
+move (either direction) would say the market is resolving the weekend's news quickly; a muted,
+indecisive open would say traders are waiting for confirmation (oil's actual settle, any Monday
+CoreWeave CDS print) before committing.
 
 ---
 
 ## 12. Bottom line
 
-Friday was the session where this week's two AI-infra worries — CoreWeave's deteriorating credit
-(a CDS spread that nearly tripled to a record ~1,195 basis points in ten days) and the China-DRAM
-memory-pricing threat (Micron resuming its decline after one bounce day) — stopped running in
-parallel and started reinforcing each other. The result was the sharpest, broadest single-day move
-this brief has tracked all week: VIX spiked 21.45% to a four-month intraday high above 22, every
-major index and every ETF this brief tracks closed red, and semiconductor/AI-infra names fell
-3.4-7.3% across the board rather than the narrower 1-5% moves seen on prior red days this week. Yet
-two signals that normally confirm a broad risk-off move — the 10-year Treasury yield and gold —
-stayed essentially flat, suggesting bond and commodity markets are reading this as a specific,
-AI-infra-financing problem rather than a macro growth scare. Away from the stress, risk appetite
-stayed selective rather than frozen: Proofpoint's $6.3 billion all-cash acquisition of Varonis (the
-year's largest cybersecurity deal) and Anthropic's confirmed October 26 S-1 filing and November 9
-roadshow — alongside disclosed $16.8 billion in Q3 revenue and a claimed cash-flow-positive
-business — both landed the same week, underlining that it's infrastructure financing specifically
-under pressure, not "AI" as an undifferentiated category. Oil's Hormuz-driven risk premium kept
-climbing too, closing above $100 for the first time this brief has tracked.
+No new US trading has occurred since Friday's close, so the prices in this brief are unchanged
+from Saturday's edition — but the news backdrop is not unchanged. Over the weekend, Iran's IRGC
+Navy formally re-declared the Strait of Hormuz closed, attacks on shipping reached their highest
+tempo of the conflict (a ship sunk, six vessels reportedly struck in a single day), and oil
+trackers report prices pushing further above Friday's confirmed ~$100.72 WTI toward the $101-110
+range — though that figure is unconfirmed by a primary exchange settle given thin weekend
+liquidity. Set against that escalation is a primary-source gap worth holding onto: U.S. CENTCOM's
+own Friday statement said escorted shipping moved 100 million barrels through the strait in the
+prior week alone, directly complicating the "closed" framing most headlines repeated uncritically.
+Separately, Asia's memory-chip selloff (Samsung, SK Hynix, Micron, SanDisk — over $700 billion lost
+combined since October 6) extended through the weekend with no new US catalyst required, while
+CoreWeave's record CDS spread and the VIX's Friday spike to 19.99 both sit frozen for lack of a new
+session, and Anthropic's IPO story picked up a complicating data point (a leaked $42 billion net
+loss for 2025 alongside the previously reported $16.8 billion Q3 2026 revenue). The net effect:
+Monday's open has to absorb more unresolved information at once than any session this brief has
+tracked this week.
 
-**What I'd watch:** (1) **Whether VIX holds above 20 or fades quickly** Monday — the clearest test
-of whether Friday was a one-day panic (common before a weekend) or the start of a new, higher-
-volatility regime (Sections 1, 3). (2) **CoreWeave's CDS spread** — whether the climb past 1,195
-basis points continues or stabilizes, the most direct real-time read on AI-infra credit stress
-(Sections 1, 4, 5). (3) **SMH and Micron** — whether the China-DRAM story keeps dragging US semis
-below Friday's close or finds a floor (Sections 1, 4, 8, 9). (4) **WTI holding above $100** — tests
-whether the Hormuz risk premium is durable or gives back on any de-escalation (Sections 7, 12).
+**What I'd watch:** (1) **Monday's actual oil open** — the real test of whether the market weights
+Iran's "closed" declaration or CENTCOM's throughput data more heavily (Sections 4, 9.5, 12). (2)
+**Whether VIX extends past Friday's 19.99 or fades** — the first live read on whether the weekend
+news compounds or replaces Friday's CoreWeave-driven fear (Sections 1, 3). (3) **SMH's open print**
+— whether it gaps down further given the Asia chip session's continued losses, or catches a bounce
+(Sections 1, 8, 9). (4) **Whether CoreWeave's CDS spread gets a fresh print above 1,195bps** once
+credit markets reopen (Sections 1, 4).
 
 **Levels to watch:**
-- **VIX — holding above 20 (confirms a new, higher-stress regime) vs. falling back under 18 (says
-  Friday was a one-day panic).** Currently 19.99 (Sections 1, 3).
-- **CoreWeave CDS spread — continuing to widen past 1,195 basis points vs. stabilizing or
-  pulling back.** The single cleanest real-time gauge of AI-infra credit stress (Sections 1, 4, 5).
-- **SMH (semiconductor ETF) — reclaiming $555 (says the China-DRAM selloff is exhausting) vs.
-  breaking further below $535 (says it's deepening).** Currently $539.84 (Sections 1, 4, 8, 9).
-- **WTI crude (real futures) — holding above $100 vs. giving back toward $95 on any Hormuz
-  de-escalation.** Currently ~$100.72 (Sections 1, 7, 12).
+- **WTI crude (real futures) — a confirmed Monday settle above $103 (says the weekend's reported
+  escalation is real and pricing through) vs. settling back near Friday's ~$100.72 (says the
+  weekend reports overstated the move).** Sections 4, 7, 9.5, 12.
+- **VIX — holding above 20 at Monday's close (confirms stress compounding) vs. falling back under
+  18 (says Friday was a one-day panic that the weekend news didn't extend).** Currently 19.99
+  (Sections 1, 3).
+- **SMH (semiconductor ETF) — reclaiming $555 vs. breaking below $535, now with the added context
+  of Asia's continued chip-sector losses over the weekend.** Currently $539.84 (Sections 1, 8, 9).
+- **CoreWeave CDS spread — a fresh print above 1,195bps vs. a stabilizing or lower read once credit
+  markets reopen Monday.** Last confirmed at ~1,194.5bps Thursday (Sections 1, 4).
 
 ---
 
 ### Glossary
 - **Credit default swap (CDS)** — a financial contract that pays out if a borrower defaults; its
-  spread (priced in basis points) is the market's real-time estimate of default risk. CoreWeave's
-  hit a record ~1,195 basis points Friday, implying roughly 60% odds of default within five years
-  (Section 4).
+  spread (in basis points) is the market's real-time estimate of default risk. CoreWeave's hit a
+  record ~1,195 basis points Thursday, implying roughly 60% odds of default within five years
+  (Section 1, 4).
 - **Basis point** — one-hundredth of a percentage point (100 basis points = 1%); used to quote
-  credit spreads and bond yields precisely (Section 4).
-- **Convertible note** — a bond that can convert into company stock at a set price; CoreWeave has
-  issued several of these this year to raise capital (Sections 1, 4).
+  credit spreads and bond yields precisely (Section 1, 4).
+- **War-risk insurance** — additional insurance shipowners must buy to sail through an active
+  conflict zone; rising costs here are one way attacks on tankers get priced into oil even when
+  physical supply isn't fully cut off (Section 9.5).
 - **VIX** — the "fear gauge"; the options market's expectation of S&P 500 volatility over the next
-  30 days. Below 16 = calm; above 22 (briefly touched Friday) is a four-month high; above 25-30 =
-  genuine stress. Currently 19.99 (Section 3).
+  30 days. Below 16 = calm; above 22 (briefly touched Friday) is a four-month high. Currently 19.99
+  (Section 3).
 - **AAII survey** — a weekly poll of individual (retail) investors on bullish/bearish sentiment;
   the bull-bear spread (bulls minus bears) is the standard summary metric. Currently −2.9, unchanged
   since October 14; next reading due ~October 21 (Section 3).
-- **S-1 filing** — the registration document a company files with the SEC to go public; Anthropic
-  plans to file one publicly on October 26 (Sections 10, 11).
+- **S-1 filing** — the registration document a company files with the SEC to go public; a
+  confidential draft can differ materially from the public version eventually filed. Anthropic's
+  confidential draft leaked showing a $42B net loss; the public version is expected around October
+  26 (Sections 5, 11).
 
 ---
 
 *Sources: price/volatility data — Alpaca (equities/ETFs, Friday, October 16's completed close),
-Coinbase (crypto), Yahoo Finance (VIX), Finnhub (earnings calendar), via the project data bundle.
-Real index closes — multiple outlets via search, cross-checked against ETF-proxy moves. CoreWeave
-CDS/credit stress — CNBC, GuruFocus, MarketBeat, Fool.com, StocksToTrade, via search. VIX spike
-reporting — CNBC, Top Stock Alerts (X), via search. 10-year yield — via search (multiple sources).
-WTI real futures — via search (Trading Economics, Investing.com; sources ranged $95.77-$100.97,
-this brief used the higher-consensus figure consistent with the USO proxy's +2.82% gain). AAII
-sentiment — AAII Investor Sentiment Survey, via search. Micron/Samsung/SK Hynix — CNBC, Yahoo
-Finance, Benzinga, via search. Proofpoint-Varonis deal — SecurityWeek, CyberScoop, Benzinga, via
-search. Anthropic IPO — Yahoo Finance, CNBC, Fortune, IFR, via search. SpaceX-Nvidia financing —
-CNBC, BNN Bloomberg, via search. Sector rotation — CNBC, TheStreet, via search. Not financial
+Coinbase (crypto, live), Yahoo Finance (VIX), Finnhub (earnings calendar), via the project data
+bundle. Strait of Hormuz — Capital News Point, The American Conservative, GlobalSecurity.org,
+CENTCOM statements via multiple outlets, straits.live, via search. Oil weekend levels —
+oilprice.com, CNN, CBS News, global-energy-flow.com, straits.live, via search (unconfirmed
+exchange settle, thin weekend liquidity). CoreWeave CDS — Global Markets Investor (X), Bloomberg,
+U.S. News, via search. Memory-chip selloff — Yahoo Finance, Benzinga, 24/7 Wall St., via search.
+Anthropic — Yahoo Finance, Bloomberg (via search, roadshow timeline), prior sourcing from
+Saturday's brief. AAII sentiment — AAII Investor Sentiment Survey, via search. Economic calendar —
+multiple outlets via search (data bundle's endpoint returned 403, premium-only). Not financial
 advice; this brief places no trades.*
 
 ---
@@ -490,6 +476,7 @@ advice; this brief places no trades.*
 
 | Date | Brief |
 |---|---|
+| 2026-10-18 | [open](briefs/brief_2026-10-18.md) |
 | 2026-10-17 | [open](briefs/brief_2026-10-17.md) |
 | 2026-10-16 | [open](briefs/brief_2026-10-16.md) |
 | 2026-10-15 | [open](briefs/brief_2026-10-15.md) |
