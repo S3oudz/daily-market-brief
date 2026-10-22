@@ -1,181 +1,190 @@
 # 📊 Daily Market Brief — Dashboard
 
-**Latest edition: 2026-10-21** · updated 2026-10-21 07:09 GST · auto-published by the pipeline on DESKTOP-H3M86AT
+**Latest edition: 2026-10-22** · updated 2026-10-22 07:08 GST · auto-published by the pipeline on DESKTOP-H3M86AT
 
 ---
 
-# Daily Market Brief — Wednesday, October 21, 2026
+# Daily Market Brief — Thursday, October 22, 2026
 
 *Read-only briefing — explains the market and flags "what you could do" as fact-based reasoning
 you can disagree with. Not financial advice; places no trades.*
 
-*Timing note: this brief is generated at 07:00 GST (03:00 UTC), after Tuesday, October 20's US
-cash session **fully closed** (4:00pm ET / 00:00 GST). All prices below are Tuesday's settled
-close, not a live or pre-market quote.*
+*Timing note: this brief is generated at 07:00 GST (03:00 UTC), after Wednesday, October 21's US
+cash session **fully closed** (4:00pm ET / 00:00 GST). Several prices below (notably Meta, which
+reports earnings immediately after the close) already carry a slice of early after-hours trading
+captured by the data feed within the first ~45 minutes of the close — flagged inline where it
+matters. Tesla's after-hours decline, which happened later in the evening after its 5:30pm ET
+earnings call, is NOT captured in the data bundle and is sourced separately via search.*
 
 ---
 
 ## 1. Scorecard — yesterday's calls, now graded
 
-| Item (from Tuesday's brief, "Levels to watch") | Threshold | Tuesday's actual close | Grade |
+| Item (from Wednesday's brief, "Levels to watch") | Threshold | Wednesday's actual result | Grade |
 |---|---|---|---|
-| **CoreWeave 5-year CDS spread** | Tightening below 1,000bps vs. widening back toward the 1,194.5bps record | **~1,085bps (via search)** — essentially flat vs. Monday's ~1,082bps. | ⏳ **Still unresolved** — neither threshold hit; the spread froze in place for a second straight session. |
-| **SMH reclaiming $555 vs. breaking below $535** | Reclaim = rotation over; break = selloff resuming | **$546.08, −0.41%** (data bundle) — drifted down slightly from Monday's $548.35, still mid-band. | ⏳ **Still unresolved** — third session inside the band, now leaning toward the low side. |
-| **WTI crude — holding below $100 vs. reclaiming above $100** | Below = sanctions-waiver supply story wins; above = Hormuz risk reasserts | **~$98 (two sources, via search: $98.41 / $97.84)** — held below $100 for a second straight session. | ✅ **Confirmed** — held below $100 despite an active escalation in the Strait of Hormuz this week (Section 10). |
-| **SPY holding above Monday's $766.60 close through Tuesday's session** | Hold above = bounce extends; give it back = one-day pop | **$770.63, +0.53%** (data bundle) — closed above Monday's level for the full session. | ✅ **Confirmed** — the bounce extended for a second consecutive day. |
+| **Meta's capex guidance (Q4/full-year)** | At/above the "spending confidence intact" bar vs. a slowdown/hedge | **Narrowed full-year data-center capex to $135B–$145B, raising the low end from $130B** (via search, corroborated by multiple outlets) | ✅ **Confirmed "intact"** — Meta raised the floor of its spending range, not just held it, even while absorbing a $9.9B legal-settlement charge (Section 9.5). |
+| **CoreWeave 5-year CDS spread** | Tightening below 1,000bps vs. widening back toward the 1,194.5bps record | **~1,067–1,082bps (via search — sources disagree slightly on the exact print)**, down modestly from ~1,085bps | ⏳ **Still unresolved** — a small step down, but still deep in the >1,000bps distress band; neither threshold hit. |
+| **SMH reclaiming $555 vs. breaking below $535** | Reclaim = rotation back to semis; break = selloff resuming | **$556.57, +1.92%** (data bundle) | ✅ **Confirmed** — SMH reclaimed $555 for the first time in four sessions of band-watching. |
+| **WTI crude — holding below $100 vs. reclaiming above $100** | Below = sanctions-waiver supply story wins; above = Hormuz risk reasserts | **$97.15 settle (via search)**, down 67 cents | ✅ **Confirmed** — held below $100 for a third straight session, despite the sharpest Saudi-security escalation yet (Section 7, 10). |
 
-💡 *What it means:* **Fact:** two of four calls settled cleanly again — the equity bounce kept
-extending and oil kept confirming the supply-story read. **Fact:** the two calls that stayed
-open are the two most directly tied to AI-financing risk (CoreWeave credit, semiconductor ETF
-rotation) — neither has resolved in three-plus sessions of watching. **Inference (medium
-confidence):** a credit spread that won't move in either direction for two straight sessions,
-even as equities keep climbing, is itself informative — it suggests the options/equity rally and
-the credit market are simply not reacting to the same inputs right now, not that one is about to
-catch up to the other.
+💡 *What it means:* **Fact:** three of four calls settled cleanly, and the fourth (CoreWeave) moved
+in the direction this brief's "intact" thesis would predict, just not far enough to resolve.
+**Inference (medium confidence):** the pattern holding across a full week now — AI-infra equities
+and oil both behaving as if the underlying stress (financing risk, Hormuz risk) is being priced as
+containable rather than escalating — is a stronger signal than any single day's move, precisely
+because it kept holding through Wednesday's much bigger geopolitical headline (Section 10).
 
-➡️ *What you could do:* Keep the CoreWeave CDS and SMH band as your two live tests; today's
-Tesla/Meta earnings (Section 4, 11) are the most likely single catalyst to finally move one of
-them, in either direction.
+➡️ *What you could do:* Keep the CoreWeave CDS spread as the one genuinely live test left on this
+board — it's the only one of the four that hasn't resolved in either direction after a full week
+of watching.
 
 ---
 
 ## 2. Market Pulse
 
-| Index (proxy) | Tuesday close | Day | Index-level equivalent (via search) |
+| Index (proxy) | Wednesday close | Day | Index-level equivalent (via search) |
 |---|---|---|---|
-| S&P 500 (SPY) | $770.63 | **+0.53%** | 7,712.57, +0.28% |
-| Nasdaq-100 (QQQ) | $721.63 | **+0.46%** | Nasdaq Composite 26,424.82, −0.02% |
-| Dow 30 (DIA) | $524.21 | **+1.01%** | 52,495.88, +1.02% (+529.85 pts) |
-| Russell 2000 (IWM) | $276.00 | **+1.73%** | 2,773.42, +1.65% |
+| S&P 500 (SPY) | $773.22 | **+0.54%** | 7,757.17, +0.6% (+44.60 pts) |
+| Nasdaq-100 (QQQ) | $725.50 | **+1.16%** | Nasdaq Composite 26,702.86, +1.1% (+278.04 pts) |
+| Dow 30 (DIA) | $527.70 | **+0.67%** | 52,856.09, +0.7% (+360.21 pts) |
+| Russell 2000 (IWM) | $276.21 | **+0.15%** | — |
 
-💡 *What it means:* **Fact:** the Dow led on points and the Russell 2000 led on percentage —
-the opposite pattern from Monday, when the Nasdaq led. **Fact (via search):** the Nasdaq-100
-(QQQ, mega-cap tech) rose 0.46% while the broader Nasdaq Composite was flat (−0.02%) — the gain
-was concentrated in a handful of large names, not the index as a whole. **Fact (via search):**
-healthcare (+2.34%, record highs) and the Dow's 3M-driven industrial strength (Section 8) did
-the heavy lifting, while technology (−0.3%), communication services (−0.89%), and energy all
-fell. **Inference (low confidence):** a day where the two "AI trade" proxies (QQQ breadth,
-tech sector) lagged while non-tech cyclicals led is a genuinely different composition than
-Monday's tech-led bounce — worth tracking whether this is rotation *away* from AI names, not
-just *into* non-AI names.
+💡 *What it means:* **Fact:** this was the mirror image of Tuesday — the Nasdaq led on both
+ETF-proxy and index-level terms, and technology/industrials were back in favor (XLK +1.68%, XLI
++0.91%, via search) after a week where staples, energy and healthcare had been the leaders
+(Section 8). **Fact:** small caps (IWM +0.15%) barely participated this time, the opposite of
+Tuesday's small-cap-led session. **Inference (low confidence):** a market that swings from
+"broad, non-tech rally" (Tuesday) to "narrow, mega-cap-earnings-driven rally" (Wednesday) within
+48 hours is still searching for a stable leadership group, not settling into one.
 
-➡️ *What you could do:* Don't extrapolate "stocks are strong" from the Dow's +530-point
-headline — check whether gains are broadening (healthcare, financials, industrials) or still
-concentrated in a shrinking list of names; today's data says broadening, away from tech.
+➡️ *What you could do:* Don't treat either day's leadership pattern as the new regime — track
+whether Thursday's session (after a full night to digest Meta/Tesla/SpaceX earnings) confirms
+tech leadership or snaps back to the defensive/value rotation that dominated the prior two weeks
+(Section 8).
 
 ---
 
 ## 3. Sentiment Gauge
 
-- **VIX: 17.31, −6.13%** (data bundle, Yahoo) — a third straight session of decline (19.99 →
-  18.44/18.07 → 17.31), now comfortably under the 18 threshold this brief has been watching
-  since last week.
-- **AAII: bulls 38.7%, neutral 19.7%, bears 41.6%, spread −2.9%** (week ending October 14, 2026,
-  unchanged via search — this is still the pre-rally reading). AAII publishes every Thursday;
-  the next release (covering the week that includes Monday and Tuesday's two-day bounce) is due
-  **tomorrow, October 22** — not today, correcting this brief's earlier estimate.
-- Bearish sentiment has been above its historical average (31.5%) for 36 straight weeks as of
-  the last reading; the bull-bear spread has been below its historical average (6.5%) for 13
-  straight weeks.
+- **VIX: 16.68, −3.64%** (data bundle, Yahoo) — a fourth straight session of decline, now the
+  calmest reading this brief has tracked in over a month, comfortably under the 18 threshold it's
+  been watching since mid-October.
+- **AAII: bulls 38.7%, neutral 19.7%, bears 41.6%, spread −2.9%** (via search). **Flagging a
+  dating ambiguity rather than resolving it:** these are the exact same figures this brief cited
+  last week for the week ending October 14; the search results returned this week described them
+  as a fresh move ("bullish sentiment decreased 1.5pp... to 38.7%"), which would put them at week
+  ending October 17 instead — but AAII's own site was not independently reachable to confirm
+  which week this reading covers. Either way, this is **not yet** a reading that can have captured
+  Monday–Wednesday's three-session bounce; AAII's next scheduled release should.
+- Bearish sentiment has been above its historical average (31.5%) for multiple straight weeks; the
+  bull-bear spread has stayed below its historical average (6.5%) for an extended stretch.
 
-**Verdict: the options market has now de-escalated for three consecutive sessions while the
-retail-survey measure is still reading the week *before* any of this bounce happened. Thursday's
-AAII print, not today's VIX level, is the next real test of whether sentiment actually follows
-price.**
+**Verdict: the options market (VIX) has now de-escalated for four consecutive sessions while the
+retail-survey measure is still, at best, only partially capturing this week's rally. The next AAII
+print remains the real test of whether retail sentiment follows price or stays structurally
+cautious.**
 
-💡 *What it means:* **Fact:** VIX under 17.31 is a genuinely calm reading by this year's
-standards — well off the 19.99 level from a week ago. **Inference (medium confidence):** if
-Thursday's AAII reading still shows bears outnumbering bulls by a wide margin despite three
-straight up-or-flat sessions and a falling VIX, that would be a real signal that retail investors
-are structurally more cautious than the options market right now, not just lagging it by a few
-days.
+💡 *What it means:* **Fact:** VIX at 16.68 is a genuinely calm reading — down from 19.99 a week and
+a half ago. **Inference (medium confidence):** a VIX this low, sitting alongside a retail survey
+still reading net-bearish, is the same gap this brief flagged last week — it has now persisted
+long enough that it looks less like a lag and more like a real divergence between how options
+traders and individual investors are reading the same tape.
 
-➡️ *What you could do:* Mark Thursday, October 22 for the AAII release — it now carries extra
-weight because it will be the first reading to fully capture this week's two-day bounce.
+➡️ *What you could do:* Treat the next AAII release as higher-signal than usual — if it still shows
+bears outnumbering bulls after four straight VIX declines and three up sessions, that's good
+evidence retail sentiment is structurally, not just temporarily, more cautious than price action.
 
 ---
 
 ## 4. The story that matters most
 
-**Tuesday's rally was explicitly not an AI/tech story — it was led by healthcare, industrials,
-and financials, while the Nasdaq Composite was flat and AI-infrastructure-adjacent names kept
-falling even on a strong index day — and CoreWeave's five-year CDS spread, the market's direct
-price on AI-financing default risk, didn't move at all.**
+**On the same earnings night, Meta raised the floor of its AI capex guidance and popped on
+earnings, Tesla cut its full-year capex guidance by roughly a fifth and fell after hours, and the
+AI-infrastructure equity basket this brief has tracked for two weeks surged across the board —
+while CoreWeave's credit spread, the market's direct price on AI-financing default risk, barely
+moved. Three different parts of the "AI trade" told three different stories within 24 hours.**
 
-**Fact (data bundle, Reuters/CNBC; corroborated via search):** the Dow's +529.85-point (+1.02%)
-gain was driven largely by 3M, which beat Q3 EPS estimates by 12% ($2.50 vs. $2.39 consensus) and
-raised its full-year guidance for the second straight quarter (to $9.10–$9.15 adjusted EPS),
-sending the stock up roughly 4%. **Fact (via search):** healthcare was the single best-performing
-S&P sector (+2.34%, a record high), led by Eli Lilly (+4.7%) and gains of 2%+ in Amgen, Pfizer,
-Johnson & Johnson, and AbbVie — none of them AI-infrastructure names. **Fact (data bundle):**
-meanwhile, AI-infra power and optics names fell on the same day the broad index rose — CEG
-−1.62%, GEV −1.95%, TLN −0.50%, VRT −1.15%, LITE −1.50%. **Fact (via search):** CoreWeave's
-5-year CDS spread held at roughly 1,085bps — statistically unchanged from Monday's ~1,082bps
-and still well inside "distress" territory (>1,000bps, implying a 5-year default probability
-estimated near 60–64%).
+**Fact (via search, corroborated by CNBC/Investing.com/Fortune/StockTitan):** Meta's Q3 revenue
+rose 26% to $64.6B (vs. $63.3B expected); GAAP EPS of $3.83 missed the $5.46 estimate, but that
+miss is entirely explained by a $9.9B one-time legal-settlement charge. Meta narrowed its
+full-year data-center capex range to $135B–$145B, raising the low end from $130B, and guided Q4
+revenue to $73–76B (vs. $73.75B expected). Shares rose roughly 3.8% in initial after-hours
+trading and kept climbing from there (Section 9.5). **Fact (via search, corroborated by
+Electrek/GuruFocus/Stocktwits/Benzinga):** Tesla's Q3 revenue of $28.0B and non-GAAP EPS of $0.48
+both roughly matched or slightly beat estimates, but GAAP net income fell 43% to $787M, and
+management cut full-year capex guidance to roughly $20B from a prior "more than $25B." CEO Elon
+Musk gave cautious commentary on the Optimus robot timeline and declined to give details when
+asked about a potential SpaceX–Tesla merger; shares, which had closed the regular session up
+roughly 3.4%, gave back several percentage points in after-hours trading. **Fact (data bundle):**
+the AI-infra power/cooling/optics basket this brief has tracked for two weeks all rose sharply the
+same day — CEG +4.56%, GEV +4.04%, VRT +4.29%, TLN +2.85%, VST +3.93%, LITE +3.53%, COHR +2.49% —
+reversing the two-session underperformance flagged in Tuesday's brief (Section 10). **Fact (via
+search):** CoreWeave's 5-year CDS spread sits at roughly 1,067–1,082bps, down only modestly from
+~1,085bps and still well inside the >1,000bps distress band.
 
-💡 *What it means:* **Fact:** the index rose for reasons that had nothing to do with AI
-financing, while the names most exposed to that specific risk kept falling. **Inference (medium
-confidence):** this is actually a cleaner read than Monday's — when the broad market's gains are
-coming from healthcare and industrials rather than chips or AI infrastructure, a flat CDS print
-isn't a market shrugging off AI risk; it's a market that simply wasn't pricing AI risk into
-today's move at all. The AI-financing question remains genuinely unresolved, not improving.
+💡 *What it means:* **Fact:** the equity market rewarded the hyperscaler that's spending more on
+AI (Meta) and the AI-infra power/optics basket, while punishing the one name explicitly pulling
+back AI-adjacent capex (Tesla's robotics program) — a clean, if narrow, read that investors are
+currently pricing capex *direction*, not just capex *size*, name by name. **Inference (medium
+confidence):** the fact that CoreWeave's credit spread barely moved while equity investors made
+sharp, divergent bets on individual AI-capex stories suggests the credit market is pricing a
+slower-moving, more structural risk (can AI infrastructure debt actually get repaid) that one
+night of earnings headlines isn't going to resolve either way.
 
-➡️ *What you could do:* Treat today's after-the-close Tesla and Meta earnings (Section 11) —
-not Tuesday's Dow headline — as the next real test. Meta's capital-spending guidance in
-particular (expected to rise roughly 117% year-over-year to around $41B, via search) is the
-single most likely data point to move CoreWeave-adjacent credit and AI-infra power names
-tomorrow.
+➡️ *What you could do:* Don't read Wednesday's AI-infra basket rally as "the financing worry is
+over" — watch Thursday's CoreWeave CDS print specifically; if it stays flat around 1,070–1,085bps
+even as the equity basket keeps rallying, that's the clearest evidence yet that equity risk
+appetite and credit-market risk pricing have genuinely decoupled, not just lagged each other.
 
 ---
 
 ## 5. Big corporate event
 
-**Apple announced new U.S. manufacturing partnerships under its American Manufacturing Program
-(AMP) — Qnity Electronics will produce advanced films for the iPhone 18 Pro's variable-aperture
-camera system, and Perryman Company will supply titanium sourcing (a $100 million investment)
-— as part of Apple's broader $600 billion, four-year U.S. manufacturing commitment.**
+**SpaceX reported a blowout Q3 — revenue up 161% year-over-year to $14.58B, more than $1.6B above
+the $12.9B analysts expected, driven by its "Super Intelligence" AI division, whose revenue grew
+roughly ninefold to $7.56B (from $813M a year ago) and accounted for more than half of quarterly
+sales for the first time. Shares rose nearly 8%, and the company guided Q1 2027 revenue to
+$33–37B against a $22.2B consensus. Separately, Anthropic's IPO clock has now run out its runway:
+no public S-1 has appeared on EDGAR as of this morning, with 143 days elapsed since the June 1
+confidential filing, and the practical deadline for a November 9 roadshow lands tomorrow, Friday,
+October 23.**
 
-**Fact (via search, Apple Newsroom, corroborated by AppleInsider/Neowin):** the announcement
-names Qnity (headquartered in Delaware, a 2026 DuPont electronics spinoff) and Perryman as new
-AMP partners, specifically for iPhone 18 Pro and iPhone Duo component manufacturing. **Fact:**
-this is a continuation of Apple's efforts, announced earlier this year, to diversify
-manufacturing away from a China-concentrated supply chain.
+**Fact (via search, CNBC/Invezz/StocksToTrade):** SpaceX's Super Intelligence (AI/compute)
+segment is now the company's largest single revenue driver by a wide margin, and the market
+capitalization implied by the move is roughly $2.16 trillion. **Fact:** on Tesla's earnings call
+the same evening, Musk declined to elaborate when asked directly about a potential SpaceX–Tesla
+merger (Section 4) — keeping that speculation alive without confirming it. **Fact (via search,
+Yahoo Finance/leverageshares.com):** Anthropic's public S-1 remains missing from EDGAR; SEC rules
+require a public filing at least 15 calendar days before a roadshow begins, which is why tomorrow
+is the practical cutoff for the reported November 9 date to hold without an acknowledged delay.
 
-**Separately, the Anthropic IPO clock keeps ticking.** **Fact (via search):** as of today,
-141 days have passed since Anthropic's confidential June 1, 2026 S-1 submission, and the public
-filing still has not appeared on SEC EDGAR. **Fact (via search):** if the reported November 9
-roadshow date holds, the SEC's 15-calendar-day public-filing rule means the practical deadline
-for the public S-1 to appear is now **Friday, October 23** — two days earlier than this brief's
-prior estimate of October 25.
+💡 *What it means:* **Fact:** SpaceX's AI-compute business is now large and fast-growing enough
+that it's a legitimate second "AI infrastructure" story independent of Nvidia/CoreWeave/hyperscaler
+capex. **Inference (medium confidence):** a merger that folded SpaceX's AI-compute economics into
+Tesla would materially change what "Tesla stock" represents — which may be exactly why Musk keeps
+declining to rule it out even as he delivers cautious news on Tesla's own AI-adjacent (Optimus)
+timeline.
 
-💡 *What it means:* **Fact:** Apple's announcement is incremental supply-chain news, not a
-market-moving catalyst on its own. **Inference (medium confidence):** the Anthropic filing
-window has now compressed to roughly 48 hours from today — if nothing appears on EDGAR by
-Friday, the November 9 roadshow becomes mechanically difficult to hit without a public
-acknowledgment of delay.
-
-➡️ *What you could do:* Check EDGAR directly Thursday or Friday ("Anthropic S-1 site:sec.gov")
-— a filing by Friday keeps November 9 alive; its continued absence past Friday is itself the
-signal that the timeline is slipping, regardless of what any single report claims.
+➡️ *What you could do:* Check EDGAR directly Friday ("Anthropic S-1 site:sec.gov") — a filing by
+end of day keeps the November 9 roadshow mechanically possible; continued absence past Friday is
+itself the signal that the timeline has slipped, independent of any single report's claims.
 
 ---
 
 ## 6. Crypto
 
-- **BTC: $82,718.90 (+1.26%/24h)** — data bundle, Coinbase, live.
-- **ETH: $2,445.66 (+2.00%/24h)** — data bundle, Coinbase, live.
+- **BTC: $82,821.14 (+0.13%/24h)** — data bundle, Coinbase, live.
+- **ETH: $2,439.83 (−0.07%/24h)** — data bundle, Coinbase, live.
 
-💡 *What it means:* **Fact:** crypto rose alongside equities on Tuesday — the first time in four
-sessions this brief has tracked that BTC/ETH moved in the *same* direction as the stock rally,
-breaking the "decoupled" pattern flagged in three of the last four briefs. **Inference (low
-confidence):** one aligned session isn't enough to call the decoupling over; it takes a few more
-same-direction days to say crypto has gone back to trading as a risk-sentiment proxy rather than
-on its own logic.
+💡 *What it means:* **Fact:** crypto was essentially flat while equities rallied meaningfully
+(SPY +0.54%, QQQ +1.16%) — a reversion back to the "decoupled" pattern this brief flagged in three
+of the last five sessions, breaking Tuesday's one-day alignment. **Inference (low confidence):**
+one aligned day followed immediately by a flat one is weak evidence either way; it still takes a
+longer run of same-direction sessions to say crypto has gone back to trading as a risk-sentiment
+proxy.
 
-➡️ *What you could do:* Don't read too much into one day of alignment — keep watching whether
-BTC/ETH keep tracking equities over the next few sessions, or snap back to moving independently
-as they did last week.
+➡️ *What you could do:* Keep watching for a multi-day pattern rather than reacting to any single
+day's BTC/equity correlation — so far this month it has flipped roughly every other session.
 
 ---
 
@@ -183,274 +192,281 @@ as they did last week.
 
 *GLD/SLV/USO are ETF proxies (data bundle); real-futures settle levels below are via search.*
 
-- **Oil, WTI (USO ETF proxy, data bundle): $160.68, −0.11%** — essentially flat.
-- **Oil, WTI (real futures, via search): ~$98** (two sources diverge slightly: $98.41 / $97.84)
-  — held below $100 for a second session, roughly in line with Monday's $98.23 settle.
-- **Oil, Brent (real futures, via search): two sources disagree more than usual — $110.40 vs.
-  $109.29** — call it roughly flat to slightly higher vs. Monday's $107.84; flagging the vendor
-  gap rather than picking a side, the same way this brief has handled VIX discrepancies.
-- **Gold — GLD proxy: $377.99, −0.44%.**
-- **Silver — SLV proxy: $52.125, +1.16%.**
+- **Oil, WTI (USO ETF proxy, data bundle): $159.75, −0.58%.**
+- **Oil, WTI (real futures, via search): $97.15**, down 67 cents — held below $100 for a third
+  straight session.
+- **Oil, Brent (real futures, via search): $108.82**, up 3 cents — essentially flat.
+- **Gold — GLD proxy: $378.98, +0.34%.**
+- **Silver — SLV proxy: $52.26, +0.26%.**
 
-💡 *What it means:* **Fact:** WTI held below $100 for a second straight session even as the
-Strait of Hormuz situation escalated this week (Section 10) — reinforcing that the market is
-currently pricing the supply story, not the war-risk story (Section 1). **Fact:** silver rose
-while gold slipped, a split that doesn't point cleanly to either a safe-haven bid or its absence.
+💡 *What it means:* **Fact:** WTI fell, not just held flat, even as the Strait of Hormuz/Saudi
+Arabia security situation escalated sharply overnight — the US ordered non-emergency diplomats to
+leave Saudi Arabia, and a Houthi-linked attack on King Fahd International Airport in Dammam killed
+one person and injured eight, with a separate drone strike killing two at an oil field (Section
+10). **Fact:** gold and silver both edged higher on the same day — a mild, not emphatic, safe-haven
+signal.
 
-➡️ *What you could do:* Keep WTI's $100 level as the cleanest commodity signal in this table
-(Section 1, 12) — gold and silver are sending mixed, lower-conviction signals right now.
+➡️ *What you could do:* Oil falling into a bigger security escalation, not despite a calm one, is
+the strongest version yet of the "supply resilience over war-risk" read this brief has been
+building for a week (Section 10) — keep WTI's $100 level as the cleanest single commodity signal
+in this table.
 
 ---
 
 ## 8. Sector winners & losers
 
-**Tuesday's session (via search, corroborated by data bundle movers):** a genuinely broad,
-non-tech-led rally — the opposite composition from Monday's narrow chip/storage bounce.
+**Wednesday's session (via search, corroborated by data bundle movers):** a reversal back toward
+technology and AI-infra names after more than a week of defensive leadership.
 
-- **Winners:** Healthcare +2.34% (record high; Eli Lilly +4.7%, Amgen/Pfizer/J&J/AbbVie all
-  +2%+), Financials +1.2%, Industrials (3M +4.14% on its Q3 beat and second-straight guidance
-  raise, pulling the Dow up 529.85 points). Among data-bundle movers: WDC +3.62% (continuing its
-  pre-earnings bounce ahead of Thursday's report), SPCX +4.16%, TSLA +1.79%, MRVL +1.39%, QCOM
-  +1.21%, DLR +1.41%, EQIX +1.22%.
-- **Losers:** Technology −0.3%, Communication services −0.89%, Energy (tracking oil's dip). Among
-  data-bundle movers: GOOGL −1.18%, META −1.66% (both report/are adjacent to tonight's earnings,
-  Section 4, 11), AAPL −0.97%, AMD −0.65%, MSFT −0.30%, NVDA −0.31%, MU −0.22% — and AI-infra
-  names specifically: GEV −1.95%, CEG −1.62%, LITE −1.50%, VRT −1.15%, TLN −0.50%.
-- **Single-stock teaching example (via search):** General Motors beat Q3 EPS estimates
-  ($3.70 vs. estimates, earnings up 32.2%) and beat on revenue ($50.0B vs. $48.7B estimated) —
-  but narrowed its full-year guidance range in a way the market read as cautious, and the stock
-  fell roughly 7% anyway.
+- **Winners:** Technology (XLK +1.68%, via search) and Industrials (XLI +0.91%, via search) led,
+  reversing last week's rotation into Consumer Staples, Energy, and Healthcare. Among data-bundle
+  movers, the AI-infra basket swept higher: CEG +4.56%, GEV +4.04%, VRT +4.29%, TLN +2.85%, VST
+  +3.93%, LITE +3.53%, COHR +2.49%. SpaceX (SPCX) rose +7.46% in the data bundle (some outlets,
+  via search, cite a slightly higher +7.79% close to $159.31 — a modest vendor/tape gap this
+  brief flags rather than resolves) on its earnings beat (Section 5). Also higher: WDC +3.88%
+  (drifting into Thursday's own earnings report, Section 11), NVDA +2.74%, AMD +3.64%, MRVL
+  +1.80%, MU +1.28%, AAPL +1.26%.
+- **Losers:** GOOGL −1.57% was the one notable mega-cap decliner even on a strong AI-infra day —
+  worth tracking into its October 28 earnings report (Section 11). MSFT and AMZN were roughly
+  flat (+0.15%, +0.22%).
+- **Earnings-reaction teaching example:** Meta and Tesla both beat on at least one headline
+  metric Wednesday evening, yet moved in opposite directions after hours — Meta higher on an
+  intact-to-raised capex outlook, Tesla lower on a capex cut and cautious robotics commentary
+  (Section 4). The same "guidance direction over the beat" lesson this brief flagged with GM and
+  3M last week repeated almost exactly.
 
-💡 *What it means:* **Fact:** this was the inverse of Monday's rally — non-AI cyclicals
-(healthcare, industrials, financials) led, while AI-adjacent names (big tech, power infra,
-optics) broadly lagged. **Fact:** GM's drop despite an earnings beat is a clean, teachable
-example of why "did they beat?" is the wrong question — guidance direction moved the stock, not
-the quarter just reported. **Inference (low confidence):** that same dynamic — guidance matters
-more than the beat — is exactly what will be tested tonight with Meta and Tesla (Section 4, 11).
+💡 *What it means:* **Fact:** this was close to a mirror image of the prior week's defensive
+rotation — tech and AI-infra led instead of lagged. **Inference (low confidence):** one strong
+day doesn't undo more than a week of rotation into staples/energy/healthcare; the more informative
+test is whether Thursday and Friday extend Wednesday's leadership or revert again.
 
-➡️ *What you could do:* Going into tonight's Meta and Tesla reports, watch the forward
-guidance/capex commentary, not just whether they beat or miss the current quarter's EPS/revenue
-number — Tuesday's GM reaction is a live example of how much that distinction can matter to the
-stock price.
+➡️ *What you could do:* Watch GOOGL specifically over the next week — it's the one mega-cap AI
+name that fell on an otherwise broad AI-infra rally day, and it reports October 28 alongside
+Microsoft and a cluster of other AI-infra names (Section 11).
 
 ---
 
 ## 9. ETF watch
 
-| ETF | Tuesday close | Day |
+| ETF | Wednesday close | Day |
 |---|---|---|
-| SPY (S&P 500) | $770.63 | +0.53% |
-| QQQ (Nasdaq-100) | $721.63 | +0.46% |
-| IWM (small caps) | $276.00 | +1.73% |
-| DIA (Dow) | $524.21 | +1.01% |
-| SMH (semis) | $546.08 | −0.41% |
-| ARKK (spec growth) | $83.415 | +1.31% |
-| GLD (gold) | $377.99 | −0.44% |
-| IBIT (bitcoin) | $46.69 | +0.86% |
+| SPY (S&P 500) | $773.22 | +0.54% |
+| QQQ (Nasdaq-100) | $725.50 | +1.16% |
+| IWM (small caps) | $276.21 | +0.15% |
+| DIA (Dow) | $527.70 | +0.67% |
+| SMH (semis) | $556.57 | +1.92% |
+| ARKK (spec growth) | $85.46 | +2.45% |
+| GLD (gold) | $378.98 | +0.34% |
+| IBIT (bitcoin) | $47.84 | +2.46% |
 
-💡 *What it means:* **Fact:** small caps (IWM +1.73%) and speculative growth (ARKK +1.31%) both
-outpaced the broad market (SPY +0.53%) — a risk-on signal at the edges even as semis (SMH −0.41%)
-slipped. **Fact:** IBIT rose 0.86% versus spot BTC's +1.26% — a modest tracking gap, consistent
-with ETF premium/discount noise rather than a signal (as flagged previously).
+💡 *What it means:* **Fact:** SMH (+1.92%) and ARKK (+2.45%) both meaningfully outpaced the broad
+market (SPY +0.54%), while small caps (IWM +0.15%) barely moved — the opposite split from
+Tuesday, when small caps and spec growth led while semis lagged. **Fact:** IBIT rose 2.46% versus
+spot BTC's roughly flat +0.13% — a larger-than-usual tracking gap, though still consistent with
+ETF premium/discount noise rather than a signal.
 
-➡️ *What you could do:* Small caps and spec growth both outperforming while semis lag is worth
-watching as a possible "broadening beyond mega-cap tech" signal — but one session isn't a trend;
-check whether IWM and ARKK keep leading over the next few days.
+➡️ *What you could do:* SMH's reclaim of $555 (Section 1) shows up clearly here — if it holds
+above that level through Thursday and Friday, treat the "semi rotation is over" read as confirmed
+rather than one session old.
 
 ---
 
 ## 9.5 What the headlines missed
 
-**What the headlines said:** Tuesday's coverage (via search — Reuters, Yahoo Finance, Benzinga)
-led with "Dow surges nearly 530 points" and framed the session as broad market strength, citing
-healthcare's record highs and a wave of earnings beats.
+**What the headlines said:** Wednesday evening's Meta coverage (via search — CNBC, Investing.com,
+StockTitan) led with "Meta beats Q3 estimates as AI push lifts shares," emphasizing the 26%
+revenue beat, strong Q4 guidance, and a post-earnings stock pop.
 
-**What the sector data actually says:** three of the S&P 500's eleven sectors fell on the same
-day the index rose — technology (−0.3%), communication services (−0.89%), and energy — and the
-specific names most exposed to the AI-financing story this brief has tracked all week (CEG, GEV,
-TLN, VRT, LITE) were all negative. Separately, CoreWeave's 5-year CDS spread — the market's
-direct price on AI-financing default risk — held at roughly 1,085bps, unchanged from Monday.
+**What the filing actually says:** Meta's GAAP earnings per share came in at $3.83 against a
+$5.46 consensus estimate — a real, sizable miss on the headline profit metric, not just a rounding
+gap. The explanation offered (a $9.9 billion one-time legal-settlement charge) is accurate, but a
+separate analysis of the filing (via search, FourWeekMBA) notes that capital expenditure continued
+to outrun operating cash generation this quarter, a trend that predates the settlement charge and
+is the mechanical reason free cash flow has been shrinking even as revenue grows.
 
-**The gap:** "the Dow surged" is accurate but describes a cap-weighted, 30-stock index moved
-heavily by one name's earnings reaction (3M, Section 4, 8); it doesn't describe a market where
-most sectors participated, or where the specific AI-financing risk this brief has been tracking
-showed any improvement. A reader seeing only the headline would reasonably conclude "AI-related
-worries are fading" — the sector and credit data underneath says that specific worry didn't move
-either way on Tuesday.
+**The gap:** both things are true at once — revenue and forward guidance genuinely beat, and GAAP
+profit genuinely missed while the capex-vs-cash gap widened. A headline built entirely around the
+non-GAAP "beat" framing and the stock's after-hours pop tells a reader the quarter was
+unambiguously clean; the GAAP number and the cash-flow trend underneath say the AI-spending
+pressure on free cash flow — the same pressure this brief has been tracking through CoreWeave's
+credit spread — didn't improve this quarter either, it just got a convenient one-time explanation
+for the headline number that obscures it.
 
-💡 *What it means:* **Fact:** both things are true at once — the Dow did rise 529.85 points, and
-AI-financing risk indicators were flat, not improving. **The gap is in framing, not fabrication:**
-an index-level headline, read without the sector breakdown, implies more breadth than the
-session actually had.
+💡 *What it means:* **Fact:** Meta's stock rose for reasons that are accurate but incomplete —
+investors responded to the ad-revenue strength and raised capex floor, which is real good news,
+while the GAAP miss and the capex-vs-cash trend got far less attention. **The gap is in framing,
+not fabrication:** a "beat" headline, read without the GAAP/cash-flow detail, implies more
+unambiguous strength than the full filing shows.
 
-➡️ *What you could do:* When a headline cites the Dow or S&P level alone, check the sector
-breakdown (Section 8) before concluding "the market" moved on any particular story — Tuesday's
-gain and Monday's gain were driven by almost entirely different groups of stocks.
+➡️ *What you could do:* When a mega-cap "beat" headline follows a one-time charge explanation,
+check the GAAP number specifically and whether capex is still outrunning operating cash flow —
+that pairing is a more direct read on AI-financing sustainability than the adjusted EPS print
+reporters lead with.
 
 ---
 
 ## 10. Connect the Dots *(most speculative — facts flagged, inferences flagged)*
 
-**Thread one (AI-infra names underperforming even on green index days) — for two straight
-sessions now, the names most directly tied to AI-financing risk (CoreWeave's CDS, and the data
-bundle's power/optics basket: CEG, GEV, TLN, VRT, LITE) have either stayed flat or fallen, while
-the broad index rallied for reasons unrelated to AI (Section 4, 8).** **Fact:** this is a
-consistent pattern across two different rally compositions (Monday's chip-upgrade bounce, 
-Tuesday's healthcare/industrials bounce). **Inference (medium confidence):** when the same group
-of names underperforms regardless of what's driving the broader rally, that's a stronger signal
-of genuine, specific weakness in that group than a single day's divergence would be — worth
-tracking as its own thread independent of whatever story is driving the index that day.
+**Thread one (AI-infra equities reverse their two-session underperformance, credit doesn't move)
+— for two sessions this brief flagged the AI-infra power/optics basket (CEG, GEV, TLN, VRT, LITE)
+underperforming even on green index days (Section 4, prior briefs); Wednesday that pattern broke
+hard, with every name in the basket up 2.5%–4.6% on the same day CoreWeave's CDS spread moved only
+modestly (Section 1, 4).** **Fact:** this is the sharpest one-day reversal of that pattern this
+brief has recorded. **Inference (medium confidence):** a reversal this clean, on a day with no
+CoreWeave-specific news, looks more like broad risk-on flow into the AI-infra equity trade than a
+resolution of the underlying financing question — the credit market, which hasn't moved, is the
+better tell of whether anything actually changed.
 
-**Thread two (Hormuz escalation vs. falling oil, now with harder numbers) — 23 attacks on
-shipping have been recorded in the Strait of Hormuz since the start of October (via search,
-military-institute tracking), nearly double the average monthly rate since the war began, and
-two tanker explosions were reported this week alone — yet WTI held below $100 for a second
-straight session (Section 1, 7).** **Fact (via search):** despite the attack rate, Gulf oil
-exports excluding Iran have recovered to more than 81% of pre-war levels as of September. **Fact:**
-oil is falling in the face of rising attack frequency, not despite calm. **Inference (medium
-confidence):** this resolves last week's open question more concretely than before — the market
-isn't pricing Hormuz risk as *lower*, it's pricing Gulf supply as *resilient enough to route
-around it*, which is a different and more durable reason for oil to stay below $100 than a bet
-on imminent de-escalation would be.
+**Thread two (Musk's two AI stories move in opposite directions the same night) — SpaceX's
+AI-compute division posted a blowout quarter and the stock popped nearly 8%, while Tesla cut AI-
+adjacent (Optimus/robotics) capex guidance and fell after hours, with Musk declining to rule out a
+SpaceX–Tesla merger on the call (Section 4, 5).** **Fact:** both events happened within hours of
+each other and both are Musk-run companies. **Inference (low confidence):** if a merger discussion
+is genuinely live, it would let Tesla's valuation absorb some of SpaceX's AI-compute growth
+without SpaceX going through its own public listing process — which is a plausible reason Musk
+keeps leaving the door open rather than shutting it down, though this brief has no evidence beyond
+the fact that he was asked directly and didn't answer.
 
-**Thread three (Anthropic's IPO clock, now with a harder deadline) — 141 days since the
-confidential June 1 filing, with the practical EDGAR deadline for a November 9 roadshow now
-compressed to this Friday, October 23 (Section 5).** **Fact:** the 15-day pre-roadshow rule is a
-hard regulatory requirement. **Inference (low confidence):** two trading days without a public
-filing is a much tighter window than "sometime before Oct 25" — this is close to the point where
-silence itself becomes the news.
+**Thread three (Hormuz/Saudi escalation vs. falling oil, now with the sharpest escalation yet) —
+the US ordered non-emergency diplomats out of Saudi Arabia and a Houthi-linked strike killed one
+person at a major civilian airport, with a separate drone attack killing two at an oil field
+(Section 7, 10), yet WTI fell to $97.15, not merely held flat.** **Fact:** this is a materially
+larger security escalation than the attack-rate data this brief cited last week. **Inference
+(medium confidence):** oil falling on the week's worst Gulf security headline is the strongest
+version yet of the "market is pricing supply resilience, not de-escalation" read — if a
+geopolitical shock this size can't move WTI above $100, it would take a direct hit to actual
+export volumes, not just attack headlines, to break that pattern.
 
-**Thread four (GM vs. 3M — guidance over the beat) — both companies beat Q3 estimates Tuesday;
-one stock rose 4%, the other fell 7%, purely on the direction of forward guidance (Section 8).**
-**Fact:** this is a clean, repeatable pattern this earnings season. **Inference (medium
-confidence):** apply the same lens to tonight's Tesla and Meta reports — the headline EPS/revenue
-beat-or-miss will matter far less to the stock reaction than what each company says about capex
-and demand going forward.
+**Thread four (Anthropic's IPO clock reaches its last day) — 143 days since the June 1
+confidential filing, with the practical EDGAR deadline for a November 9 roadshow now arriving
+tomorrow, Friday, October 23 (Section 5).** **Fact:** the 15-day pre-roadshow rule is a hard
+regulatory requirement, not a convention. **Inference (low confidence):** Friday is the point
+where this stops being "still ticking" and starts being "either filed or acknowledged as delayed."
 
-💡 *What it means:* **Fact:** of four threads, one (AI-infra underperformance) sharpened into a
-two-day pattern independent of the day's broader narrative; one (oil/Hormuz) resolved toward a
-more durable explanation (supply resilience, not de-escalation); one (Anthropic) is now a
-48-hour countdown; and one (GM/3M) is a reusable lens for tonight's earnings. **Inference (medium
-confidence):** Thread one and Thread four both point to the same place — tonight's Meta and
-Tesla guidance commentary is this week's single highest-information event.
+💡 *What it means:* **Fact:** of four threads, one (AI-infra equities) reversed sharply without
+its companion credit signal moving; one (Musk's two companies) produced a genuinely odd same-night
+divergence worth watching for a merger headline; one (oil/Hormuz) just passed its toughest test
+yet and still held; and one (Anthropic) resolves one way or another within 24 hours. **Inference
+(medium confidence):** Thread one and Thread four both point to the same lesson — a single strong
+day (equities) or a single hard deadline (Anthropic) tells you less than whether the pattern
+repeats or the deadline actually gets met.
 
-➡️ *What you could do:* Going into tonight's close, prioritize watching for: (1) any move in
-CoreWeave's CDS spread tomorrow, (2) Meta's capex guidance number specifically, over its EPS
-print.
+➡️ *What you could do:* Prioritize two checks Thursday/Friday: (1) whether CoreWeave's CDS spread
+moves at all following Wednesday's AI-infra equity surge, and (2) whether Anthropic's S-1 actually
+appears on EDGAR before Friday's close.
 
 ---
 
 ## 11. Week / day ahead
 
-- **Wed, Oct 21 (today)** — **Tesla (TSLA)** and **Meta (META)** report Q3 earnings after market
-  close (data bundle calendar: TSLA EPS estimate ~$0.44/revenue ~$28.44B; META EPS estimate
-  ~$6.00/revenue ~$64.69B — note, a separate consensus cited via search put META's EPS estimate
-  at ~$3.56/revenue ~$63.3B, a meaningful vendor gap this brief flags rather than resolves; use
-  the data bundle figure as the baseline and expect the actual print to be compared against
-  whichever consensus the reporting outlet uses). Tesla's call is at 5:30pm ET.
-- **Thu, Oct 22** — **Western Digital (WDC)** Q1 FY2027 earnings after market close (EPS estimate
-  ~$4.11/revenue ~$4.17B, data bundle). **AAII's next sentiment reading** is also due (Section 3)
-  — the first to capture this week's bounce.
-- **Fri, Oct 23** — Anthropic's practical EDGAR deadline for a public S-1, if the reported
-  November 9 roadshow is to proceed on schedule (Section 5, 10).
+- **Thu, Oct 22 (today)** — **Western Digital (WDC)** reports Q1 FY2027 earnings after market
+  close (EPS estimate ~$4.11/revenue ~$4.17B, data bundle calendar). **Initial jobless claims**
+  (forecast 200K, prior 199K) and continuing claims (forecast 1,720K, prior 1,710K) release at
+  8:30am ET (via search) — filling today's gap in the data bundle's economic calendar.
+- **Fri, Oct 23** — **S&P Global flash PMIs** (Services forecast 58.0, prior 58.8; Manufacturing
+  forecast 55.5, prior 55.9) release at 9:45am ET (via search) — both comfortably in expansion
+  territory if they hold. Also the practical deadline for Anthropic's public S-1 to appear on
+  EDGAR if the reported November 9 roadshow is to proceed on schedule (Section 5, 10).
 - **Tue–Wed, Oct 27–28** — **FOMC meeting**, decision due 2:00pm ET October 28. The Fed remains in
   its pre-meeting blackout period; no Fed speakers scheduled this week.
 - **Wed, Oct 28** — **Equinix (EQIX)**, **GE Vernova (GEV)**, **Alphabet (GOOGL)**, **Microsoft
   (MSFT)**, and **Vertiv (VRT)** all report earnings (data bundle calendar) — a cluster of
   AI-infrastructure-relevant names reporting the same day as the FOMC decision.
-- **Thu, Oct 29** — **Core PCE inflation** (September), advance Q3 GDP, and September
-  income/spending data, all due 8:30am ET (via search, carried forward) — the week's actual
-  macro-data cluster.
+- **Thu, Oct 29** — **Amazon (AMZN)** and **Digital Realty (DLR)** report earnings (data bundle
+  calendar); **Core PCE inflation** (September) and advance Q3 GDP are also expected around this
+  date (via search, carried forward from last week).
 - **Mon, Nov 9** — Anthropic's investor roadshow reportedly set to launch (Section 5, 10).
 
-💡 *What it means:* **Fact:** tonight's Tesla/Meta reports are the nearest catalyst, but next
-Wednesday (Oct 28) stacks five earnings reports — several of them directly AI-infra-relevant —
-on the same day as the FOMC decision, making it the week's single most information-dense trading
-day. **Inference (low confidence):** the gap between today and October 28 is mostly about
-whether tonight's results confirm or complicate the "AI-financing risk unresolved" read from
-Section 4 before the bigger cluster hits.
+💡 *What it means:* **Fact:** the week's next 48 hours (Thursday claims data, Friday PMIs and the
+Anthropic deadline) are lower-drama than Wednesday's earnings but still meaningful; the real
+cluster is still October 28, when five earnings reports — several directly AI-infra-relevant —
+land on the same day as the FOMC decision. **Inference (low confidence):** if Thursday's jobless
+claims print near the 200K forecast and Friday's PMIs hold near 58/55.5, that's a "no landing"
+labor-and-activity signal heading into the Fed meeting, which would argue for a hawkish-leaning
+read if the Fed cites it.
 
-➡️ *What you could do:* Treat tonight after the close as the immediate event and October 28 as
-the week's bigger one — plan around both rather than treating today's earnings as the full
-resolution of this week's AI-capex questions.
+➡️ *What you could do:* Treat Friday's Anthropic deadline and Thursday's WDC earnings as this
+week's remaining near-term catalysts, and keep October 28 circled as the week's single highest-
+information trading day.
 
 ---
 
 ## 12. Bottom line
 
-Tuesday gave this brief its clearest look yet at what an AI-unrelated rally looks like: the Dow
-rose 529.85 points on 3M's earnings beat and guidance raise, healthcare hit record highs, and
-small caps and speculative growth outperformed — while technology, communication services, and
-energy all fell, AI-infrastructure power and optics names (CEG, GEV, TLN, VRT, LITE) kept
-underperforming for a second straight session, and CoreWeave's CDS spread sat exactly where it
-was Monday, still deep in distress territory. Oil held below $100 for a second session despite a
-sharp escalation in Strait of Hormuz attacks this week — a pattern that increasingly looks like
-Gulf supply resilience (exports at 81%+ of pre-war levels) rather than any easing of the
-underlying conflict. General Motors' earnings reaction — beating estimates but falling 7% on
-guidance — is a clean preview of what to watch tonight, when Tesla and Meta report after the
-close; their capex and demand commentary, not their headline EPS prints, will be the real test of
-whether the "AI-financing risk unresolved" read from Sections 4 and 10 gets confirmed or
-complicated this week. Separately, Anthropic's IPO clock has compressed to a two-trading-day
-window: a public S-1 needs to appear on EDGAR by Friday for the reported November 9 roadshow to
-hold.
+Wednesday was the clearest example yet of the AI trade splitting into pieces that moved in
+different directions on the same news cycle: Meta raised its AI-capex floor and popped on
+earnings (even while missing GAAP EPS on a one-time charge, Section 9.5); Tesla cut its own
+AI-adjacent capex guidance and fell after hours; SpaceX's AI-compute division delivered a blowout
+quarter that popped the stock nearly 8%; the AI-infra power/optics equity basket surged across the
+board, reversing two sessions of underperformance; and CoreWeave's credit spread — this brief's
+most direct gauge of AI-financing stress — barely moved through all of it. Separately, oil fell to
+$97.15 even as the week's sharpest Gulf security escalation yet unfolded (non-emergency US
+diplomats ordered out of Saudi Arabia, a deadly strike on a civilian airport), reinforcing the
+"supply resilience, not de-escalation" read this brief has built over the past week. Anthropic's
+IPO clock reaches its last practical day for a November 9 roadshow tomorrow. None of the four
+"Levels to watch" from Wednesday's brief are still fully open except CoreWeave's credit spread,
+which remains the one genuinely unresolved thread on this board after a full week of watching.
 
-**What I'd watch:** (1) **Meta and Tesla's earnings reaction tonight after the close** —
-specifically capex/demand guidance over the EPS beat-or-miss itself (Sections 4, 8, 10, 11).
-(2) **CoreWeave's next CDS print** — two sessions flat at ~1,085bps; a move either toward 1,000
-or back toward the 1,194.5bps record would be the first real signal since last Thursday (Sections
-1, 4, 10). (3) **SMH's close against the $535/$555 band** — still unresolved after three sessions
-(Sections 1, 9). (4) **Whether Anthropic's public S-1 appears on EDGAR by Friday, October 23**
-(Sections 5, 10, 11).
+**What I'd watch:** (1) **CoreWeave's next CDS print** — now the single longest-running open
+question on this board; a move either toward 1,000bps or back toward the 1,194.5bps record would
+be the first real signal in over a week (Sections 1, 4, 10). (2) **Whether Thursday/Friday extend
+Wednesday's tech/AI-infra leadership or revert to the prior week's defensive rotation** (Sections
+2, 8). (3) **Whether Anthropic's public S-1 appears on EDGAR by Friday, October 23** (Sections 5,
+10, 11). (4) **Any SpaceX–Tesla merger headline**, given Musk's non-answer on Tesla's earnings call
+(Sections 4, 5, 10).
 
 **Levels to watch:**
-- **Meta's capex guidance for Q4/2027 — at or above the ~117% YoY increase (~$41B) consensus
-  expects (says AI-infra spending confidence is intact) vs. a slowdown or hedge in that language
-  (says the financing-stress thread in Sections 4, 10 is spreading to the hyperscalers
-  themselves).** Reported tonight after the close. Sections 4, 11.
 - **CoreWeave 5-year CDS spread — tightening below 1,000bps vs. widening back toward the
-  1,194.5bps record.** Currently ~1,085bps, unchanged for two sessions. Sections 1, 4, 10.
-- **SMH (semiconductor ETF) — reclaiming $555 vs. breaking back below $535.** Currently $546.08.
-  Sections 1, 8, 9.
-- **WTI crude — holding below $100 vs. reclaiming above $100.** Currently ~$98. Sections 1, 7, 10.
+  1,194.5bps record.** Currently ~1,067–1,082bps, little-changed for over a week. Sections 1, 4, 10.
+- **SMH (semiconductor ETF) — holding above $555 vs. slipping back below it.** Currently $556.57,
+  just reclaimed Wednesday. Sections 1, 8, 9.
+- **WTI crude — holding below $100 vs. reclaiming above $100.** Currently $97.15, holding despite
+  this week's sharpest Gulf escalation. Sections 1, 7, 10.
+- **GOOGL — whether Wednesday's lone mega-cap decline (−1.57%) extends into its October 28
+  earnings report or proves to be one-day noise.** Currently $334.72 (data bundle). Sections 8, 11.
 
 ---
 
 ### Glossary
 - **Credit default swap (CDS)** — a financial contract that pays out if a borrower defaults; its
   spread (in basis points) is the market's real-time estimate of default risk. CoreWeave's hit a
-  record ~1,194.5 basis points on October 15 and has sat around ~1,082–1,085bps for two straight
-  sessions, both implying a 60–64% estimated probability of default within five years (Sections
-  1, 4, 10, 12).
+  record ~1,194.5bps on October 15 and has held in the ~1,067–1,085bps range for over a week, still
+  implying an elevated estimated probability of default within five years (Sections 1, 4, 10, 12).
 - **Basis point** — one-hundredth of a percentage point (100 basis points = 1%); used to quote
-  credit spreads and bond yields precisely (Sections 1, 4, 10, 12).
+  credit spreads precisely (Sections 1, 4, 10, 12).
 - **VIX** — the "fear gauge"; the options market's expectation of S&P 500 volatility over the next
-  30 days. Below 16 = calm; above 22 is a multi-month high. Currently 17.31, down for a third
+  30 days. Below 16 = calm; above 22 is a multi-month high. Currently 16.68, down for a fourth
   straight session (Section 3).
 - **AAII survey** — a weekly poll of individual (retail) investors on bullish/bearish sentiment;
-  the bull-bear spread (bulls minus bears) is the standard summary metric. Published every
-  Thursday. Currently −2.9% (week ending October 14); next reading due Thursday, October 22
+  the bull-bear spread (bulls minus bears) is the standard summary metric. Currently −2.9% in the
+  most recent reading, though this brief flagged a dating ambiguity on which week it covers
   (Section 3).
 - **S-1 filing** — the registration document a company files with the SEC to go public; a
   confidential draft can differ materially from the public version eventually filed. Securities
   rules require the public version to be on file at least 15 days before a roadshow begins
   (Sections 5, 10, 11).
 - **Capex (capital expenditure)** — spending on physical infrastructure (data centers, chips,
-  servers); the figure markets watch most closely from hyperscalers like Meta to gauge AI
-  investment confidence (Sections 4, 11, 12).
+  servers, robotics programs); the figure markets watch most closely from AI-exposed companies to
+  gauge investment confidence or retrenchment (Sections 4, 5, 9.5, 11, 12).
+- **GAAP vs. non-GAAP earnings** — GAAP is the standardized accounting measure; non-GAAP/adjusted
+  figures exclude items companies deem one-time or non-operational (like Meta's legal-settlement
+  charge this quarter). Both can be accurate; which one a headline leads with can change the
+  story's framing (Section 9.5).
 
 ---
 
-*Sources: price/volatility data — Alpaca (equities/ETFs, Tuesday, October 20's completed close),
-Coinbase (crypto, live), Yahoo Finance (VIX), Finnhub (earnings calendar), via the project data
-bundle. Index-level closes and sector moves — Reuters, CNBC, Business Recorder/GV Wire, 247WallSt,
-via search. Oil settles (real futures) — Investing.com, CNBC, via search. AAII sentiment — AAII
-Investor Sentiment Survey, via search. CoreWeave CDS — X/Global Markets Investor, KuCoin News,
-CNBC, via search. 3M earnings — Alpha Spread, Benzinga, SEC 8-K, Seeking Alpha, 247WallSt, via
-search. GM earnings — KuCoin News, GuruFocus, Benzinga, SEC 8-K, via search. Tesla/Meta earnings
-previews — Electrek, Yahoo Finance, MarketBeat, via search. Apple/Qnity — Apple Newsroom,
-AppleInsider, GuruFocus, Neowin, via search. Anthropic — via search. Strait of Hormuz — Washington
-Post, United Against Nuclear Iran, CBS News, via search. Economic calendar — via search (data
-bundle's endpoint returned 403, premium-only). Not financial advice; this brief places no trades.*
+*Sources: price/volatility data — Alpaca (equities/ETFs, Wednesday, October 21's close and early
+after-hours), Coinbase (crypto, live), Yahoo Finance (VIX), Finnhub (earnings calendar), via the
+project data bundle. Index-level closes and sector moves — AP/Washington Post, CNBC, Yahoo Finance,
+247WallSt, via search. Oil settles (real futures) — CNBC, via search. AAII sentiment — AAII
+Investor Sentiment Survey (via search, dating ambiguity flagged in Section 3). CoreWeave CDS —
+CNBC, Yahoo Finance, Longbridge, via search. Meta earnings — CNBC, Investing.com, Fortune,
+StockTitan, TradingKey, FourWeekMBA, via search. Tesla earnings — Electrek, GuruFocus, Stocktwits,
+Benzinga, Investing.com, DriveTeslaCanada, via search. SpaceX earnings — CNBC, Invezz,
+StocksToTrade, via search. Anthropic — Yahoo Finance, leverageshares.com, via search. Saudi
+Arabia/Houthi escalation — U.S. Embassy Riyadh security alert, Japan Times, US News, Global News,
+via search. Economic calendar — Investing.com, via search (data bundle's endpoint returned 403,
+premium-only). Not financial advice; this brief places no trades.*
 
 ---
 
@@ -458,6 +474,7 @@ bundle's endpoint returned 403, premium-only). Not financial advice; this brief 
 
 | Date | Brief |
 |---|---|
+| 2026-10-22 | [open](briefs/brief_2026-10-22.md) |
 | 2026-10-21 | [open](briefs/brief_2026-10-21.md) |
 | 2026-10-20 | [open](briefs/brief_2026-10-20.md) |
 | 2026-10-19 | [open](briefs/brief_2026-10-19.md) |
